@@ -4,6 +4,12 @@
 
 Perfis de cada pessoa citada: [personagens.md](personagens.md).
 
+## Mapa das relações e do peso das provas
+
+[![Mapa das relações do caso Master](mapa/mapa_relacoes.png)](mapa/mapa_relacoes.png)
+
+Cada linha é uma relação documentada nas seções abaixo. **Cor = status**: vermelho [I], indício documentado de ilegalidade ou inquérito formal com prova material; amarelo [S], suspeito (conflito de interesse, alegação sem corroboração, omissão sem explicação); verde [L], ato lícito dentro da função; cinza, vínculo sem status. **Espessura = peso da prova**: grossa, prova material; média, relato documentado; fina tracejada, alegação de parte interessada. A etiqueta [I]/[S]/[L] acompanha cada linha para o significado não depender só da cor. Versão vetorial: [mapa/mapa_relacoes.svg](mapa/mapa_relacoes.svg); gerador: [mapa/gen_mapa.py](mapa/gen_mapa.py). Ninguém no mapa foi condenado por nada relacionado ao caso.
+
 Dossiê neutro, montado por consulta à imprensa em 04/09/2026. Não é peça de campanha nem toma partido. Onde as fontes divergem, a divergência está anotada. Onde algo é alegação (não fato apurado), está marcado como tal. Todas as fontes estão listadas ao final.
 
 ---

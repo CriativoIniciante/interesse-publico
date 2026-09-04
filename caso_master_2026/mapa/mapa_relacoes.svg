@@ -1,0 +1,208 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2100" height="1600" viewBox="0 0 2100 1600" font-family="Segoe UI, Inter, Arial, sans-serif">
+<rect width="2100" height="1600" fill="#fcfcfb"/>
+<text x="40" y="52" font-size="32" font-weight="700" fill="#0b0b0b">Caso Master: quem se liga a quem, e com que peso de prova</text>
+<text x="40" y="82" font-size="16" fill="#52514e">Estado em 04/09/2026 · ninguém foi condenado · cada linha é checável em github.com/CriativoIniciante/interesse-publico (caso_master_2026)</text>
+<rect x="60" y="250" width="560" height="880" rx="14" fill="#f1f1ee" stroke="#e0dfd9"/>
+<text x="74" y="274" font-size="13" font-weight="700" letter-spacing="1" fill="#52514e">SUPREMO TRIBUNAL FEDERAL</text>
+<rect x="860" y="110" width="920" height="330" rx="14" fill="#f1f1ee" stroke="#e0dfd9"/>
+<text x="874" y="134" font-size="13" font-weight="700" letter-spacing="1" fill="#52514e">PGR E POLÍCIA FEDERAL</text>
+<rect x="1440" y="480" width="620" height="555" rx="14" fill="#f1f1ee" stroke="#e0dfd9"/>
+<text x="1454" y="504" font-size="13" font-weight="700" letter-spacing="1" fill="#52514e">CONGRESSO, EXECUTIVO E BANCO CENTRAL</text>
+<rect x="340" y="1170" width="840" height="360" rx="14" fill="#f1f1ee" stroke="#e0dfd9"/>
+<text x="354" y="1194" font-size="13" font-weight="700" letter-spacing="1" fill="#52514e">CAMPO BOLSONARO · DARK HORSE</text>
+<rect x="1240" y="1070" width="840" height="460" rx="14" fill="#f1f1ee" stroke="#e0dfd9"/>
+<text x="1254" y="1094" font-size="13" font-weight="700" letter-spacing="1" fill="#52514e">FRENTE DO INSS (mesmo relator)</text>
+<path d="M1000,760 Q665.0,375.0 330,330" fill="none" stroke="#d03b3b" stroke-width="6" stroke-linecap="round" opacity="0.92"/>
+<path d="M1000,760 Q665.0,640.0 330,520" fill="none" stroke="#d03b3b" stroke-width="6" stroke-linecap="round" opacity="0.92"/>
+<path d="M330,520 Q330.0,425.0 330,330" fill="none" stroke="#9a9990" stroke-width="2" stroke-linecap="round" opacity="0.92" stroke-dasharray="9 7"/>
+<path d="M740,430 Q870.0,595.0 1000,760" fill="none" stroke="#fab219" stroke-width="4" stroke-linecap="round" opacity="0.92"/>
+<path d="M1000,760 Q665.0,700.0 330,700" fill="none" stroke="#fab219" stroke-width="4" stroke-linecap="round" opacity="0.92"/>
+<path d="M740,250 Q860.0,225.0 980,200" fill="none" stroke="#fab219" stroke-width="4" stroke-linecap="round" opacity="0.92"/>
+<path d="M1000,760 Q870.0,505.0 740,250" fill="none" stroke="#9a9990" stroke-width="2" stroke-linecap="round" opacity="0.92" stroke-dasharray="9 7"/>
+<path d="M1000,760 Q1250.0,480.0 1300,200" fill="none" stroke="#fab219" stroke-width="4" stroke-linecap="round" opacity="0.92"/>
+<path d="M1000,760 Q665.0,900.0 330,900" fill="none" stroke="#fab219" stroke-width="4" stroke-linecap="round" opacity="0.92"/>
+<path d="M330,900 Q665.0,760.0 1000,760" fill="none" stroke="#0ca30c" stroke-width="6" stroke-linecap="round" opacity="0.92"/>
+<path d="M660,990 Q495.0,945.0 330,900" fill="none" stroke="#9a9990" stroke-width="2" stroke-linecap="round" opacity="0.92" stroke-dasharray="9 7"/>
+<path d="M330,520 Q100.0,710.0 330,900" fill="none" stroke="#fab219" stroke-width="4" stroke-linecap="round" opacity="0.92"/>
+<path d="M980,200 Q325.0,430.0 330,900" fill="none" stroke="#fab219" stroke-width="4" stroke-linecap="round" opacity="0.92"/>
+<path d="M1300,200 Q1300.0,285.0 1300,370" fill="none" stroke="#fab219" stroke-width="4" stroke-linecap="round" opacity="0.92"/>
+<path d="M1300,370 Q815.0,525.0 330,520" fill="none" stroke="#fab219" stroke-width="4" stroke-linecap="round" opacity="0.92"/>
+<path d="M1640,200 Q1640.0,285.0 1640,370" fill="none" stroke="#d03b3b" stroke-width="4" stroke-linecap="round" opacity="0.92"/>
+<path d="M1300,200 Q950.0,480.0 1000,760" fill="none" stroke="#0ca30c" stroke-width="6" stroke-linecap="round" opacity="0.92"/>
+<path d="M180,1070 Q255.0,985.0 330,900" fill="none" stroke="#0ca30c" stroke-width="4" stroke-linecap="round" opacity="0.92"/>
+<path d="M1000,760 Q1450.0,570.0 1900,560" fill="none" stroke="#fab219" stroke-width="2" stroke-linecap="round" opacity="0.92" stroke-dasharray="9 7"/>
+<path d="M1900,560 Q1115.0,450.0 330,520" fill="none" stroke="#fab219" stroke-width="4" stroke-linecap="round" opacity="0.92"/>
+<path d="M1000,760 Q1450.0,740.0 1900,720" fill="none" stroke="#d03b3b" stroke-width="6" stroke-linecap="round" opacity="0.92"/>
+<path d="M1290,600 Q1595.0,660.0 1900,720" fill="none" stroke="#fab219" stroke-width="4" stroke-linecap="round" opacity="0.92"/>
+<path d="M1000,760 Q1145.0,680.0 1290,600" fill="none" stroke="#9a9990" stroke-width="2" stroke-linecap="round" opacity="0.92" stroke-dasharray="9 7"/>
+<path d="M1000,760 Q1450.0,780.0 1900,880" fill="none" stroke="#d03b3b" stroke-width="6" stroke-linecap="round" opacity="0.92"/>
+<path d="M1000,760 Q1280.0,700.0 1560,640" fill="none" stroke="#fab219" stroke-width="4" stroke-linecap="round" opacity="0.92"/>
+<path d="M1000,760 Q1280.0,830.0 1560,900" fill="none" stroke="#d03b3b" stroke-width="6" stroke-linecap="round" opacity="0.92"/>
+<path d="M1000,760 Q1400.0,1000.0 1800,1000" fill="none" stroke="#fab219" stroke-width="4" stroke-linecap="round" opacity="0.92"/>
+<path d="M1000,760 Q990.0,1015.0 860,1270" fill="none" stroke="#d03b3b" stroke-width="6" stroke-linecap="round" opacity="0.92"/>
+<path d="M860,1270 Q690.0,1305.0 520,1340" fill="none" stroke="#fab219" stroke-width="4" stroke-linecap="round" opacity="0.92"/>
+<path d="M1000,760 Q1075.0,1120.0 1030,1480" fill="none" stroke="#fab219" stroke-width="2" stroke-linecap="round" opacity="0.92" stroke-dasharray="9 7"/>
+<path d="M330,900 Q595.0,1085.0 860,1270" fill="none" stroke="#0ca30c" stroke-width="4" stroke-linecap="round" opacity="0.92"/>
+<path d="M480,1070 Q580.0,1275.0 680,1480" fill="none" stroke="#0ca30c" stroke-width="4" stroke-linecap="round" opacity="0.92"/>
+<path d="M1380,1280 Q1510.0,1230.0 1640,1180" fill="none" stroke="#fab219" stroke-width="4" stroke-linecap="round" opacity="0.92"/>
+<path d="M1640,1180 Q1720.0,1230.0 1800,1280" fill="none" stroke="#d03b3b" stroke-width="4" stroke-linecap="round" opacity="0.92"/>
+<path d="M1640,1180 Q1640.0,1310.0 1640,1440" fill="none" stroke="#d03b3b" stroke-width="4" stroke-linecap="round" opacity="0.92"/>
+<path d="M1800,1000 Q1800.0,1140.0 1800,1280" fill="none" stroke="#9a9990" stroke-width="2" stroke-linecap="round" opacity="0.92" stroke-dasharray="9 7"/>
+<path d="M1800,1000 Q1865.0,1065.0 1930,1130" fill="none" stroke="#9a9990" stroke-width="2" stroke-linecap="round" opacity="0.92" stroke-dasharray="9 7"/>
+<text x="518" y="398" font-size="13" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">[I] R$ 131 mi · &#x27;pague sem nota&#x27; · aeronaves</text>
+<text x="832" y="712" font-size="13" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">[I] 52 notas · &#x27;conseguiu bloquear?&#x27; · &#x27;já tenho que estar fora?&#x27;</text>
+<text x="345" y="429" font-size="13" text-anchor="start" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">marido da sócia</text>
+<text x="885" y="591" font-size="13" text-anchor="start" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">[S] apresentou a Moraes · &#x27;o careca não pode atrasar&#x27;</text>
+<text x="665" y="733" font-size="13" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">[S] R$ 35 mi a empresa da família · nega</text>
+<text x="870" y="203" font-size="13" text-anchor="end" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">[S] &#x27;charuto e Macallan&#x27; · filho em Londres</text>
+<text x="885" y="470" font-size="13" text-anchor="start" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">advogado do banco</text>
+<text x="1230" y="452" font-size="13" text-anchor="start" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">[S] Londres 2024, evento pago · &#x27;reforçar com Andrei&#x27;</text>
+<text x="665" y="883" font-size="13" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">[S] reunião 14/03/2025 · votou contra o banco</text>
+<text x="665" y="813" font-size="13" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">[L] levantou o sigilo · mandou identificar</text>
+<text x="495" y="935" font-size="13" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">intermediou</text>
+<text x="149" y="628" font-size="13" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">[S] petição no INQ 4781</text>
+<text x="849" y="262" font-size="13" text-anchor="start" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">[S] pede nulidade em 12 h</text>
+<text x="1315" y="289" font-size="13" text-anchor="start" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">[S] monitorou o juiz</text>
+<text x="470" y="540" font-size="13" text-anchor="start" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">[S] entregue a Moraes 01/09 · usado 03/09</text>
+<text x="1655" y="289" font-size="13" text-anchor="start" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">[I] sugeriu vazar</text>
+<text x="1035" y="540" font-size="13" text-anchor="start" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">[L] prendeu 2× · 218 páginas</text>
+<text x="165" y="1110" font-size="13" text-anchor="start" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">[L] 5 dias úteis (03/09)</text>
+<text x="1790" y="598" font-size="13" text-anchor="end" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">[S] US$ 30 mi (delação rejeitada) · nega</text>
+<text x="1586" y="549" font-size="13" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">[S] reunião 03/09 · não pauta impeachment</text>
+<text x="1540" y="722" font-size="13" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">[I] apto R$ 2,45 mi · R$ 3,5 mi · busca</text>
+<text x="1717" y="670" font-size="13" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">[S] &#x27;Emenda Master&#x27;</text>
+<text x="1150" y="668" font-size="13" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">ex-sócio</text>
+<text x="1630" y="815" font-size="13" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">[I] R$ 300 mil/mês · busca</text>
+<text x="1280" y="690" font-size="13" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">[S] &#x27;amigos no BC&#x27; · &#x27;G&#x27;</text>
+<text x="1308" y="855" font-size="13" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">[I] 6 imóveis, R$ 146 mi</text>
+<text x="1400" y="958" font-size="13" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">[S] reunião fora da agenda (dez/2024)</text>
+<text x="980" y="1015" font-size="13" text-anchor="start" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">[I] US$ 12,3 mi pagos · inquérito 23/07</text>
+<text x="700" y="1340" font-size="13" text-anchor="start" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">[S] Havengate · malas (delação Freixo)</text>
+<text x="1060" y="1192" font-size="13" text-anchor="start" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">[S] doações de 2022 = propina? (delação rejeitada)</text>
+<text x="640" y="1110" font-size="13" text-anchor="start" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">[L] abriu o inquérito (23/07)</text>
+<text x="535" y="1210" font-size="13" text-anchor="end" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">[L] liberou dados à PF (21/08)</text>
+<text x="1510" y="1218" font-size="13" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">[S] apresentou Lulinha</text>
+<text x="1690" y="1220" font-size="13" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">[I] R$ 300 mil &#x27;para o filho do cara&#x27;</text>
+<text x="1655" y="1340" font-size="13" text-anchor="start" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">[I] pagamentos · joias · quadro € 100 mil</text>
+<text x="1815" y="1214" font-size="13" text-anchor="start" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">pai e filho</text>
+<text x="1870" y="1055" font-size="13" text-anchor="start" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">irmãos</text>
+<rect x="895.0" y="730" width="210" height="60" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1000" y="756" font-size="16" font-weight="700" text-anchor="middle" fill="#0b0b0b">Daniel Vorcaro</text>
+<text x="1000" y="776" font-size="11.5" text-anchor="middle" fill="#52514e">ex-dono do Master · preso 2× · réu</text>
+<rect x="215.0" y="300" width="230" height="60" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="330" y="326" font-size="16" font-weight="700" text-anchor="middle" fill="#0b0b0b">Escritório Barci de Moraes</text>
+<text x="330" y="346" font-size="11.5" text-anchor="middle" fill="#52514e">Viviane Barci, mulher do ministro</text>
+<rect x="215.0" y="490" width="230" height="60" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="330" y="516" font-size="16" font-weight="700" text-anchor="middle" fill="#0b0b0b">Alexandre de Moraes</text>
+<text x="330" y="536" font-size="11.5" text-anchor="middle" fill="#52514e">negou contato 5× (mar–jun/2026)</text>
+<rect x="235.0" y="670" width="190" height="60" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="330" y="696" font-size="16" font-weight="700" text-anchor="middle" fill="#0b0b0b">Dias Toffoli</text>
+<text x="330" y="716" font-size="11.5" text-anchor="middle" fill="#52514e">saiu da relatoria em 12/02</text>
+<rect x="215.0" y="870" width="230" height="60" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="330" y="896" font-size="16" font-weight="700" text-anchor="middle" fill="#0b0b0b">André Mendonça</text>
+<text x="330" y="916" font-size="11.5" text-anchor="middle" fill="#52514e">relator: Master, INSS e Dark Horse</text>
+<rect x="95.0" y="1040" width="170" height="60" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="180" y="1066" font-size="16" font-weight="700" text-anchor="middle" fill="#0b0b0b">Edson Fachin</text>
+<text x="180" y="1086" font-size="11.5" text-anchor="middle" fill="#52514e">presidente do STF</text>
+<rect x="360.0" y="1040" width="240" height="60" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="480" y="1066" font-size="16" font-weight="700" text-anchor="middle" fill="#0b0b0b">Flávio Dino</text>
+<text x="480" y="1086" font-size="11.5" text-anchor="middle" fill="#52514e">emendas · GoUp · 3º inquérito de Lulinha</text>
+<rect x="650.0" y="400" width="180" height="60" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="740" y="426" font-size="16" font-weight="700" text-anchor="middle" fill="#0b0b0b">Fábio Faria</text>
+<text x="740" y="446" font-size="11.5" text-anchor="middle" fill="#52514e">ex-ministro (Bolsonaro)</text>
+<rect x="640.0" y="220" width="200" height="60" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="740" y="246" font-size="16" font-weight="700" text-anchor="middle" fill="#0b0b0b">Ciro Soares</text>
+<text x="740" y="266" font-size="11.5" text-anchor="middle" fill="#52514e">advogado, ex-defensor do Master</text>
+<rect x="565.0" y="960" width="190" height="60" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="660" y="986" font-size="16" font-weight="700" text-anchor="middle" fill="#0b0b0b">Cezinha de Madureira</text>
+<text x="660" y="1006" font-size="11.5" text-anchor="middle" fill="#52514e">deputado (PL-SP)</text>
+<rect x="880.0" y="170" width="200" height="60" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="980" y="196" font-size="16" font-weight="700" text-anchor="middle" fill="#0b0b0b">Paulo Gonet</text>
+<text x="980" y="216" font-size="11.5" text-anchor="middle" fill="#52514e">PGR · pediu nulidade em 12 h</text>
+<rect x="1205.0" y="170" width="190" height="60" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1300" y="196" font-size="16" font-weight="700" text-anchor="middle" fill="#0b0b0b">Andrei Rodrigues</text>
+<text x="1300" y="216" font-size="11.5" text-anchor="middle" fill="#52514e">diretor-geral da PF</text>
+<rect x="1530.0" y="170" width="220" height="60" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1640" y="196" font-size="16" font-weight="700" text-anchor="middle" fill="#0b0b0b">Perito da PF</text>
+<text x="1640" y="216" font-size="11.5" text-anchor="middle" fill="#52514e">&#x27;Moraes.pdf&#x27; em 04/12/2025 · afastado</text>
+<rect x="1175.0" y="340" width="250" height="60" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1300" y="366" font-size="16" font-weight="700" text-anchor="middle" fill="#0b0b0b">Relatório de inteligência da PF</text>
+<text x="1300" y="386" font-size="11.5" text-anchor="middle" fill="#52514e">50 pp · sem timbre nem assinatura</text>
+<rect x="1535.0" y="340" width="210" height="60" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1640" y="366" font-size="16" font-weight="700" text-anchor="middle" fill="#0b0b0b">Vazamentos à imprensa</text>
+<text x="1640" y="386" font-size="11.5" text-anchor="middle" fill="#52514e">Vaza Flávio (mai) · áudios (set)</text>
+<rect x="1190.0" y="570" width="200" height="60" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1290" y="596" font-size="16" font-weight="700" text-anchor="middle" fill="#0b0b0b">Augusto Lima</text>
+<text x="1290" y="616" font-size="11.5" text-anchor="middle" fill="#52514e">ex-sócio · Banco Pleno liquidado</text>
+<rect x="1470.0" y="610" width="180" height="60" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1560" y="636" font-size="16" font-weight="700" text-anchor="middle" fill="#0b0b0b">Gabriel Galípolo</text>
+<text x="1560" y="656" font-size="11.5" text-anchor="middle" fill="#52514e">Banco Central (&#x27;G&#x27;)</text>
+<rect x="1805.0" y="530" width="190" height="60" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1900" y="556" font-size="16" font-weight="700" text-anchor="middle" fill="#0b0b0b">Davi Alcolumbre</text>
+<text x="1900" y="576" font-size="11.5" text-anchor="middle" fill="#52514e">presidente do Senado</text>
+<rect x="1800.0" y="690" width="200" height="60" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1900" y="716" font-size="16" font-weight="700" text-anchor="middle" fill="#0b0b0b">Jaques Wagner</text>
+<text x="1900" y="736" font-size="11.5" text-anchor="middle" fill="#52514e">senador PT-BA · busca 18/06</text>
+<rect x="1800.0" y="850" width="200" height="60" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1900" y="876" font-size="16" font-weight="700" text-anchor="middle" fill="#0b0b0b">Ciro Nogueira</text>
+<text x="1900" y="896" font-size="11.5" text-anchor="middle" fill="#52514e">senador PP-PI · busca 07/05</text>
+<rect x="1460.0" y="870" width="200" height="60" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1560" y="896" font-size="16" font-weight="700" text-anchor="middle" fill="#0b0b0b">BRB · P. H. Costa</text>
+<text x="1560" y="916" font-size="11.5" text-anchor="middle" fill="#52514e">ex-presidente · preso 16/04</text>
+<rect x="1720.0" y="970" width="160" height="60" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1800" y="996" font-size="16" font-weight="700" text-anchor="middle" fill="#0b0b0b">Lula</text>
+<text x="1800" y="1016" font-size="11.5" text-anchor="middle" fill="#52514e">presidente · candidato</text>
+<rect x="755.0" y="1240" width="210" height="60" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="860" y="1266" font-size="16" font-weight="700" text-anchor="middle" fill="#0b0b0b">Flávio Bolsonaro</text>
+<text x="860" y="1286" font-size="11.5" text-anchor="middle" fill="#52514e">candidato PL · inquérito 23/07</text>
+<rect x="400.0" y="1310" width="240" height="60" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="520" y="1336" font-size="16" font-weight="700" text-anchor="middle" fill="#0b0b0b">Eduardo Bolsonaro · Havengate</text>
+<text x="520" y="1356" font-size="11.5" text-anchor="middle" fill="#52514e">fundo do advogado Paulo Calixto (TX)</text>
+<rect x="560.0" y="1450" width="240" height="60" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="680" y="1476" font-size="16" font-weight="700" text-anchor="middle" fill="#0b0b0b">GoUp · emendas de Mario Frias</text>
+<text x="680" y="1496" font-size="11.5" text-anchor="middle" fill="#52514e">produtora do filme · R$ 2 mi</text>
+<rect x="900.0" y="1450" width="260" height="60" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1030" y="1476" font-size="16" font-weight="700" text-anchor="middle" fill="#0b0b0b">Jair Bolsonaro · Tarcísio · Kassab</text>
+<text x="1030" y="1496" font-size="11.5" text-anchor="middle" fill="#52514e">doações de 2022 · negam</text>
+<rect x="1265.0" y="1250" width="230" height="60" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1380" y="1276" font-size="16" font-weight="700" text-anchor="middle" fill="#0b0b0b">&#x27;Careca do INSS&#x27;</text>
+<text x="1380" y="1296" font-size="11.5" text-anchor="middle" fill="#52514e">A. C. Camilo Antunes · preso 12/09/2025</text>
+<rect x="1545.0" y="1150" width="190" height="60" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1640" y="1176" font-size="16" font-weight="700" text-anchor="middle" fill="#0b0b0b">Roberta Luchsinger</text>
+<text x="1640" y="1196" font-size="11.5" text-anchor="middle" fill="#52514e">empresária · investigada</text>
+<rect x="1700.0" y="1250" width="200" height="60" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1800" y="1276" font-size="16" font-weight="700" text-anchor="middle" fill="#0b0b0b">Fábio Luís (Lulinha)</text>
+<text x="1800" y="1296" font-size="11.5" text-anchor="middle" fill="#52514e">3 inquéritos (jul–ago/2026)</text>
+<rect x="1535.0" y="1410" width="210" height="60" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1640" y="1436" font-size="16" font-weight="700" text-anchor="middle" fill="#0b0b0b">Marco Aurélio Ribeiro</text>
+<text x="1640" y="1456" font-size="11.5" text-anchor="middle" fill="#52514e">ex-chefe de gabinete de Lula</text>
+<rect x="1805.0" y="1100" width="250" height="60" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1930" y="1126" font-size="16" font-weight="700" text-anchor="middle" fill="#0b0b0b">Frei Chico · Sindnapi</text>
+<text x="1930" y="1146" font-size="11.5" text-anchor="middle" fill="#52514e">R$ 599,5 mi descontados · ele não é investigado</text>
+<rect x="55" y="1162" width="265" height="330" rx="12" fill="#ffffff" stroke="#e0dfd9"/>
+<text x="70" y="1190" font-size="14" font-weight="700" fill="#0b0b0b">Como ler</text>
+<line x1="70" y1="1210" x2="108" y2="1210" stroke="#d03b3b" stroke-width="6" stroke-linecap="round"/>
+<text x="118" y="1214" font-size="11.5" fill="#0b0b0b">[I] vermelho: indício</text>
+<text x="118" y="1229" font-size="11.5" fill="#0b0b0b">documentado de ilegalidade, ou</text>
+<text x="118" y="1244" font-size="11.5" fill="#0b0b0b">inquérito formal com prova</text>
+<text x="118" y="1259" font-size="11.5" fill="#0b0b0b">material</text>
+<line x1="70" y1="1282" x2="108" y2="1282" stroke="#fab219" stroke-width="4" stroke-linecap="round"/>
+<text x="118" y="1286" font-size="11.5" fill="#0b0b0b">[S] amarelo: suspeito. Conflito</text>
+<text x="118" y="1301" font-size="11.5" fill="#0b0b0b">de interesse, alegação sem</text>
+<text x="118" y="1316" font-size="11.5" fill="#0b0b0b">corroboração, omissão sem</text>
+<text x="118" y="1331" font-size="11.5" fill="#0b0b0b">explicação</text>
+<line x1="70" y1="1354" x2="108" y2="1354" stroke="#0ca30c" stroke-width="4" stroke-linecap="round"/>
+<text x="118" y="1358" font-size="11.5" fill="#0b0b0b">[L] verde: ato lícito, dentro</text>
+<text x="118" y="1373" font-size="11.5" fill="#0b0b0b">da função</text>
+<line x1="70" y1="1396" x2="108" y2="1396" stroke="#9a9990" stroke-width="2" stroke-linecap="round"/>
+<text x="118" y="1400" font-size="11.5" fill="#0b0b0b">cinza: vínculo (família,</text>
+<text x="118" y="1415" font-size="11.5" fill="#0b0b0b">sociedade), sem status</text>
+<text x="70" y="1448" font-size="12.5" font-weight="700" fill="#0b0b0b">Espessura = peso da prova</text>
+<line x1="70" y1="1468" x2="108" y2="1468" stroke="#52514e" stroke-width="6" stroke-linecap="round"/>
+<text x="118" y="1472" font-size="11.5" fill="#0b0b0b">prova material: documento, transferência, mensagem</text>
+<line x1="70" y1="1490" x2="108" y2="1490" stroke="#52514e" stroke-width="4" stroke-linecap="round"/>
+<text x="118" y="1494" font-size="11.5" fill="#0b0b0b">relato documentado: PF, imprensa com fonte</text>
+<line x1="70" y1="1512" x2="108" y2="1512" stroke="#52514e" stroke-width="2" stroke-linecap="round" stroke-dasharray="9 7"/>
+<text x="118" y="1516" font-size="11.5" fill="#0b0b0b">alegação de parte interessada</text>
+<text x="40" y="1582" font-size="12" fill="#52514e">Fora do mapa por espaço: Kassio, Fux, Lewandowski, Mantega, Cláudio Castro, Mansur, Freixo, Zanin e Gilmar (ver personagens.md). Etiqueta [I]/[S]/[L] em cada linha para o significado não depender só da cor. CC BY 4.0, Rafael B. Brotto.</text>
+</svg>
