@@ -1,0 +1,175 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="1500" viewBox="0 0 2000 1500" font-family="Segoe UI, Inter, Arial, sans-serif">
+<rect width="2000" height="1500" fill="#fcfcfb"/>
+<text x="40" y="48" font-size="30" font-weight="700" fill="#0b0b0b">As cadeias que se repetem: dos operadores do mensalão ao Master e ao INSS</text>
+<text x="40" y="76" font-size="15" fill="#52514e">Cor da linha = caso · linha cheia = fato documentado (condenação, documento, operação) · tracejada = alegação ou citação · estado em 04/09/2026</text>
+<rect x="80" y="200" width="340" height="1260" rx="14" fill="#f1f1ee" stroke="#e0dfd9"/>
+<text x="94" y="224" font-size="13" font-weight="700" letter-spacing="1" fill="#52514e">MENSALÃO · 2005–2012</text>
+<rect x="440" y="200" width="460" height="1260" rx="14" fill="#f1f1ee" stroke="#e0dfd9"/>
+<text x="454" y="224" font-size="13" font-weight="700" letter-spacing="1" fill="#52514e">PETROLÃO · LAVA JATO · 2014–2021</text>
+<rect x="920" y="200" width="300" height="1260" rx="14" fill="#f1f1ee" stroke="#e0dfd9"/>
+<text x="934" y="224" font-size="13" font-weight="700" letter-spacing="1" fill="#52514e">OS MESMOS NOMES</text>
+<rect x="1240" y="200" width="750" height="1260" rx="14" fill="#f1f1ee" stroke="#e0dfd9"/>
+<text x="1254" y="224" font-size="13" font-weight="700" letter-spacing="1" fill="#52514e">MASTER · INSS · EMENDAS · 2025–2026</text>
+<path d="M230,300 Q230.0,430.0 230,560" fill="none" stroke="#2a78d6" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+<path d="M230,560 Q415.0,520.0 600,560" fill="none" stroke="#2a78d6" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+<path d="M230,560 Q415.0,720.0 600,760" fill="none" stroke="#eb6834" stroke-width="2.5" stroke-linecap="round" opacity="0.9" stroke-dasharray="9 7"/>
+<path d="M600,560 Q600.0,660.0 600,760" fill="none" stroke="#eb6834" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+<path d="M600,760 Q830.0,940.0 1060,1000" fill="none" stroke="#eb6834" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+<path d="M1060,1000 Q1220.0,980.0 1380,880" fill="none" stroke="#e87ba4" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+<path d="M760,1000 Q850.0,820.0 1060,640" fill="none" stroke="#eb6834" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+<path d="M760,1000 Q870.0,880.0 1060,760" fill="none" stroke="#eb6834" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+<path d="M760,1000 Q910.0,940.0 1060,880" fill="none" stroke="#eb6834" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+<path d="M760,1000 Q910.0,1000.0 1060,1000" fill="none" stroke="#eb6834" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+<path d="M760,1000 Q910.0,1060.0 1060,1120" fill="none" stroke="#eb6834" stroke-width="2.5" stroke-linecap="round" opacity="0.9" stroke-dasharray="9 7"/>
+<path d="M760,1000 Q680.0,1125.0 600,1250" fill="none" stroke="#eb6834" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+<path d="M760,1000 Q495.0,970.0 230,820" fill="none" stroke="#eb6834" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+<path d="M760,1000 Q725.0,400.0 1450,300" fill="none" stroke="#eb6834" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+<path d="M1380,880 Q1220.0,760.0 1060,640" fill="none" stroke="#e87ba4" stroke-width="2.5" stroke-linecap="round" opacity="0.9" stroke-dasharray="9 7"/>
+<path d="M1380,880 Q1220.0,820.0 1060,760" fill="none" stroke="#e87ba4" stroke-width="2.5" stroke-linecap="round" opacity="0.9" stroke-dasharray="9 7"/>
+<path d="M1380,880 Q1220.0,880.0 1060,880" fill="none" stroke="#e87ba4" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+<path d="M1380,880 Q1220.0,1040.0 1060,1120" fill="none" stroke="#e87ba4" stroke-width="2.5" stroke-linecap="round" opacity="0.9" stroke-dasharray="9 7"/>
+<path d="M1380,880 Q1640.0,670.0 1820,460" fill="none" stroke="#e87ba4" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+<path d="M1380,880 Q1600.0,740.0 1820,600" fill="none" stroke="#e87ba4" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+<path d="M1380,880 Q1600.0,800.0 1820,720" fill="none" stroke="#e87ba4" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+<path d="M1380,880 Q1600.0,920.0 1820,960" fill="none" stroke="#e87ba4" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+<path d="M1380,880 Q1600.0,980.0 1820,1080" fill="none" stroke="#e87ba4" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+<path d="M1380,880 Q1515.0,590.0 1450,300" fill="none" stroke="#e87ba4" stroke-width="2.5" stroke-linecap="round" opacity="0.9" stroke-dasharray="9 7"/>
+<path d="M1380,880 Q1380.0,1030.0 1380,1180" fill="none" stroke="#1baf7a" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+<path d="M1380,1180 Q1380.0,1270.0 1380,1360" fill="none" stroke="#1baf7a" stroke-width="2.5" stroke-linecap="round" opacity="0.9" stroke-dasharray="9 7"/>
+<path d="M1380,1360 Q1600.0,1330.0 1820,1300" fill="none" stroke="#1baf7a" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+<path d="M1380,1360 Q1600.0,1390.0 1820,1420" fill="none" stroke="#1baf7a" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+<path d="M1380,1360 Q1220.0,1360.0 1060,1360" fill="none" stroke="#1baf7a" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+<path d="M230,820 Q1225.0,110.0 1820,600" fill="none" stroke="#2a78d6" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+<path d="M230,820 Q1405.0,550.0 1820,840" fill="none" stroke="#eb6834" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+<path d="M1450,300 Q1255.0,300.0 1060,300" fill="none" stroke="#eb6834" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+<path d="M230,1080 Q415.0,1225.0 600,1250" fill="none" stroke="#eda100" stroke-width="2.5" stroke-linecap="round" opacity="0.9" stroke-dasharray="9 7"/>
+<path d="M230,300 Q110.0,560.0 230,820" fill="none" stroke="#2a78d6" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+<path d="M230,300 Q50.0,690.0 230,1080" fill="none" stroke="#2a78d6" stroke-width="4" stroke-linecap="round" opacity="0.9"/>
+<text x="244" y="430" font-size="12.5" text-anchor="start" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">M · R$ 4,1 mi (mensalão)</text>
+<text x="415" y="528" font-size="12.5" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">M · lavou R$ 1,16 mi do mensalão</text>
+<text x="415" y="708" font-size="12.5" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">L · Janene, &#x27;mentor&#x27; do esquema do PP</text>
+<text x="614" y="660" font-size="12.5" text-anchor="start" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">L · pivôs e delatores da Lava Jato</text>
+<text x="830" y="928" font-size="12.5" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">L · PP: cota na Petrobras</text>
+<text x="1205" y="978" font-size="12.5" text-anchor="start" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">B · R$ 300 mil/mês · busca 07/05/2026</text>
+<text x="866" y="820" font-size="12.5" text-anchor="end" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">L · denúncias, prisão; absolvido</text>
+<text x="876" y="880" font-size="12.5" text-anchor="end" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">L · fases anuladas</text>
+<text x="836" y="970" font-size="12.5" text-anchor="end" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">L · Fonte Nova; arquivado 2025</text>
+<text x="910" y="1036" font-size="12.5" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">L · R$ 7,3 mi; rejeitado</text>
+<text x="910" y="1076" font-size="12.5" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">L · denúncia de 2019; citado</text>
+<text x="666" y="1125" font-size="12.5" text-anchor="end" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">L · condenado; anulado 2023</text>
+<text x="495" y="958" font-size="12.5" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">L · condenado 2016/17; anulado 2024</text>
+<text x="992" y="448" font-size="12.5" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">L · triplex, sítio; anulado 2021</text>
+<text x="1234" y="754" font-size="12.5" text-anchor="start" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">B · pagamentos (imprensa)</text>
+<text x="1220" y="810" font-size="12.5" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">B · R$ 1 mi/mês (imprensa)</text>
+<text x="1220" y="840" font-size="12.5" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">B · busca 18/06/2026</text>
+<text x="1220" y="1038" font-size="12.5" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">B · US$ 30 mi (delação rejeitada)</text>
+<text x="1515" y="771" font-size="12.5" text-anchor="start" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">B · notas e contrato</text>
+<text x="1500" y="806" font-size="12.5" text-anchor="start" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">B · R$ 35 mi</text>
+<text x="1500" y="836" font-size="12.5" text-anchor="start" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">B · R$ 250 mil/mês</text>
+<text x="1546" y="918" font-size="12.5" text-anchor="start" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">B · Dark Horse, US$ 12,3 mi</text>
+<text x="1546" y="960" font-size="12.5" text-anchor="start" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">B · Londres 2024</text>
+<text x="1479" y="590" font-size="12.5" text-anchor="start" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">B · reunião, dez/2024</text>
+<text x="1394" y="1030" font-size="12.5" text-anchor="start" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">I · consignado 74% irregular · CPMI</text>
+<text x="1394" y="1270" font-size="12.5" text-anchor="start" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">I · mesmo relator (Mendonça) · mesma CPMI</text>
+<text x="1556" y="1326" font-size="12.5" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">I · R$ 250 mil/mês</text>
+<text x="1600" y="1406" font-size="12.5" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">I · sócio; delator</text>
+<text x="1220" y="1326" font-size="12.5" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">I · apresentou Lulinha · R$ 300 mil</text>
+<text x="1125" y="398" font-size="12.5" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">M · ex-chefe de Toffoli na Casa Civil; absolvido por ele em 2012</text>
+<text x="1215" y="708" font-size="12.5" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">L · Gilmar anulou tudo em 2024</text>
+<text x="1255" y="260" font-size="12.5" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">L · defesa · suspeição de Moro · anulação (Fachin)</text>
+<text x="415" y="1213" font-size="12.5" text-anchor="middle" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">E · controle de emendas sem mandato (PF, 2026)</text>
+<text x="178" y="404" font-size="12.5" text-anchor="end" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">M · AP 470</text>
+<text x="158" y="924" font-size="12.5" text-anchor="end" fill="#0b0b0b" paint-order="stroke" stroke="#fcfcfb" stroke-width="6" stroke-linejoin="round">M · AP 470</text>
+<rect x="104.75" y="272" width="250.5" height="56" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="230" y="296" font-size="15" font-weight="700" text-anchor="middle" fill="#0b0b0b">Marcos Valério</text>
+<text x="230" y="315" font-size="11" text-anchor="middle" fill="#52514e">publicitário · operador do mensalão</text>
+<rect x="139.0" y="532" width="182.0" height="56" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="230" y="556" font-size="15" font-weight="700" text-anchor="middle" fill="#0b0b0b">José Janene (PP)</text>
+<text x="230" y="575" font-size="11" text-anchor="middle" fill="#52514e">morto em 2010</text>
+<rect x="120.5" y="792" width="219.0" height="56" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="230" y="816" font-size="15" font-weight="700" text-anchor="middle" fill="#0b0b0b">José Dirceu</text>
+<text x="230" y="835" font-size="11" text-anchor="middle" fill="#52514e">M: condenado · L: anulado 2024</text>
+<rect x="101.0" y="1052" width="258.0" height="56" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="230" y="1076" font-size="15" font-weight="700" text-anchor="middle" fill="#0b0b0b">Valdemar Costa Neto (PL)</text>
+<text x="230" y="1095" font-size="11" text-anchor="middle" fill="#52514e">M: condenado · E: 21 emendas</text>
+<rect x="468.45" y="532" width="263.1" height="56" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="600" y="556" font-size="15" font-weight="700" text-anchor="middle" fill="#0b0b0b">Alberto Youssef</text>
+<text x="600" y="575" font-size="11" text-anchor="middle" fill="#52514e">doleiro de Janene · pivô da Lava Jato</text>
+<rect x="474.75" y="732" width="250.5" height="56" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="600" y="756" font-size="15" font-weight="700" text-anchor="middle" fill="#0b0b0b">Paulo Roberto Costa</text>
+<text x="600" y="775" font-size="11" text-anchor="middle" fill="#52514e">diretor da Petrobras (PP) · delator</text>
+<rect x="622.15" y="972" width="275.7" height="56" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="760" y="996" font-size="15" font-weight="700" text-anchor="middle" fill="#0b0b0b">Odebrecht</text>
+<text x="760" y="1015" font-size="11" text-anchor="middle" fill="#52514e">hub da Lava Jato · delações e leniência</text>
+<rect x="494.75" y="1222" width="210.5" height="56" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="600" y="1246" font-size="15" font-weight="700" text-anchor="middle" fill="#0b0b0b">Eduardo Cunha (MDB)</text>
+<text x="600" y="1265" font-size="11" text-anchor="middle" fill="#52514e">L: condenado · E: 29 emendas</text>
+<rect x="956.8" y="612" width="206.4" height="56" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1060" y="636" font-size="15" font-weight="700" text-anchor="middle" fill="#0b0b0b">Michel Temer</text>
+<text x="1060" y="655" font-size="11" text-anchor="middle" fill="#52514e">L: absolvido · B: pagamentos</text>
+<rect x="922.15" y="732" width="275.7" height="56" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1060" y="756" font-size="15" font-weight="700" text-anchor="middle" fill="#0b0b0b">Guido Mantega</text>
+<text x="1060" y="775" font-size="11" text-anchor="middle" fill="#52514e">L: absolvido/prescrito · B: R$ 1 mi/mês</text>
+<rect x="941.05" y="852" width="237.9" height="56" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1060" y="876" font-size="15" font-weight="700" text-anchor="middle" fill="#0b0b0b">Jaques Wagner</text>
+<text x="1060" y="895" font-size="11" text-anchor="middle" fill="#52514e">L: arquivado 2025 · B: busca 2026</text>
+<rect x="944.2" y="972" width="231.6" height="56" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1060" y="996" font-size="15" font-weight="700" text-anchor="middle" fill="#0b0b0b">Ciro Nogueira (PP)</text>
+<text x="1060" y="1015" font-size="11" text-anchor="middle" fill="#52514e">L: rejeitado · B: R$ 300 mil/mês</text>
+<rect x="937.9" y="1092" width="244.2" height="56" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1060" y="1116" font-size="15" font-weight="700" text-anchor="middle" fill="#0b0b0b">Davi Alcolumbre</text>
+<text x="1060" y="1135" font-size="11" text-anchor="middle" fill="#52514e">L: citado 2019 · B: alegação, nega</text>
+<rect x="1279.95" y="852" width="200.1" height="56" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1380" y="876" font-size="15" font-weight="700" text-anchor="middle" fill="#0b0b0b">Daniel Vorcaro</text>
+<text x="1380" y="895" font-size="11" text-anchor="middle" fill="#52514e">hub do Master · preso · réu</text>
+<rect x="1710.5" y="432" width="219.0" height="56" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1820" y="456" font-size="15" font-weight="700" text-anchor="middle" fill="#0b0b0b">Alexandre de Moraes</text>
+<text x="1820" y="475" font-size="11" text-anchor="middle" fill="#52514e">escritório da mulher: R$ 80 mi</text>
+<rect x="1670.0" y="572" width="300" height="56" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1820" y="596" font-size="15" font-weight="700" text-anchor="middle" fill="#0b0b0b">Dias Toffoli</text>
+<text x="1820" y="615" font-size="11" text-anchor="middle" fill="#52514e">M: absolveu Dirceu · L: anulou Odebrecht · B: R$ 35 mi</text>
+<rect x="1685.3" y="692" width="269.4" height="56" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1820" y="716" font-size="15" font-weight="700" text-anchor="middle" fill="#0b0b0b">Ricardo Lewandowski</text>
+<text x="1820" y="735" font-size="11" text-anchor="middle" fill="#52514e">M: revisor · L: suspeição · B: R$ 6 mi</text>
+<rect x="1670.0" y="812" width="300" height="56" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1820" y="836" font-size="15" font-weight="700" text-anchor="middle" fill="#0b0b0b">Gilmar Mendes</text>
+<text x="1820" y="855" font-size="11" text-anchor="middle" fill="#52514e">M: julgou · L: anulou Dirceu, Mantega · B: bloco Moraes</text>
+<rect x="1681.5" y="932" width="277.0" height="56" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1820" y="956" font-size="15" font-weight="700" text-anchor="middle" fill="#0b0b0b">Flávio e Eduardo Bolsonaro</text>
+<text x="1820" y="975" font-size="11" text-anchor="middle" fill="#52514e">B: US$ 12,3 mi, Dark Horse</text>
+<rect x="1732.55" y="1052" width="174.9" height="56" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1820" y="1076" font-size="15" font-weight="700" text-anchor="middle" fill="#0b0b0b">Gonet e Andrei</text>
+<text x="1820" y="1095" font-size="11" text-anchor="middle" fill="#52514e">PGR e PF · Londres 2024</text>
+<rect x="1300.0" y="272" width="300" height="56" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1450" y="296" font-size="15" font-weight="700" text-anchor="middle" fill="#0b0b0b">Lula</text>
+<text x="1450" y="315" font-size="11" text-anchor="middle" fill="#52514e">M: testemunha · L: anulado · I: filho e irmão · B: reunião</text>
+<rect x="934.75" y="272" width="250.5" height="56" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1060" y="296" font-size="15" font-weight="700" text-anchor="middle" fill="#0b0b0b">Zanin · Fachin · Moro</text>
+<text x="1060" y="315" font-size="11" text-anchor="middle" fill="#52514e">L: advogado, relator, juiz suspeito</text>
+<rect x="1236.75" y="1152" width="286.5" height="56" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1380" y="1176" font-size="15" font-weight="700" text-anchor="middle" fill="#0b0b0b">INSS · consignado Credcesta</text>
+<text x="1380" y="1195" font-size="11" text-anchor="middle" fill="#52514e">IN 25/03/2022 · 74% irregular · CPMI</text>
+<rect x="1289.0" y="1332" width="182.0" height="56" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1380" y="1356" font-size="15" font-weight="700" text-anchor="middle" fill="#0b0b0b">&#x27;Careca do INSS&#x27;</text>
+<text x="1380" y="1375" font-size="11" text-anchor="middle" fill="#52514e">hub do INSS · preso</text>
+<rect x="1710.5" y="1272" width="219.0" height="56" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1820" y="1296" font-size="15" font-weight="700" text-anchor="middle" fill="#0b0b0b">Stefanutto · Lupi</text>
+<text x="1820" y="1315" font-size="11" text-anchor="middle" fill="#52514e">R$ 250 mil/mês · preso; citado</text>
+<rect x="941.05" y="1332" width="237.9" height="56" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1060" y="1356" font-size="15" font-weight="700" text-anchor="middle" fill="#0b0b0b">Luchsinger → Lulinha</text>
+<text x="1060" y="1375" font-size="11" text-anchor="middle" fill="#52514e">R$ 300 mil &#x27;para o filho do cara&#x27;</text>
+<rect x="1735.0" y="1392" width="170" height="56" rx="10" fill="#ffffff" stroke="#0b0b0b" stroke-width="1.5"/>
+<text x="1820" y="1416" font-size="15" font-weight="700" text-anchor="middle" fill="#0b0b0b">Camisotti</text>
+<text x="1820" y="1435" font-size="11" text-anchor="middle" fill="#52514e">delator do INSS</text>
+<line x1="80" y1="1464" x2="114" y2="1464" stroke="#2a78d6" stroke-width="5" stroke-linecap="round"/>
+<text x="122" y="1468" font-size="12.5" fill="#0b0b0b">M · Mensalão</text>
+<line x1="270" y1="1464" x2="304" y2="1464" stroke="#eb6834" stroke-width="5" stroke-linecap="round"/>
+<text x="312" y="1468" font-size="12.5" fill="#0b0b0b">L · Lava Jato</text>
+<line x1="460" y1="1464" x2="494" y2="1464" stroke="#1baf7a" stroke-width="5" stroke-linecap="round"/>
+<text x="502" y="1468" font-size="12.5" fill="#0b0b0b">I · INSS</text>
+<line x1="650" y1="1464" x2="684" y2="1464" stroke="#e87ba4" stroke-width="5" stroke-linecap="round"/>
+<text x="692" y="1468" font-size="12.5" fill="#0b0b0b">B · Master</text>
+<line x1="840" y1="1464" x2="874" y2="1464" stroke="#eda100" stroke-width="5" stroke-linecap="round"/>
+<text x="882" y="1468" font-size="12.5" fill="#0b0b0b">E · Emendas</text>
+<text x="1050" y="1468" font-size="12" fill="#52514e">Ninguém foi condenado nos casos de 2025 e 2026. Fontes no README. CC BY 4.0, Rafael B. Brotto.</text>
+</svg>

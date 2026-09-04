@@ -16,7 +16,8 @@ Correções, fontes adicionais e contrapontos são bem-vindos por issue ou pull 
 
 | Dossiê | Tema | Corte |
 |---|---|---|
-| [caso_master_2026](caso_master_2026/README.md) | O relatório da PF de 218 páginas sobre Daniel Vorcaro (Banco Master) e a crise institucional entre STF, PGR e Polícia Federal; inclui Alcolumbre e as frentes conexas (INSS, Lulinha) | 04/09/2026, 10h, com acréscimos à tarde |
+| [caso_master_2026](caso_master_2026/README.md) | O relatório da PF de 218 páginas sobre Daniel Vorcaro (Banco Master) e a crise institucional entre STF, PGR e Polícia Federal; inclui Alcolumbre, as frentes conexas (INSS, Lulinha), o Dark Horse, a PF e Dino; mapa das relações e perfis | 04/09/2026, 10h, com acréscimos ao longo do dia |
+| [quem_se_repete_2005_2026](quem_se_repete_2005_2026/README.md) | Mensalão, petrolão e Lava Jato, INSS, Master e emendas: matriz pessoa × caso com a condição jurídica de cada um, quem se repete e as cadeias de operadores | 04/09/2026 |
 
 ## Licença
 
