@@ -17,3 +17,7 @@ Correções, fontes adicionais e contrapontos são bem-vindos por issue ou pull 
 | Dossiê | Tema | Corte |
 |---|---|---|
 | [caso_master_2026](caso_master_2026/README.md) | O relatório da PF de 218 páginas sobre Daniel Vorcaro (Banco Master) e a crise institucional entre STF, PGR e Polícia Federal | 04/09/2026, 10h |
+
+## Licença
+
+Todo o conteúdo deste repositório está sob a licença [Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.pt-br). Você pode copiar, redistribuir, adaptar e usar para qualquer fim, inclusive comercial, desde que dê o crédito a Rafael B. Brotto e aponte para este repositório. Texto legal completo em [LICENSE](LICENSE).
