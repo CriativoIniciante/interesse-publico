@@ -1,6 +1,6 @@
 # Caso Master — o relatório da PF de 218 páginas e a crise institucional
 
-**Estado em 04/09/2026, 10h (horário de Brasília).**
+**Estado em 04/09/2026, 10h (horário de Brasília). Seções 12 e 13 acrescentadas na tarde do mesmo dia.**
 
 Dossiê neutro, montado por consulta à imprensa em 04/09/2026. Não é peça de campanha nem toma partido. Onde as fontes divergem, a divergência está anotada. Onde algo é alegação (não fato apurado), está marcado como tal. Todas as fontes estão listadas ao final.
 
@@ -194,6 +194,42 @@ Fábio Faria (intermediário), Ciro Soares e Leonardo Palhares (advogados), Guil
 - AC24Horas (reproduz Folha), Vorcaro sinaliza poupar Moraes: https://ac24horas.com/2026/09/04/vorcaro-sinaliza-poupar-moraes-em-nova-delacao-premiada/
 - Painel Político, "Caso Master racha o STF": https://painelpolitico.com/caso-master-racha-o-stf-e-atinge-campanha-de-2026
 - Wikipedia (en), Banco Master scandal (linha do tempo desde nov/2025): https://en.wikipedia.org/wiki/Banco_Master_scandal
+
+## 12. Davi Alcolumbre, presidente do Senado: o que há e o que não há
+
+Alcolumbre não aparece no relatório de 218 páginas. Ele entra no caso por quatro vias distintas, de pesos muito diferentes.
+
+- **A alegação dos US$ 30 milhões.** Em 11/06/2026 a Veja (Robson Bonin) publicou que Vorcaro teria dito, em proposta de delação, ter transferido US$ 30 milhões (cerca de R$ 153 milhões) a Alcolumbre, em conta no exterior, numa operação conduzida por Augusto Lima, ex-sócio dele, como pagamento por apoio a uma demanda do Master. As duas propostas de delação de Vorcaro foram rejeitadas pela PF e pela PGR por não trazerem provas inéditas. Não há corroboração pública. Alcolumbre: "as informações são absolutamente falsas", "jamais recebi valores, no Brasil ou no exterior". É alegação de réu preso, sem prova conhecida, e assim deve ser lida.
+- **Os pedidos de impeachment.** Há 109 pedidos contra ministros do STF no Senado; o de 01/09 contra Moraes, com mais de 80 assinaturas, é o 54º. Em 01/09 Alcolumbre disse que a quantidade "não é normal" e, sobre as mensagens, "não achei nada, não tenho que achar nada". Aliados dizem que ele deixará o caso com o STF. Em 02 e 03/09 ele defendeu Moraes: "todo mundo esqueceu que pediram 130 milhões para as mesmas pessoas para fazer um filme, mas o único culpado é o ministro Alexandre de Moraes"; perguntado a quem se referia: "vocês sabem" (o filme "Dark Horse", seção 8). Sobre a petição de Moraes contra Mendonça, em 03/09: "não achei nada, que eu estou sentado naquela cadeira presidindo a sessão e não sei de nada". O senador Carlos Viana (Podemos-MG) representou contra ele no Conselho de Ética por não dar andamento aos pedidos, com pedido de afastamento cautelar. Não foi encontrada nenhuma declaração dele sobre pautar impeachment de Mendonça.
+- **A reunião com Moraes.** Segundo o Metrópoles (04/09), Moraes e Alcolumbre, "que são próximos", se reuniram em Brasília no mesmo dia em que Moraes protocolou a petição contra Mendonça (03/09) e "alinharam o discurso sobre a relatoria de Mendonça no processo do Banco Master".
+- **O relatório de inteligência da PF.** O documento que Moraes usou contra Mendonça classifica Alcolumbre como possível "alvo estratégico" de Mendonça, que buscaria "neutralizar o poder do senador sobre a pauta do Senado, especialmente no que diz respeito ao processamento de pedidos de impeachment contra ministros do STF"; cita a desavença de 2021, quando Alcolumbre retardou a sabatina de Mendonça, e aponta Antonio Rueda como "rota de acesso" entre os dois. O próprio documento se classifica como de confiança "baixa ou moderada" e "sem valor probatório" (seção 7).
+
+Alcolumbre tem mandato até 2031 e não concorre em 2026.
+
+## 13. Frentes conexas sob o mesmo relator
+
+Mendonça relata, além da Compliance Zero, a Operação Sem Desconto (descontos indevidos em aposentados do INSS). A petição de Moraes de 03/09 ataca a condução dele nas duas. Por isso três outras frentes entram no mesmo tabuleiro.
+
+- **Master e INSS.** O Master tinha acordo de cooperação técnica com o INSS para crédito consignado (2020 a 2025), suspenso em outubro de 2025: 74% dos contratos, cerca de 250 mil, tinham irregularidades, inclusive empréstimos sem validação de identidade. O cartão consignado Credcesta era operado pela PKL One, que a CPMI do INSS encontrou dentro da rede Reag. O relatório final da CPMI do INSS (relator Alfredo Gaspar, PL-AL, 27/03/2026, 4.340 páginas) pediu o indiciamento de 216 pessoas, entre elas Daniel Vorcaro e Fábio Luís Lula da Silva.
+- **Fábio Luís Lula da Silva (Lulinha), filho do presidente.** Três inquéritos da PF: 30/07/2026 (autorizado por Mendonça) por suspeita de tráfico de influência para a World Cannabis, empresa ligada a Antônio Carlos Camilo Antunes, o "Careca do INSS", num projeto de canabidiol do Ministério da Saúde; 31/07 (Mendonça) por favorecimento da 3Structure em contratos com a Dataprev (R$ 55,7 milhões); 04/08 (Flávio Dino) por rede de favorecimento com Marco Aurélio Santana Ribeiro, ex-chefe de gabinete de Lula. A empresária Roberta Luchsinger disse à PF que apresentou Lulinha ao Careca; numa mensagem, o Careca pede R$ 300 mil a uma empresa dela "para o filho do cara". A defesa nega qualquer participação, investimento ou pagamento. Em agosto a PGR pediu que parte do caso vá à 1ª instância, por não haver investigado com foro; críticos leem como forma de tirar o caso de Mendonça. Sem decisão.
+- **José Ferreira da Silva (Frei Chico), irmão do presidente.** Vice-presidente do Sindnapi, sindicato de aposentados que, segundo a CPMI, fez 26,4 milhões de descontos em folha entre 2015 e março de 2025, somando R$ 599,5 milhões. O sindicato é investigado por PF e CGU. Frei Chico não é investigado na Sem Desconto; a CPMI rejeitou por 19 a 11 os pedidos de convocação dele (16/10/2025) e não pediu seu indiciamento. Ele processa no TJ-SP quem o associa ao esquema, e há decisão judicial mandando remover publicações. Nada o liga ao Master.
+
+Fontes desta parte: Poder360 (Veja e os US$ 30 milhões; "109 pedidos"), Correio Braziliense e InfoMoney (declarações de 02 e 03/09), Metrópoles (reunião com Moraes; Sindnapi), Congresso em Foco (representação de Viana), Bahia Notícias (relatório de inteligência), Agência Pública (Master e INSS), CNN Brasil (três inquéritos de Lulinha; relatório da CPMI), Gazeta do Povo (parecer da PGR), Câmara dos Deputados (convocação rejeitada), Correio Braziliense e CartaCapital (ações de Frei Chico). Links:
+- https://www.poder360.com.br/poder-justica/vorcaro-transferiu-us-30-milhoes-a-alcolumbre-diz-revista/
+- https://www.poder360.com.br/poder-congresso/alcolumbre-diz-que-109-pedidos-de-impeachment-contra-stf-nao-e-normal/
+- https://www.correiobraziliense.com.br/politica/2026/09/7492796-alcolumbre-manda-recado-sobre-impeachment-de-moraes.html
+- https://www.infomoney.com.br/politica/alcolumbre-sobre-pedido-para-investigar-mendonca-nao-achei-nada-nao-sei-decisao/
+- https://www.metropoles.com/brasil/alcolumbre-e-moraes-se-reuniram-antes-de-pedido-para-investigar-mendonca
+- https://www.congressoemfoco.com.br/noticia/121959/carlos-viana-representa-contra-alcolumbre-no-conselho-de-etica
+- https://www.bahianoticias.com.br/justica/noticia/75297-pf-cita-alcolumbre-como-possivel-alvo-estrategico-de-mendonca-para-neutralizar-pauta-de-impeachment-no-stf
+- https://apublica.org/2026/03/master-como-cpmi-do-inss-e-cpi-do-crime-organizado-se-conectam/
+- https://www.cnnbrasil.com.br/politica/entenda-os-tres-inqueritos-em-que-lulinha-e-investigado/
+- https://www.cnnbrasil.com.br/politica/relatorio-da-cpmi-do-inss-pede-indicamento-de-lulinha-e-outras-218-pessoas/
+- https://www.gazetadopovo.com.br/republica/parecer-para-enviar-inquerito-de-lulinha-a-1a-instancia-e-manobra-para-afastar-mendonca/
+- https://www.metropoles.com/colunas/andreza-matais/sindnapi-de-irmao-de-lula-descontou-r-599-milhoes-do-inss-diz-cpmi
+- https://www.camara.leg.br/noticias/1212823-cpmi-do-inss-rejeita-convocacao-de-frei-chico-irmao-de-lula/
+- https://www.correiobraziliense.com.br/politica/2025/10/7274683-irmao-de-lula-processa-quem-o-associa-a-esquema-de-descontos-e-critica-cpmi-do-inss.html
+- https://www.cartacapital.com.br/justica/justica-manda-remover-publicacoes-que-associam-irmao-de-lula-a-fraudes-no-inss/
 
 ---
 

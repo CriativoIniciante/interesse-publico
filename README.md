@@ -16,7 +16,7 @@ Correções, fontes adicionais e contrapontos são bem-vindos por issue ou pull 
 
 | Dossiê | Tema | Corte |
 |---|---|---|
-| [caso_master_2026](caso_master_2026/README.md) | O relatório da PF de 218 páginas sobre Daniel Vorcaro (Banco Master) e a crise institucional entre STF, PGR e Polícia Federal | 04/09/2026, 10h |
+| [caso_master_2026](caso_master_2026/README.md) | O relatório da PF de 218 páginas sobre Daniel Vorcaro (Banco Master) e a crise institucional entre STF, PGR e Polícia Federal; inclui Alcolumbre e as frentes conexas (INSS, Lulinha) | 04/09/2026, 10h, com acréscimos à tarde |
 
 ## Licença
 
