@@ -2,6 +2,8 @@
 
 **Estado em 04/09/2026, 10h (horário de Brasília). Seções 12 e 13 acrescentadas na tarde do mesmo dia.**
 
+Perfis de cada pessoa citada: [personagens.md](personagens.md).
+
 Dossiê neutro, montado por consulta à imprensa em 04/09/2026. Não é peça de campanha nem toma partido. Onde as fontes divergem, a divergência está anotada. Onde algo é alegação (não fato apurado), está marcado como tal. Todas as fontes estão listadas ao final.
 
 ---
