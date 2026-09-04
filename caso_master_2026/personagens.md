@@ -36,6 +36,10 @@
 
 **Edson Fachin.** Presidente do STF. Em 03/09 abriu procedimento e deu cinco dias úteis a Moraes, Mendonça, Gonet e Andrei; adiou a sessão para a segunda quinzena de setembro. Em 2021 foi o autor da anulação das condenações de Lula por incompetência de Curitiba, e votou contra a suspeição de Moro.
 
+**Flávio Dino.** Ministro do STF desde 22/02/2024, indicado por Lula, de quem é apoiador desde 1989; ex-governador do Maranhão, ex-senador, ex-ministro da Justiça (2023 a 2024). Integra a 1ª Turma com Moraes, Zanin, Cármen Lúcia e Fux. Relator da ADPF 854 (emendas parlamentares): mandou a PF investigar em 23/11/2025, intimou os presidentes de partido em julho de 2026 e em 23/08/2026 declarou nulas as "emendas de líder"; a PF apontou Valdemar Costa Neto (PL) controlando 21 emendas de R$ 119 milhões. Relata a frente paralela do Dark Horse (produtora GoUp e emendas de Mario Frias, por representação de Tabata Amaral) e em 21/08/2026 liberou os dados de São Paulo à PF. Autorizou em 04/08/2026 o terceiro inquérito contra Lulinha. Na crise atual, alinhado a Moraes contra o método de Mendonça. Não é o relator do inquérito principal do Dark Horse, que é de Mendonça. Ver seção 16 do dossiê.
+
+**Lindbergh Farias.** Deputado federal (PT-RJ). Apresentou a notícia-crime do Dark Horse e tentou juntá-la ao inquérito de Eduardo Bolsonaro, relatado por Moraes; Moraes a enviou a Fachin (22/06/2026), que a redistribuiu a Mendonça (25/06) por prevenção, como pediu a PGR. Recorreu em 26/06; o recurso está parado no gabinete de Mendonça.
+
 **Gabriel Galípolo.** Presidente do Banco Central. É o "G" das mensagens, segundo a PF. Vorcaro dizia ter "amigos" dentro do BC e tentou reunião com ele antes da liquidação. Encontrou-se com Moraes em 22/12/2025; ambos negam ter tratado do Master. A PF investiga servidores do BC e um grupo de WhatsApp chamado "Master".
 
 ## Congresso e Executivo

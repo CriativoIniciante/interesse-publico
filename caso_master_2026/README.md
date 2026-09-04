@@ -1,6 +1,6 @@
 # Caso Master — o relatório da PF de 218 páginas e a crise institucional
 
-**Estado em 04/09/2026, 10h (horário de Brasília). Seções 12 e 13 acrescentadas na tarde do mesmo dia.**
+**Estado em 04/09/2026, 10h (horário de Brasília). Seções 12 a 16 acrescentadas na tarde e noite do mesmo dia.**
 
 Perfis de cada pessoa citada: [personagens.md](personagens.md).
 
@@ -232,6 +232,90 @@ Fontes desta parte: Poder360 (Veja e os US$ 30 milhões; "109 pedidos"), Correio
 - https://www.camara.leg.br/noticias/1212823-cpmi-do-inss-rejeita-convocacao-de-frei-chico-irmao-de-lula/
 - https://www.correiobraziliense.com.br/politica/2025/10/7274683-irmao-de-lula-processa-quem-o-associa-a-esquema-de-descontos-e-critica-cpmi-do-inss.html
 - https://www.cartacapital.com.br/justica/justica-manda-remover-publicacoes-que-associam-irmao-de-lula-a-fraudes-no-inss/
+
+## 14. Quem investiga quem: o caso "Dark Horse" passo a passo
+
+O ponto de partida é uma correção: **o relator do inquérito "Dark Horse" é André Mendonça**, indicado por Bolsonaro, e não um ministro indicado por Lula. A disputa pela relatoria foi o contrário do que se supõe: o PT tentou levar o caso para Moraes e perdeu.
+
+| Data | Fato |
+|---|---|
+| 13/05/2026 | O Intercept Brasil publica áudio e mensagens em que Flávio Bolsonaro pede a Vorcaro R$ 134 milhões (US$ 24 milhões) para o filme sobre o pai. O material vem da extração do celular de Vorcaro, apreendido pela PF em novembro de 2025. Flávio confirmou a autenticidade do áudio, segundo a Agência Pública. Em 09/06 o Intercept publica planilha e comprovante bancário |
+| 14/05 | O deputado Helio Lopes (PL-RJ) pede a Mendonça e ao TSE apuração do "vazamento seletivo". O senador Rogério Marinho (PL-RN), coordenador da campanha de Flávio, faz pedido semelhante em maio: origem do material, cadeia de custódia, agentes com acesso. Mendonça determinou a abertura de inquérito sobre os vazamentos, atendendo também à defesa de Vorcaro; foi nesse inquérito que a PF identificou o perito que montou "Moraes.pdf" e "Toffoli e esposa.pdf" e sugeriu vazá-los (seção 1) |
+| maio e junho | Mais de vinte pedidos de investigação contra Flávio chegam ao STF (PT, PSOL, Rede). O deputado Lindbergh Farias (PT-RJ) apresenta notícia-crime e pede que seja juntada ao inquérito sobre Eduardo Bolsonaro, relatado por **Moraes** |
+| 22/06 | Moraes retira a notícia-crime do inquérito de Eduardo e a envia a Fachin |
+| junho | A PGR (Gonet) opina que o caso deve ir a **Mendonça**, por prevenção, porque os fatos já estão numa petição relatada por ele |
+| 25/06 | Fachin redistribui o caso a Mendonça |
+| 26/06 | Lindbergh recorre. O recurso está no gabinete de Mendonça desde então, sem ir ao plenário |
+| 23/07 | Mendonça autoriza a PF a abrir inquérito sobre Vorcaro, Flávio e Eduardo (evasão de divisas, lavagem, corrupção), com parecer da PGR de que havia elementos suficientes |
+| junho a agosto, segunda frente | A Polícia Civil de SP faz operação contra a GoUp Entertainment, produtora do filme, por suspeita de fraude em licitação de R$ 108 milhões da Prefeitura de São Paulo vencida pelo Instituto Conhecer Brasil, entidade ligada à GoUp, que recebeu R$ 2 milhões em emendas federais do deputado Mario Frias (PL-SP). Essa frente está no STF por representação da deputada Tabata Amaral (PSB-SP) e é relatada por **Flávio Dino**. Em 21/08 (divulgado 24/08), Dino autoriza a Polícia Civil a compartilhar o material com a PF. Mario Frias nega irregularidade |
+| agosto | Vem a público o laudo privado contratado pela GoUp ao perito Anísio Castelo Branco (Instituto de Perícia Investigativa), afirmando que os recursos do filme "possuem origem privada comprovada" e não têm ligação com dinheiro público. Em 26/08, ao Globo, o perito admite não ter auditado o fundo Havengate: "Eu não sei quanto foi enviado do Brasil aos EUA, nem sei se foi enviado, porque eu não estou investigando o fundo". A PF pede à GoUp a origem dos recursos; a produtora encomenda nova perícia |
+| 01/09 | A piauí publica relatório do Coaf com mais US$ 1,6 milhão em setembro de 2025; total documentado sobe a US$ 12,3 milhões |
+| 01 a 03/09 | Aliados de Lula acusam Mendonça de proteger Flávio por manter o sigilo do Dark Horse enquanto levantou o de Moraes e o de Jaques Wagner (fim de julho). Deputados pedem a Fachin o fim do sigilo. Em 03/09 a PGR homologa a delação de Freixo (malas de dinheiro, Havengate) |
+
+**Onde mais Flávio é investigado.** Moraes abriu inquérito, com parecer favorável da PGR, por suposta difamação contra Lula (declaração de que Lula seria delatado por Maduro). Na delação rejeitada de Vorcaro, a doação de R$ 3 milhões à campanha de 2022 aparece como propina; a PF não aceitou a delação e Flávio nega.
+
+**O que pesa.** Nesta frente, os fatos não sustentam a leitura de que o sistema montou o caso contra Flávio: o áudio é autêntico por confirmação do próprio senador; quem relata é o ministro indicado por Bolsonaro; a PGR e Fachin o mantiveram lá contra a vontade do PT; e o sigilo que o PT quer derrubar é mantido por Mendonça. O que os fatos sustentam é que o celular de Vorcaro, sob custódia da PF, vazou para a imprensa em série ao longo de 2026, e que cada lado pediu apuração do vazamento quando o material atingiu o seu campo.
+
+## 15. A Polícia Federal neste caso: o que pesa contra e o que pesa a favor
+
+A PF não é um bloco, e o registro público tem os dois lados. Abaixo, só o documentado.
+
+**O que pesa contra.**
+- **Dezembro de 2025.** Um perito da PF acessou a extração do celular em 01/12, produziu "Moraes.pdf" e "Toffoli e esposa.pdf" em 04/12 e sugeriu à equipe entregá-los à imprensa. Foi alvo de busca em maio e afastado. Ou seja: havia material sobre Moraes identificado dentro da PF desde dezembro.
+- **19/02/2026.** O relatório oficial da PF sobre o celular recuperou a nota de 30/10/2025 ("reforçar com Andrei e Paulo"), apontou "Andrei" como o diretor-geral e "Paulo" como o PGR, mas registrou o destinatário só como "interlocutor". Em 06/03 a comunicação do STF negou que fosse Moraes, dizendo que os arquivos estavam "vinculados a pastas de outras pessoas". A identificação formal de Moraes como destinatário só veio em 27/08, em 72 horas, porque Mendonça mandou. O ICL Notícias afirma que o cruzamento de horários entre notas e envios já era possível em março; a PF diz que a análise de agosto "não possui caráter exaustivo". Por que seis meses: é a pergunta aberta, e as duas leituras existem, a de que a PF segurou e a de que não fez o trabalho.
+- **25/04/2024.** O diretor-geral Andrei Rodrigues participou em Londres de degustação de Macallan paga por Vorcaro (US$ 640 mil), com Moraes, Toffoli, Gonet e Lewandowski, um ano e meio antes de a PF que ele dirige prender o banqueiro. Não respondeu à imprensa sobre isso.
+- **Agosto de 2026.** A PF, sob Andrei, produziu um relatório de inteligência de 50 páginas, sem timbre, sem assinatura e sem data, monitorando a atuação do juiz que relata as investigações em que o próprio Andrei é citado (Compliance Zero) e a Sem Desconto. O documento registra reuniões (uma em 13/08), afirma que Mendonça vê Alcolumbre como "provável alvo estratégico", que Mendonça dizia que Andrei tinha "proximidade inadequada" com Lula e cogitava afastá-lo, que Mendonça questionava a imparcialidade de Gonet por proximidade com Gilmar, que Mendonça recebeu dados brutos em formato forense antes da triagem da PF, e que uma servidora guardava discos rígidos com extrações na própria mesa. A Diretoria-Geral consultou a área jurídica sobre "autonomia administrativa" da corporação diante das ordens do relator. Em 01/09, Moraes, também citado no caso, mandou Andrei lhe enviar os relatórios que mencionassem ministros; a PF enviou; Moraes os usou dois dias depois para pedir a investigação de Mendonça. O próprio relatório se declara de confiança "baixa ou moderada", "sem valor probatório", e diz que "a causa não estaria demonstrada".
+- **Reunião de 24/08.** Na PF, ficou conhecida como "cilada": delegados convocados para outro assunto saíram com a ordem de 72 horas. A PF registrou que Mendonça "extrapolou a sua competência". Fontes anônimas da PF chamaram o depoimento de Vorcaro de 27/08 de "oitiva forjada".
+- **Vazamentos.** Todo o material que saiu na imprensa em 2026 (Vaza Flávio em maio, áudios sobre Mendonça em setembro, os PDFs sobre ministros) veio de extração sob custódia da PF. Um perito foi afastado; o inquérito sobre os vazamentos segue.
+
+**O que pesa a favor.**
+- As 218 páginas que expõem Moraes são trabalho da PF, e a técnica que recuperou as notas apagadas também.
+- Em 11/02/2026 foi a PF que pediu o afastamento de Toffoli da relatoria; o STF negou por unanimidade e Toffoli saiu no dia seguinte.
+- A PF prendeu Vorcaro duas vezes, rejeitou duas delações que a imprensa descreve como tentativas de conseguir prisão domiciliar, e fez buscas em Jaques Wagner (PT), Ciro Nogueira (PP), Cláudio Castro (PL) e Henrique Vorcaro.
+- O inquérito do Dark Horse é conduzido pela PF, e foi a PF que pediu à GoUp a origem do dinheiro e a Dino o acesso aos dados de São Paulo.
+
+**Balanço.** O que está provado é conflito de interesses (o diretor-geral em evento pago pelo investigado), custódia porosa (vazamentos em série e um perito montando dossiês) e uma corporação que passou a monitorar o juiz e a entregar esse monitoramento a um ministro investigado. O que não está provado é que a PF tenha fabricado ou escondido prova por ordem de alguém. "Envolvida até o pescoço" descreve o primeiro conjunto; "mentiras" exigiria o segundo, e ele ainda não existe no registro público.
+
+## 16. Flávio Dino: histórico, alinhamentos e o inquérito das emendas
+
+**Trajetória.** Nascido em São Luís. Apoiador de Lula desde a campanha de 1989, quando presidia o DCE da UFMA. Juiz federal até 2006. Governador do Maranhão por dois mandatos, senador em 2023, ministro da Justiça de Lula de janeiro de 2023 a fevereiro de 2024. Indicado por Lula ao STF, aprovado no Senado por 47 a 31, empossado em 22/02/2024. Integra a 1ª Turma com Moraes (presidente), Zanin, Cármen Lúcia e Fux, a turma que julgou Bolsonaro pela tentativa de golpe; em março de 2025 o plenário rejeitou os pedidos para afastar Moraes, Dino e Zanin daquele julgamento.
+
+**Alinhamentos registrados.** Votou com Moraes, Zanin e Gilmar para liberar parte dos "penduricalhos" barrados pela decisão do STF sobre supersalários. Na crise atual, o Jornal de Brasília o coloca, com Zanin e Gilmar, "firmemente alinhado" a Moraes contra o método de Mendonça, com comparações à Lava Jato. Foi Dino, porém, quem autorizou em 04/08/2026 o terceiro inquérito contra Lulinha, filho do presidente que o indicou, e quem em 21/08 liberou à PF os dados de São Paulo sobre a produtora do Dark Horse.
+
+**O inquérito das emendas.** Dino é relator da ADPF 854, ação do PSOL sobre transparência e rastreabilidade das emendas parlamentares. Em 23/11/2025 determinou que a PF investigasse indícios de crime na execução de emendas. Em maio de 2026 abriu apuração sigilosa. Em 14/07/2026 deu dez dias a Hugo Motta para entregar a documentação das emendas sob suspeita e intimou os presidentes de partidos a explicar se interferem na indicação, depois de Valdemar Costa Neto (PL) confirmar em entrevista que os líderes interferem. A PF apontou que Valdemar, sem mandato, teria controlado 21 emendas de cerca de R$ 119 milhões, e Eduardo Cunha ao menos 29; ambos negam. Em 23/08/2026 Dino declarou nulas as indicações de emendas feitas por presidentes de partido ou ex-parlamentares (as "emendas de líder") e mandou as respostas dos partidos à PF. Motta mobilizou a Câmara para "defender o que está sendo feito"; líderes do centro e da direita leem a ofensiva como capaz de alcançar mais aliados.
+
+**O que pesa.** Que Dino é um ministro de origem política, indicado por Lula e alinhado a Moraes, está documentado. Que ele use o inquérito das emendas "para pressionar o Legislativo" é a leitura de quem é alcançado por ele; o registro mostra uma ação de 2021 do PSOL, decisões sucessivas com prazos, e apurações da PF que atingem o presidente do partido de Flávio. Que ele seja o relator do Dark Horse é falso: ele relata a frente paralela da produtora e das emendas de Mario Frias; o inquérito principal é de Mendonça.
+
+Fontes desta parte: CNN Brasil (PGR defende Mendonça como relator, 22/06; Dino autoriza acesso a dados), JB (redistribuição de Fachin, 25/06), CartaCapital e Metrópoles (recurso de Lindbergh), JOTA (Mendonça abre inquérito; inquérito por difamação), Poder360 (perito do Dark Horse, 26/08; relatório paralelo da PF; íntegra do relatório; como a PF descobriu as mensagens), Metrópoles/Reinaldo Azevedo (petição de Moraes item a item), Jovem Pan (dados brutos antes da análise), ICL Notícias (relatório de 19/02), Gazeta do Povo (perito Nabas; Marinho pede apuração), Metrópoles (Helio Lopes; Motta e as emendas), Band (decisão de Dino, 24/08), STF (ADPF 854; investigação de emendas; vazamento), Agência Brasil e Brasil de Fato (intimação dos partidos; nulidade das emendas de líder), Congresso em Foco e CNN (perfil de Dino), Agência Pública (nota sobre o áudio; escândalo do filme). Links:
+- https://www.cnnbrasil.com.br/politica/pgr-defende-mendonca-como-relator-de-pedido-investigacao-sobre-dark-horse/
+- https://www.jb.com.br/brasil/justica/2026/06/1060089-fachin-redistribui-caso-dark-horse-e-relatoria-vai-para-andre-mendonca.html
+- https://www.cnnbrasil.com.br/politica/lindbergh-recorre-para-evitar-que-mendonca-seja-relator-de-caso-dark-horse/
+- https://www.cartacapital.com.br/politica/mendonca-segura-recurso-sigiloso-sobre-o-futuro-do-caso-dark-horse/
+- https://www.jota.info/stf/do-supremo/mendonca-abre-investigacao-que-envolve-flavio-bolsonaro-sobre-repasses-ao-filme-dark-horse
+- https://www.jota.info/eleicoes/eleicoes-2026/flavio-bolsonaro-sera-investigado-no-stf-por-dizer-que-lula-sera-delatado-por-maduro
+- https://www.band.com.br/politica/noticias/dino-autoriza-pf-a-acessar-investigacao-sobre-produtora-do-dark-horse-202608241747
+- https://www.poder360.com.br/poder-justica/perito-diz-que-nao-rastreou-origem-de-dinheiro-de-dark-horse/
+- https://apublica.org/nota/flavio-bolsonaro-audio-vazado-com-vorcaro-cobra-r-134-milhoes/
+- https://www.metropoles.com/brasil/bolsonarista-aciona-stf-para-apurar-audio-de-flavio-a-vorcaro
+- https://www.gazetadopovo.com.br/republica/marinho-pede-stf-investigacao-vazamento-mensagens-flavio-vorcaro/
+- https://noticias.stf.jus.br/postsnoticias/stf-determina-abertura-de-investigacao-para-apurar-vazamento-de-mensagens-de-celular-de-daniel-vorcaro/
+- https://www.diariocarioca.com/2026/09/02/politica/judiciario/mendonca-e-acusado-de-proteger-flavio-bolsonaro-e-pressionado-para-quebrar-sigilo-do-caso-dark-horse
+- https://www.poder360.com.br/poder-justica/pf-produziu-relatorio-paralelo-sobre-atuacao-de-mendonca-no-caso-master/
+- https://www.poder360.com.br/poder-justica/leia-o-relatorio-da-pf-que-moraes-usou-para-imputar-crimes-a-mendonca/
+- https://www.metropoles.com/colunas/reinaldo-azevedo/item-a-item-por-que-moraes-pede-investigacao-de-mendonca-li-o-texto
+- https://jovempan.com.br/politica/relatorio-diz-que-mendonca-recebeu-dados-de-processos-antes-da-analise-da-pf/
+- https://iclnoticias.com.br/como-pf-ligou-mensagem-de-vorcaro-a-moraes/
+- https://www.poder360.com.br/poder-justica/saiba-como-a-pf-descobriu-as-mensagens-de-vorcaro-para-moraes/
+- https://www.gazetadopovo.com.br/republica/agente-pf-produziu-provas-contra-moraes-toffoli-vazaram-imprensa/
+- https://www.poder360.com.br/poder-justica/moraes-vorcaro-e-andrei-degustaram-macallan-juntos-em-londres/
+- https://www.congressoemfoco.com.br/noticia/19105/veja-quem-e-flavio-dino-novo-ministro-do-stf-indicado-por-lula
+- https://jornaldebrasilia.com.br/noticias/politica-e-poder/moraes-zanin-dino-e-gilmar-votam-juntos-para-liberar-penduricalhos-que-haviam-sido-barrados-no-stf/
+- https://noticias.stf.jus.br/postsnoticias/stf-rejeita-pedidos-para-afastar-ministros-da-analise-de-denuncia-sobre-golpe/
+- https://www.transparencia.org.br/noticias/apos-alerta-de-entidades-dino-manda-investigar-possiveis-crimes-com-emendas/
+- https://www.correiobraziliense.com.br/politica/2026/05/7420380-dino-determina-abertura-de-investigacao-sigilosa-sobre-emendas-parlamentares.html
+- https://agenciabrasil.ebc.com.br/justica/noticia/2026-07/dino-intima-partidos-explicar-controle-de-emendas-parlamentares
+- https://www.brasildefato.com.br/2026/08/23/flavio-dino-declara-nulas-emendas-parlamentares-solicitadas-ou-indicadas-por-presidentes-de-partidos-e-envia-respostas-de-partidos-a-pf/
+- https://www.metropoles.com/brasil/motta-mobiliza-camara-para-defender-emendas-questionadas-por-dino
 
 ---
 
