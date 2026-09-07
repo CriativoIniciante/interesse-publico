@@ -113,7 +113,11 @@ A lista acima só faz sentido ao lado desta. Os vícios apontados pelas anulaç�
 - [P] Sergio Moro aceitou o Ministério da Justiça do vencedor da eleição que a prisão de Lula decidiu (nov/2018) e depois acusou o mesmo presidente de interferir na PF (abr/2020); a PF concluiu duas vezes que não houve interferência.
 - Cabral ficou seis anos preso sem trânsito em julgado; Lula, 580 dias.
 
-### 3.4 O que a lista mostra, e o que não mostra
+### 3.4 As delações: o que sobreviveu
+
+A outra metade desta seção é o que as delações disseram e o que se confirmou; está no [anexo das delações](anexo_delacoes_2026-09-07.md). O resultado em uma linha: 399 delações e 43 leniências homologadas em Curitiba, 101 políticos com foro atingidos, e três condenados com trânsito em julgado (Meurer, Geddel, Collor); os delatores trocaram séculos de pena por meses de prisão e mantiveram os acordos mesmo quando os atos contra eles foram anulados; as acusações contra ministros do STF (Barusco, Marcelo Odebrecht, Léo Pinheiro e Cabral sobre Toffoli) nunca viraram inquérito, e a delação que mais o citava foi anulada com o voto dele.
+
+### 3.5 O que a lista mostra, e o que não mostra
 
 O que mostra [P]: os mesmos ministros aparecem em quase todas as anulações da cúpula (Gilmar em 2016, 2019, 2021, 2024; Toffoli em 2019, 2023, 2024, 2025, 2026; Lewandowski em 2019, 2020, 2021), em geral por decisão monocrática ou por 3 a 2 na 2ª Turma; a PGR de Aras não se opôs ao essencial e a de Gonet se opôs e perdeu; nenhum mérito foi rejulgado; cerca de R$ 14 bilhões em multas ficaram suspensos; e as delações, isto é, as confissões, foram todas mantidas. Os beneficiários vêm de todos os partidos: PT (Lula, Dirceu, Palocci, Vaccari), MDB (Cunha, Cabral, Temer, Renan, Geddel), PL (Flávio Bolsonaro), PSDB (Richa), e as maiores empreiteiras e o maior frigorífico do país.
 
