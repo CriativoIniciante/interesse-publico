@@ -2,6 +2,8 @@
 
 **Estado em 06/09/2026.** Este é o documento de entrada do repositório. Ele junta, numa leitura só, o que as três pesquisas detalhadas apuraram sobre o mensalão, o petrolão e a Lava Jato, a fraude do INSS, o caso do Banco Master e a investigação das emendas parlamentares, e sobre as pessoas que aparecem em mais de um deles. Cada afirmação aqui tem uma fonte publicada por trás e está graduada pelo peso da prova. Nada aqui é tese de campanha; onde a fonte é fraca, isso está dito.
 
+**Resumo executivo:** [conclusoes_2026-09-07.md](conclusoes_2026-09-07.md), sete conclusões que o material sustenta e três que ainda não. **Versão visual em página única:** https://criativoiniciante.github.io/interesse-publico/ (GitHub Pages, gerada de `dossie_visual.html`).
+
 **Como ler a régua.** Toda afirmação carrega uma letra:
 
 | Letra | Significa | Exemplos |

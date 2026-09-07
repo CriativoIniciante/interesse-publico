@@ -1,0 +1,47 @@
+name: Publicar página visual no GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Montar o site estático
+        run: |
+          mkdir -p _site
+          cp consolidado_2005_2026/dossie_visual.html _site/index.html
+          mkdir -p _site/consolidado_2005_2026/mapa _site/quem_se_repete_2005_2026/mapa _site/caso_master_2026/mapa
+          cp consolidado_2005_2026/dossie_visual.html _site/consolidado_2005_2026/
+          cp consolidado_2005_2026/mapa/*.png consolidado_2005_2026/mapa/*.svg _site/consolidado_2005_2026/mapa/
+          cp quem_se_repete_2005_2026/mapa/*.png quem_se_repete_2005_2026/mapa/*.svg _site/quem_se_repete_2005_2026/mapa/
+          cp caso_master_2026/mapa/*.png caso_master_2026/mapa/*.svg _site/caso_master_2026/mapa/
+          touch _site/.nojekyll
+      - uses: actions/configure-pages@v5
+        with:
+          enablement: true
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

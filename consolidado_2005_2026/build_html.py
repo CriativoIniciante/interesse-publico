@@ -125,6 +125,34 @@ if len(tb6) > 1:
     h2, r2 = tb6[1][1], tb6[1][2]
     CONFIRMACOES = '<div class="tbl plain"><table><thead><tr>' + ''.join(f'<th>{html.escape(h)}</th>' for h in h2) + '</tr></thead><tbody>' + ''.join('<tr>' + ''.join(f'<td>{inline(c)}</td>' for c in r) + '</tr>' for r in r2) + '</tbody></table></div>'
 
+# ---- conclusões (arquivo separado, mesma régua) ----
+concl_files = sorted(here.glob("conclusoes_*.md"))
+CONCLUSOES, DATA_CONCL = "", DATA
+if concl_files:
+    cm = concl_files[-1].read_text(encoding="utf-8")
+    mm = re.search(r"\*\*Estado em (\d{2}/\d{2}/\d{4})", cm)
+    if mm: DATA_CONCL = mm.group(1)
+    out = ['<div class="concl">']; lst = None; cls = ""
+    for line in cm.split("\n"):
+        if line.startswith("# ") or line.startswith("**Estado em") or line.startswith("*Compilado"):
+            continue
+        if line.startswith("## "):
+            if lst: out.append("</ul>"); lst = None
+            title = line[3:].strip()
+            cls = "nao" if "não dá" in title else ("sim" if "demonstra" in title else "")
+            out.append(f"<h3>{html.escape(title)}</h3>"); continue
+        if line.startswith("- "):
+            if not lst: out.append(f'<ul class="{cls}">'); lst = True
+            out.append(f"<li>{inline(line[2:].strip())}</li>"); continue
+        if lst and not line.strip():
+            out.append("</ul>"); lst = None; continue
+        if line.strip():
+            fecho = ' class="fecho"' if line.startswith("Os marcos") else ""
+            out.append(f"<p{fecho}>{inline(line.strip())}</p>")
+    if lst: out.append("</ul>")
+    out.append("</div>")
+    CONCLUSOES = "\n".join(out)
+
 # ---- SVGs embutidos ----
 def svg_inline(path, label):
     s = pathlib.Path(path).read_text(encoding="utf-8")
@@ -141,7 +169,7 @@ head_html = TPL.split("<!--HEAD-->")[1].split("<!--/HEAD-->")[0]
 body_html = TPL.split("<!--BODY-->")[1].split("<!--/BODY-->")[0]
 fill = {"{{CASOS_TABLE}}": CASOS_TABLE, "{{FICHAS}}": FICHAS, "{{CORRECOES}}": CORRECOES, "{{CONFIRMACOES}}": CONFIRMACOES,
         "{{SVG_MATRIZ}}": SVG_MATRIZ, "{{SVG_CUPULA}}": SVG_CUPULA, "{{SVG_CADEIAS}}": SVG_CADEIAS, "{{SVG_MASTER}}": SVG_MASTER,
-        "{{REPO}}": REPO_URL, "{{BRANCH}}": BRANCH, "{{DATA}}": DATA, "{{N_ROWS}}": str(n_rows)}
+        "{{REPO}}": REPO_URL, "{{BRANCH}}": BRANCH, "{{DATA}}": DATA, "{{N_ROWS}}": str(n_rows), "{{CONCLUSOES}}": CONCLUSOES, "{{DATA_DATA}}": DATA, "{{DATA_CONCL}}": DATA_CONCL}
 for k, v in fill.items():
     head_html = head_html.replace(k, v); body_html = body_html.replace(k, v)
 

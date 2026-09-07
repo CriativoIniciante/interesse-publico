@@ -151,6 +151,18 @@ tr td:first-child{border-left:4px solid var(--c, transparent);padding-left:10px}
 .patterns li{border-top:1px solid var(--line2);padding-top:12px;font-size:15.5px;line-height:1.45}
 .patterns li strong{display:block;font-family:var(--display);font-size:21px;font-weight:600;line-height:1.15;margin-bottom:6px}
 
+/* --- conclusões --- */
+.concl h3{margin:34px 0 14px;font-size:clamp(20px,2.2vw,25px)}
+.concl h3:first-child{margin-top:8px}
+.concl ul{list-style:none;margin:0;padding:0;display:grid;gap:12px;max-width:var(--measure)}
+.concl li{border-left:3px solid var(--line2);padding:2px 0 2px 16px;font-size:16px;line-height:1.5}
+.concl li strong{font-weight:600}
+.concl .nao li{border-left-color:var(--red)}
+.concl .sim li{border-left-color:var(--ink)}
+.concl p{max-width:var(--measure);font-size:16px;line-height:1.55}
+.concl p+p{margin-top:12px}
+.concl .fecho{margin-top:16px;padding:18px 20px;border-left:3px solid var(--accent);background:var(--accent-soft)}
+
 /* --- correções --- */
 .fix{display:grid;grid-template-columns:1fr 1fr 1fr;gap:0 18px;padding:12px 0;border-top:1px solid var(--line);font-size:14.5px;line-height:1.4}
 .fix .w{font-family:var(--mono);font-size:12.5px;color:var(--ink2)}
@@ -296,8 +308,13 @@ footer .row{display:flex;flex-wrap:wrap;gap:10px 30px;justify-content:space-betw
   <div class="sentence"><b>Em uma frase, sem exagero</b>Em setembro de 2026 a cúpula do STF, da PGR, da PF e do Senado tem conflitos de interesse documentados com o principal investigado do maior caso financeiro do país, e parte dela recebeu dinheiro dele por vias indiretas; o governo tem o líder no Senado sob busca, o ex-chefe de gabinete sob inquérito e dois ex-ministros pagos pelo banco. O que a frase não pode dizer com fatos: que todos estão comprometidos, que houve proteção provada, ou que Lula, Alcolumbre e Andrei receberam algo.</div>
 </section>
 
+<section id="conclusoes">
+  <div class="sec-head"><div class="idx">Parte 7<small>estado em {{DATA_CONCL}}</small></div><h2>O que dá para concluir até agora</h2></div>
+  {{CONCLUSOES}}
+</section>
+
 <section id="padroes">
-  <div class="sec-head"><div class="idx">Parte 7<small>observação, não tese</small></div><h2>O que se repete</h2></div>
+  <div class="sec-head"><div class="idx">Parte 8<small>observação, não tese</small></div><h2>O que se repete</h2></div>
   <ul class="patterns">
     <li><strong>O operador é o pivô</strong>Valério, Youssef, Funaro, Vorcaro, Careca. É por ele que a prova entra (delação ou celular) e é ele que liga políticos de campos opostos.</li>
     <li><strong>Os partidos-ponte voltam</strong>PP (Janene, Paulo Roberto Costa, Nogueira), MDB (Cunha, Temer), PT (Dirceu, Delúbio, Wagner) e, em 2026, o PL (Valdemar, Bolsonaro, Flávio).</li>
@@ -310,7 +327,7 @@ footer .row{display:flex;flex-wrap:wrap;gap:10px 30px;justify-content:space-betw
 </section>
 
 <section id="correcoes">
-  <div class="sec-head"><div class="idx">Parte 8<small>transparência</small></div><h2>O que corrigimos nas nossas próprias pesquisas</h2></div>
+  <div class="sec-head"><div class="idx">Parte 9<small>transparência</small></div><h2>O que corrigimos nas nossas próprias pesquisas</h2></div>
   <p class="lead">Erros dos dossiês de 04/09, encontrados na conferência contra fontes primárias em 05 e 06/09 e já corrigidos nos arquivos.</p>
   <div class="fixes">{{CORRECOES}}</div>
   <div class="group"><h3>Os cinco itens que estavam sem confirmação <small>conferidos em 06/09</small></h3><p class="note" style="margin-bottom:6px">Um caiu, três confirmaram, um era inferência de veículo e virou "sem data".</p></div>
@@ -318,7 +335,7 @@ footer .row{display:flex;flex-wrap:wrap;gap:10px 30px;justify-content:space-betw
 </section>
 
 <section id="ressalvas">
-  <div class="sec-head"><div class="idx">Parte 9<small>como ler</small></div><h2>Ressalvas e método</h2></div>
+  <div class="sec-head"><div class="idx">Parte 10<small>como ler</small></div><h2>Ressalvas e método</h2></div>
   <div class="prose">
     <p>Condenação anulada não é absolvição de mérito; absolvição, arquivamento e prescrição são desfechos distintos, e o texto diz qual foi. Delação rejeitada é palavra de réu preso: entra como alegação, nunca como fato. O relatório de inteligência da PF sobre Mendonça e Alcolumbre declara-se sem valor probatório; nada dele entra como fato. Ninguém dos casos de 2025 e 2026 foi condenado, e todos os investigados negam.</p>
     <p>O Atlas Brasileiro é um ponteiro, não uma fonte: cada informação apontada por ele foi lida na reportagem ou no documento de origem. Foram varridas as 42 edições (jan/2023 a jun/2026), resolvidas as 441 publicações citadas na origem, lidas 26 reportagens na íntegra e feitas mais de 90 buscas; 85 células da matriz e 30 perfis foram conferidos um a um em decisão, documento oficial ou reportagem de origem. Compilação com auxílio de IA (Claude, Anthropic); revisão e publicação pelo autor.</p>
