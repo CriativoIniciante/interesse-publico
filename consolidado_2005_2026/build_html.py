@@ -119,6 +119,11 @@ fx = [f'<div class="fix" style="border-top:1px solid var(--line2)"><div class="w
 for r in rows6:
     fx.append(f'<div class="fix"><div class="w">{inline(r[0])}</div><div class="was">{inline(r[1])}</div><div class="now">{inline(r[2])}</div></div>')
 CORRECOES = "\n".join(fx)
+tb6 = tables(sec6)
+CONFIRMACOES = ""
+if len(tb6) > 1:
+    h2, r2 = tb6[1][1], tb6[1][2]
+    CONFIRMACOES = '<div class="tbl plain"><table><thead><tr>' + ''.join(f'<th>{html.escape(h)}</th>' for h in h2) + '</tr></thead><tbody>' + ''.join('<tr>' + ''.join(f'<td>{inline(c)}</td>' for c in r) + '</tr>' for r in r2) + '</tbody></table></div>'
 
 # ---- SVGs embutidos ----
 def svg_inline(path, label):
@@ -134,7 +139,7 @@ n_rows = len(re.findall(r'^ \("[^"]+", \{', (repo / "quem_se_repete_2005_2026/ma
 
 head_html = TPL.split("<!--HEAD-->")[1].split("<!--/HEAD-->")[0]
 body_html = TPL.split("<!--BODY-->")[1].split("<!--/BODY-->")[0]
-fill = {"{{CASOS_TABLE}}": CASOS_TABLE, "{{FICHAS}}": FICHAS, "{{CORRECOES}}": CORRECOES,
+fill = {"{{CASOS_TABLE}}": CASOS_TABLE, "{{FICHAS}}": FICHAS, "{{CORRECOES}}": CORRECOES, "{{CONFIRMACOES}}": CONFIRMACOES,
         "{{SVG_MATRIZ}}": SVG_MATRIZ, "{{SVG_CUPULA}}": SVG_CUPULA, "{{SVG_CADEIAS}}": SVG_CADEIAS, "{{SVG_MASTER}}": SVG_MASTER,
         "{{REPO}}": REPO_URL, "{{BRANCH}}": BRANCH, "{{DATA}}": DATA, "{{N_ROWS}}": str(n_rows)}
 for k, v in fill.items():

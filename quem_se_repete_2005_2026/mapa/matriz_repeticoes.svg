@@ -139,8 +139,9 @@
 <rect x="1550.5" y="607.5" width="303" height="53" rx="6" fill="none" stroke="#0b0b0b" stroke-width="2.6"/>
 <text x="1566" y="641.0" font-size="20" fill="#fab219">■</text>
 <text x="1846" y="618" font-size="9.5" font-weight="700" text-anchor="end" fill="#0b0b0b">P</text>
-<text x="1594" y="632" font-size="10.2" fill="#0b0b0b">PF: ao menos 29 emendas sem mandato; R$ 6 mi</text>
-<text x="1594" y="644" font-size="10.2" fill="#0b0b0b">bloqueados; nega</text>
+<text x="1594" y="626" font-size="10.2" fill="#0b0b0b">PF: 29 emendas indicadas sem mandato, 21</text>
+<text x="1594" y="638" font-size="10.2" fill="#0b0b0b">pagas; R$ 6,15 mi bloqueados por Dino</text>
+<text x="1594" y="650" font-size="10.2" fill="#0b0b0b">(10/07/2026); nega</text>
 <line x1="60" y1="724" x2="1860" y2="724" stroke="#e0dfd9" stroke-width="1"/>
 <text x="60" y="699.0" font-size="14" font-weight="700" fill="#0b0b0b">Michel Temer</text>
 <text x="296" y="699.0" font-size="12" text-anchor="end" fill="#52514e">2 casos</text>

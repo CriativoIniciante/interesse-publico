@@ -39,14 +39,14 @@ Símbolo e cor dizem a condição jurídica na coluna. O texto da célula diz o 
 | Alberto Youssef | 2 | Mensalão: lavou R$ 1,16 milhão de Janene · Lava Jato: doleiro pivô e delator |
 | Marcos Valério | 2 | Mensalão: 40 anos · Mensalão tucano (MG, 1998): 16 anos e 9 meses (2018) |
 | Valdemar Costa Neto | 2 | Mensalão: condenado, indultado · Emendas: 21 emendas de R$ 119 milhões sem mandato (PF) |
-| Eduardo Cunha | 2 | Lava Jato: condenado em Curitiba (2017, anulada em 2023) e em Brasília (Sépsis, 2018, 24 anos e 10 meses) · Emendas: 29 emendas sem mandato (PF), R$ 6 milhões bloqueados |
+| Eduardo Cunha | 2 | Lava Jato: condenado em Curitiba (2017, anulada em 2023) e em Brasília (Sépsis, 2018, 24 anos e 10 meses) · Emendas: 29 emendas indicadas sem mandato, 21 pagas (PF); R$ 6,15 milhões bloqueados por Dino em 10/07/2026 |
 | Michel Temer | 2 | Lava Jato: 2 denúncias barradas (2017), preso 10 dias em duas prisões (2019), absolvido em Angra 3 (2022) · Master: contratado em set/2025 para destravar a venda ao BRB; intermediário com investidores árabes (imprensa) |
 | Guido Mantega | 2 | Lava Jato: fases anuladas, absolvido (BNDES, 2023), prescrito (Zelotes, fev/2025) · Master: R$ 1 milhão por mês a pedido de Jaques Wagner; levou Vorcaro a Lula (imprensa, jan/2026) |
 | Ciro Nogueira | 2 | Lava Jato: denunciado (R$ 7,3 mi da Odebrecht), arquivado e rejeitado · Master: busca, R$ 300 mil/mês |
 | Jaques Wagner | 2 | Lava Jato: inquérito Fonte Nova arquivado em 2025 · Master: busca em 18/06/2026; admite ter indicado Lewandowski ao banco |
 | Gilberto Kassab | 2 | Lava Jato/JBS: réu em 2021, absolvido com trânsito em julgado em 29/11/2023; Moraes reteve o inquérito no STF em 2025 · Master: delação rejeitada, nega |
 | Davi Alcolumbre | 2 | Lava Jato: citado em denúncia de 2019; dois inquéritos eleitorais (2014) arquivados em 2019 · Master: US$ 30 milhões em delação rejeitada, nega; guardou os dados de Vorcaro por decisão de Toffoli (dez/2025 a fev/2026) |
-| Daniel Vorcaro | 2 | Master: preso, réu · INSS: consignado 74% irregular, CPMI pediu indiciamento |
+| Daniel Vorcaro | 2 | Master: preso, réu, duas propostas de delação rejeitadas · INSS: consignado 74% irregular; o relatório da CPMI que pedia seu indiciamento foi rejeitado |
 | Cristiano Zanin | 2 | Lava Jato: advogado de Lula, obteve a suspeição de Moro · Master: ministro na 1ª Turma, alinhado a Moraes |
 | Edson Fachin | 2 | Lava Jato: relator no STF, anulou as condenações de Lula · Master: presidente, abriu o procedimento |
 | Alexandre de Moraes | 2 | Lava Jato: contra a soltura (2019), pela anulação (2021) · Master: 218 páginas da PF; escritório da mulher |

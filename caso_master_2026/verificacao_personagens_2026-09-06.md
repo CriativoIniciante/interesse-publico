@@ -13,7 +13,7 @@
 
 | Pessoa | Atlas (págs. com contexto Master) | Veredito | O que muda |
 |---|---|---|---|
-| Daniel Vorcaro | 573 | ⚠️ | Preso na noite de 17/11/2025 (operação deflagrada em 18/11); jato para Malta e depois Dubai. Contagem de delações rejeitadas diverge entre fontes (2 ou 3). |
+| Daniel Vorcaro | 573 | ⚠️ | Preso na noite de 17/11/2025 (operação deflagrada em 18/11); jato para Malta e depois Dubai. Foram duas propostas de delação, com três decisões de rejeição (PF em 20/05, PF em 10/06 e PGR em 15/06/2026); a terceira estava em preparação em agosto (novo escritório, Bialski; pedido a Mendonça de acesso de seis horas por dia aos advogados) e não havia sido apresentada até 06/09. |
 | Augusto Lima | 22 | ➕ | Ficou preso de 18 a 29/11/2025, solto pelo TRF-1 com tornozeleira. Pleno liquidado em 18/02/2026. |
 | Fábio Faria | 5 | ✅ | Confere. Atlas acrescenta: viajou em jatinho com Toffoli e Vorcaro (abril/2026). |
 | Ciro Soares | 0 | ✅ | Confere (Motoryn/Substack, 02/09). |
@@ -176,4 +176,9 @@
 
 - O Atlas termina em 30/06/2026; a crise de 24/08 a 06/09 foi conferida só na internet.
 - Não li o relatório de 218 páginas nem o relatório de inteligência da PF; conferi o que a imprensa reproduz deles.
-- Cinco itens ficaram sem confirmação na origem: terceira delação de Vorcaro entregue e rejeitada; "ao menos dez encontros" de Toffoli; 29 emendas de Cunha; R$ 66,8 mil em ingressos e cinco voos de Wagner; data da sessão do STF na 2ª quinzena de setembro (uma fonte só).
+- Cinco itens estavam sem confirmação na origem em 06/09 e foram conferidos na mesma noite:
+  - **Terceira delação de Vorcaro "entregue e rejeitada": não aconteceu [N].** Houve duas propostas (início de maio; 01 e 02/06) e três rejeições (PF 20/05; PF 10/06; PGR 15/06). Em agosto a defesa trocou de escritório e "prepara" a terceira, com pedido a Mendonça de acesso de seis horas por dia; nada apresentado até 06/09 (CNN 03/06, 11/06 e 10/08; Agência Brasil jun/2026; Oeste/g1 06/08).
+  - **"Ao menos dez encontros" de Toffoli com Vorcaro: confirmado [R].** Relatório da PF enviado ao STF na semana de 12/02/2026, revelado pelo UOL (Natália Portinari) em 19/02: mais de dez encontros presenciais em 2023 e 2024, em eventos, jantares e festas em Brasília, e convite por WhatsApp para a festa de aniversário do ministro; gabinete: "ilações" (Oeste, Brasil de Fato, 19/02).
+  - **29 emendas de Cunha: confirmado [P/R].** Decisão de Dino de 10/07/2026 bloqueou R$ 6.150.378; a PF atribui a Cunha a indicação de ao menos 29 emendas sem mandato, a 29 cidades de Minas Gerais, das quais 21 já pagas (R$ 6,15 milhões); Operação Transparência, dez/2025 (Migalhas 12/07; O Tempo 13/07; Metrópoles 16/07).
+  - **R$ 66,8 mil em ingressos e cinco voos de Wagner: o valor confere, o número de voos não [R/N].** O Tempo (30/07/2026, documentos com sigilo levantado por Mendonça): R$ 63.339 pagos pela Reag em 30/06/2023 (Taylor Swift, Los Angeles) mais camarote em São Paulo em nov/2023, total de cerca de R$ 66.839; lote de 66 ingressos, com três (O Tempo) ou cinco (Poder360, CNN) para Wagner. Voos: "ao menos quatro" usos de aeronaves de Augusto Lima (O Tempo), dois detalhados (Ilha da Paixão, 11 a 13/10/2023; Rio, abr/2024). "Cinco voos" não tem fonte.
+  - **Sessão do STF na 2ª quinzena de setembro: era inferência, não decisão [A].** O despacho de Fachin de 03/09 (PET 16.704, lido na íntegra) não marca data; fala em apreciação colegiada "a tempo e modo" e dá cinco dias úteis (até 11/09). A "segunda quinzena" é cálculo do Poder360 (03/09); em 05/09 o mesmo veículo recalculou para depois de 22/09 na petição de Moraes contra Mendonça (PGR e Mendonça com cinco dias úteis cada), e em 06/09 Mendonça formalizou o pedido de plenário, ainda sem data.

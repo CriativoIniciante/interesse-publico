@@ -45,7 +45,7 @@ ROWS = [
  ("Roberto Jefferson", {"M": ("cond", "delator informal do mensalão; 7 anos e 14 dias", "P")}),
  ("Valdemar Costa Neto", {"M": ("cond", "7a10m, corrupção passiva e lavagem; indulto em 2016", "P"), "E": ("inv", "PF: 21 emendas, R$ 119 mi, sem mandato; bens bloqueados por Dino; nega", "P")}),
  ("José Janene (PP)", {"M": ("reu", "denunciado; R$ 4,1 mi de Valério; morreu em 2010", "P"), "L": ("cit", "apontado como mentor do esquema do PP; Youssef era seu doleiro", "R")}),
- ("Eduardo Cunha", {"L": ("anul", "Curitiba 2017 (15a4m), anulada pela 2ª Turma em 2023; Brasília/Sépsis 2018 (24a10m)", "O"), "E": ("inv", "PF: ao menos 29 emendas sem mandato; R$ 6 mi bloqueados; nega", "P")}),
+ ("Eduardo Cunha", {"L": ("anul", "Curitiba 2017 (15a4m), anulada pela 2ª Turma em 2023; Brasília/Sépsis 2018 (24a10m)", "O"), "E": ("inv", "PF: 29 emendas indicadas sem mandato, 21 pagas; R$ 6,15 mi bloqueados por Dino (10/07/2026); nega", "P")}),
  ("Michel Temer", {"L": ("abs", "2 denúncias barradas (2017); preso 10 dias (2019); absolvido em Angra 3 (2022)", "O"), "B": ("cit", "contratado (set/2025) para destravar a venda ao BRB; intermediário com árabes (imprensa)", "R")}),
  ("Guido Mantega", {"L": ("abs", "fases anuladas (Gilmar); absolvido BNDES (2023); Zelotes prescrita (fev/2025)", "O"), "B": ("cit", "R$ 1 mi/mês (jul–nov/2025) a pedido de Wagner; levou Vorcaro a Lula (imprensa, jan/2026)", "R")}),
  ("Ciro Nogueira", {"L": ("abs", "denúncia por R$ 7,3 mi da Odebrecht; a PGR pediu a rejeição (2023); STF rejeitou", "O"), "B": ("inv", "busca 07/05/2026; R$ 300 mil/mês; emenda do FGC; malotes apreendidos", "P")}),
