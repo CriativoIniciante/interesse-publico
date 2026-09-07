@@ -20,7 +20,7 @@
 2. [Materialidade da matriz pessoa × caso](../quem_se_repete_2005_2026/materialidade_2026-09-06.md), 85 células conferidas em fonte oficial, e o teste da hipótese de que a cúpula está envolvida entre si.
 3. Checagem do caso Flávio Bolsonaro e Dark Horse contra as fontes primárias citadas pelo Atlas (05/09/2026, no workspace do autor; a síntese está na seção 3 deste documento).
 
-Dois dossiês irmãos, de 07/09/2026, aprofundam o que aqui é ponteiro: [os ministros do STF, um a um](../ministros_stf_2026/README.md) e [a família Bolsonaro diante da Justiça](../bolsonaro_2026/README.md). E os dois dossiês anteriores, agora corrigidos: [caso_master_2026](../caso_master_2026/README.md) e [quem_se_repete_2005_2026](../quem_se_repete_2005_2026/README.md).
+A pergunta de fundo, se existe um sistema de poder que atravessa os três Poderes, é testada com fatos em [A República em teste](../republica_2026/README.md). Dois dossiês irmãos, de 07/09/2026, aprofundam o que aqui é ponteiro: [os ministros do STF, um a um](../ministros_stf_2026/README.md) e [a família Bolsonaro diante da Justiça](../bolsonaro_2026/README.md). E os dois dossiês anteriores, agora corrigidos: [caso_master_2026](../caso_master_2026/README.md) e [quem_se_repete_2005_2026](../quem_se_repete_2005_2026/README.md).
 
 ---
 
