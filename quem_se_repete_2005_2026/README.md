@@ -1,6 +1,6 @@
 # Quem se repete: mensalão, petrolão e Lava Jato, INSS, Master e emendas (2005 a 2026)
 
-**Estado em 04/09/2026.** Este dossiê cruza cinco casos de vinte anos e responde a duas perguntas: quem aparece em mais de um, e em que condição. A régua é jurídica, não moral: **condenado**, **condenação anulada**, **réu ou preso preventivo**, **investigado ou alvo de busca**, **delator**, **citado sem processo**, **absolvido, arquivado ou prescrito**, e **atuação institucional** (quem julgou, relatou ou decidiu). Nos casos de 2025 e 2026 ninguém foi condenado. Cada linha da matriz é checável nas fontes ao final e no [dossiê do caso Master](../caso_master_2026/README.md).
+**Estado em 04/09/2026, com correções de 06/09/2026** (conferência célula a célula em [materialidade_2026-09-06.md](materialidade_2026-09-06.md)). Este dossiê cruza cinco casos de vinte anos e responde a duas perguntas: quem aparece em mais de um, e em que condição. A régua é jurídica, não moral: **condenado**, **condenação anulada**, **réu ou preso preventivo**, **investigado ou alvo de busca**, **delator**, **citado sem processo**, **absolvido, arquivado ou prescrito**, e **atuação institucional** (quem julgou, relatou ou decidiu). Nos casos de 2025 e 2026 ninguém foi condenado. Cada linha da matriz é checável nas fontes ao final e no [dossiê do caso Master](../caso_master_2026/README.md).
 
 Imagens: [matriz pessoa × caso](mapa/matriz_repeticoes.png) e [cadeias de operadores](mapa/rede_cadeias.png). Gerador: [mapa/gen.py](mapa/gen.py).
 
@@ -8,11 +8,11 @@ Imagens: [matriz pessoa × caso](mapa/matriz_repeticoes.png) e [cadeias de opera
 
 ## 1. Os cinco casos em poucas linhas
 
-**Mensalão (2005 a 2012, AP 470).** Compra de apoio parlamentar ao governo Lula com dinheiro de publicidade pública e de bancos, operado pelo publicitário Marcos Valério. Revelado por Roberto Jefferson (PTB) em junho de 2005. O STF julgou 38 réus em 2012 e condenou 25, entre eles José Dirceu (7 anos e 11 meses, corrupção ativa), Delúbio Soares (8 anos e 11 meses), José Genoino (6 anos e 11 meses), Valdemar Costa Neto (7 anos e 10 meses, indultado em 2016) e Valério (40 anos, depois reduzida). José Janene (PP), que recebeu R$ 4,1 milhões de Valério, morreu em 2010 antes do julgamento. Lula não foi réu; foi testemunha, e o relato de Valério à PGR em 2012 não gerou denúncia.
+**Mensalão (2005 a 2012, AP 470).** Compra de apoio parlamentar ao governo Lula com dinheiro de publicidade pública e de bancos, operado pelo publicitário Marcos Valério. Revelado por Roberto Jefferson (PTB) em junho de 2005. O STF julgou 38 réus em 2012 e condenou 25, entre eles José Dirceu (7 anos e 11 meses, corrupção ativa), Delúbio Soares (8 anos e 11 meses), José Genoino (6 anos e 11 meses), Valdemar Costa Neto (7 anos e 10 meses, indultado em 2016) e Valério (40 anos). Em 27/02/2014, por 6 a 5, os embargos infringentes absolveram oito réus do crime de quadrilha, e as penas de Delúbio (6 anos e 8 meses), Genoino (4 anos e 8 meses) e Valério (37 anos e 5 meses) caíram. José Janene (PP), que recebeu R$ 4,1 milhões de Valério, morreu em 2010 antes do julgamento. Lula não foi réu; foi testemunha, e o relato de Valério à PGR em 2012 não gerou denúncia.
 
 **Petrolão e Lava Jato (2014 a 2021).** Cartel de empreiteiras pagava de 1% a 3% dos contratos da Petrobras a diretorias loteadas entre PP, PT e PMDB, via operadores como o doleiro Alberto Youssef, que fora o doleiro de Janene e lavara R$ 1,16 milhão do mensalão. Delações de Youssef, Paulo Roberto Costa, Marcelo Odebrecht (19 anos em 2016) e Lúcio Funaro. Aos cinco anos: 285 condenações e 600 réus só em Curitiba; encerrada em 03/02/2021; mais de R$ 5 bilhões devolvidos, R$ 22 bilhões prometidos em acordos. Dois ex-presidentes presos: Lula (580 dias) e Temer (5 dias). A fase de desmonte: Moro declarado suspeito (2021), condenações de Lula anuladas (2021), de Cunha (2023), de Dirceu (2024) e de Delúbio (STJ), fases contra Mantega anuladas, e todas as provas da leniência da Odebrecht declaradas imprestáveis por Toffoli (set/2023).
 
-**INSS (2025 e 2026, Operação Sem Desconto).** Descontos associativos não autorizados na folha de aposentados: R$ 6,3 bilhões entre 2019 e 2024, de 4,1 a 6 milhões de beneficiários. Operação em 23/04/2025; o ministro Carlos Lupi (PDT) deixou o cargo em abril de 2025 e foi citado em delações de ex-diretores do INSS (fev/2026). O presidente do INSS que ele indicou, Alessandro Stefanutto, recebia R$ 250 mil por mês (jun/2023 a set/2024) e está preso desde novembro de 2025. O lobista "Careca do INSS" (Antônio Carlos Camilo Antunes) e o empresário Maurício Camisotti foram presos em 12/09/2025; Camisotti virou delator (R$ 6,5 bilhões; R$ 400 milhões movimentados). Relatório final da PF em 14/07/2026: 48 indiciados. A CPMI do INSS (27/03/2026) pediu 216 indiciamentos, entre eles Fábio Luís Lula da Silva e Daniel Vorcaro. O irmão do presidente é vice-presidente do Sindnapi (R$ 599,5 milhões descontados), sem ser investigado; o filho responde a três inquéritos por tráfico de influência ligado ao Careca.
+**INSS (2025 e 2026, Operação Sem Desconto).** Descontos associativos não autorizados na folha de aposentados: R$ 6,3 bilhões entre 2019 e 2024, de 4,1 a 6 milhões de beneficiários. Operação em 23/04/2025; o ministro Carlos Lupi (PDT) deixou o cargo em abril de 2025 e foi citado em delações de ex-diretores do INSS (fev/2026). O presidente do INSS que ele indicou, Alessandro Stefanutto, recebia R$ 250 mil por mês (jun/2023 a set/2024) e está preso desde novembro de 2025. O lobista "Careca do INSS" (Antônio Carlos Camilo Antunes) e o empresário Maurício Camisotti foram presos em 12/09/2025; Camisotti virou delator (R$ 6,5 bilhões; R$ 400 milhões movimentados). Relatório final da PF em 14/07/2026: 48 indiciados. O relatório do relator da CPMI do INSS (27/03/2026) pediu 216 indiciamentos, entre eles Fábio Luís Lula da Silva e Daniel Vorcaro, mas foi rejeitado pela comissão por 19 a 12. O irmão do presidente é vice-presidente do Sindnapi (R$ 599,5 milhões descontados), sem ser investigado; o filho responde a três inquéritos por tráfico de influência ligado ao Careca.
 
 **Master (2025 e 2026, Operação Compliance Zero).** Ver o [dossiê completo](../caso_master_2026/README.md): CDBs sem lastro, carteiras infladas vendidas ao BRB, rombo estimado em R$ 12 bilhões; relatório da PF de 218 páginas sobre o celular de Vorcaro com o ministro Moraes, o PGR e o diretor da PF; pagamentos a escritórios das famílias de Moraes (R$ 80 milhões) e Lewandowski (R$ 6 milhões), a Toffoli via empresa (R$ 35 milhões), a Ciro Nogueira (R$ 300 mil/mês), a Wagner, a Mantega, a Temer; US$ 12,3 milhões ao filme de Flávio Bolsonaro; delação rejeitada de Vorcaro com alegações contra Alcolumbre (US$ 30 milhões), Bolsonaro, Tarcísio e Kassab. Ponte com o INSS: acordo de consignado com 74% dos contratos irregulares, e uma instrução normativa de 25/03/2022, no governo Bolsonaro, que liberou o cartão Credcesta 16 dias após ofício do Master (de 104,8 mil contratos em 2022 para 2,75 milhões em 2024).
 
@@ -22,16 +22,16 @@ Imagens: [matriz pessoa × caso](mapa/matriz_repeticoes.png) e [cadeias de opera
 
 [![Matriz pessoa × caso](mapa/matriz_repeticoes.png)](mapa/matriz_repeticoes.png)
 
-Símbolo e cor dizem a condição jurídica na coluna. O texto da célula diz o fato e a data. Linha vazia numa coluna significa que não há registro público, e não que a pessoa esteja limpa ou suja.
+Símbolo e cor dizem a condição jurídica na coluna. O texto da célula diz o fato e a data. A borda da célula diz o peso da prova: grossa [P] prova formal, fina [R] relato documentado, tracejada [A] alegação, verde [O] inocência formal (conferência célula a célula em [materialidade_2026-09-06.md](materialidade_2026-09-06.md)). Linha vazia numa coluna significa que não há registro público, e não que a pessoa esteja limpa ou suja.
 
 ## 3. Quem se repete
 
 | Pessoa | Quadros | Condição em cada um |
 |---|---|---|
 | Lula | 4 | Mensalão: testemunha, não réu · Lava Jato: condenado em três instâncias, anulado em 2021 · INSS: irmão e filho, ele não · Master: reunião fora da agenda |
-| Dias Toffoli | 3 | Mensalão: julgou o ex-chefe Dirceu e votou pela absolvição · Lava Jato: anulou as provas da Odebrecht (2023) · Master: R$ 35 milhões a empresa da família |
-| Ricardo Lewandowski | 3 | Mensalão: revisor, absolveu Dirceu de corrupção ativa · Lava Jato: votou a suspeição de Moro · Master: R$ 250 mil/mês ao escritório da família sendo ministro da Justiça |
-| Gilmar Mendes | 3 | Mensalão: julgador · Lava Jato: anulou fases (Mantega) e condenações (Dirceu), relator da suspeição de Moro · Master: alinhado a Moraes contra Mendonça |
+| Dias Toffoli | 3 | Mensalão: julgou o ex-chefe Dirceu e votou pela absolvição · Lava Jato: anulou as provas da Odebrecht (2023) · Master: R$ 35 milhões a empresa da família; sorteado relator em 28/11/2025, saiu em 12/02/2026 |
+| Ricardo Lewandowski | 3 | Mensalão: revisor, absolveu Dirceu de corrupção ativa · Lava Jato: votou a suspeição de Moro · Master: R$ 6,5 milhões ao escritório da família (R$ 250 mil/mês, 2023–2025), R$ 5,25 milhões já ministro da Justiça |
+| Gilmar Mendes | 3 | Mensalão: julgador · Lava Jato: anulou fases (Mantega) e condenações (Dirceu), relator da suspeição de Moro · Master: relator de recurso do Master; presente em fórum de Londres pago pelo Master (abr/2024); fundou o IDP com Gonet |
 | Flávio Dino | 3 | INSS: autorizou o 3º inquérito de Lulinha · Master: dados do Dark Horse à PF; alinhado a Moraes · Emendas: relator |
 | José Dirceu | 2 | Mensalão: condenado · Lava Jato: condenado duas vezes, tudo anulado em 2024 |
 | Delúbio Soares | 2 | Mensalão: condenado · Lava Jato: condenado, anulado pelo STJ, prescrito |
@@ -39,13 +39,13 @@ Símbolo e cor dizem a condição jurídica na coluna. O texto da célula diz o 
 | Alberto Youssef | 2 | Mensalão: lavou R$ 1,16 milhão de Janene · Lava Jato: doleiro pivô e delator |
 | Marcos Valério | 2 | Mensalão: 40 anos · Mensalão tucano (MG, 1998): 16 anos e 9 meses (2018) |
 | Valdemar Costa Neto | 2 | Mensalão: condenado, indultado · Emendas: 21 emendas de R$ 119 milhões sem mandato (PF) |
-| Eduardo Cunha | 2 | Lava Jato: condenado, ao menos uma anulada (2023) · Emendas: 29 emendas sem mandato (PF) |
-| Michel Temer | 2 | Lava Jato: 3 denúncias barradas, preso 5 dias, absolvido em Angra 3 · Master: pagamentos (imprensa) |
-| Guido Mantega | 2 | Lava Jato: fases anuladas, absolvido (BNDES), prescrito (Zelotes) · Master: R$ 1 milhão por mês (imprensa) |
+| Eduardo Cunha | 2 | Lava Jato: condenado em Curitiba (2017, anulada em 2023) e em Brasília (Sépsis, 2018, 24 anos e 10 meses) · Emendas: 29 emendas sem mandato (PF), R$ 6 milhões bloqueados |
+| Michel Temer | 2 | Lava Jato: 2 denúncias barradas (2017), preso 10 dias em duas prisões (2019), absolvido em Angra 3 (2022) · Master: contratado em set/2025 para destravar a venda ao BRB; intermediário com investidores árabes (imprensa) |
+| Guido Mantega | 2 | Lava Jato: fases anuladas, absolvido (BNDES, 2023), prescrito (Zelotes, fev/2025) · Master: R$ 1 milhão por mês a pedido de Jaques Wagner; levou Vorcaro a Lula (imprensa, jan/2026) |
 | Ciro Nogueira | 2 | Lava Jato: denunciado (R$ 7,3 mi da Odebrecht), arquivado e rejeitado · Master: busca, R$ 300 mil/mês |
-| Jaques Wagner | 2 | Lava Jato: inquérito Fonte Nova arquivado em 2025 · Master: busca em 18/06/2026 |
-| Gilberto Kassab | 2 | Lava Jato/JBS: réu na Justiça Eleitoral desde 2021 · Master: delação rejeitada, nega |
-| Davi Alcolumbre | 2 | Lava Jato: citado em denúncia de 2019, dois inquéritos arquivados · Master: US$ 30 milhões em delação rejeitada, nega |
+| Jaques Wagner | 2 | Lava Jato: inquérito Fonte Nova arquivado em 2025 · Master: busca em 18/06/2026; admite ter indicado Lewandowski ao banco |
+| Gilberto Kassab | 2 | Lava Jato/JBS: réu em 2021, absolvido com trânsito em julgado em 29/11/2023; Moraes reteve o inquérito no STF em 2025 · Master: delação rejeitada, nega |
+| Davi Alcolumbre | 2 | Lava Jato: citado em denúncia de 2019; dois inquéritos eleitorais (2014) arquivados em 2019 · Master: US$ 30 milhões em delação rejeitada, nega; guardou os dados de Vorcaro por decisão de Toffoli (dez/2025 a fev/2026) |
 | Daniel Vorcaro | 2 | Master: preso, réu · INSS: consignado 74% irregular, CPMI pediu indiciamento |
 | Cristiano Zanin | 2 | Lava Jato: advogado de Lula, obteve a suspeição de Moro · Master: ministro na 1ª Turma, alinhado a Moraes |
 | Edson Fachin | 2 | Lava Jato: relator no STF, anulou as condenações de Lula · Master: presidente, abriu o procedimento |
@@ -54,6 +54,8 @@ Símbolo e cor dizem a condição jurídica na coluna. O texto da célula diz o 
 | Paulo Gonet | 2 | INSS: PGR pediu refazer a delação de Camisotti · Master: mensagens atribuídas, pediu nulidade |
 | Andrei Rodrigues | 2 | INSS: PF conduz a Sem Desconto · Master: Londres 2024, relatório de inteligência |
 | Jair Bolsonaro | 2 | INSS: IN de 2022 do seu governo liberou a Credcesta · Master: delação rejeitada, nega. Condenado em 2025 por tentativa de golpe, fora deste quadro |
+| Marco Aurélio Ribeiro | 2 | INSS: ex-chefe de gabinete de Lula, inquérito (Dino, 04/08/2026); PF: R$ 217 mil em despesas pagas por Luchsinger e pedido de quadro de 100 mil euros; saiu em jul/2026 · Master: recebeu Mantega quatro vezes no Planalto enquanto o Master o pagava |
+| Fernando Bittar | 2 | Lava Jato: dono formal do sítio de Atibaia (condenação de Lula anulada em 2021) · INSS: PF investiga "sociedade oculta" com Lulinha e Luchsinger; o filho Kalil recebeu R$ 750 mil de Lulinha |
 
 ## 4. As cadeias de operadores
 
@@ -62,7 +64,7 @@ Símbolo e cor dizem a condição jurídica na coluna. O texto da célula diz o 
 - **A cadeia do PP, três casos em vinte anos.** Valério paga R$ 4,1 milhões a Janene (mensalão); Youssef, doleiro de Janene, lava parte disso; Youssef e Paulo Roberto Costa, diretor da Petrobras indicado pelo PP, viram o pivô da Lava Jato; Ciro Nogueira, presidente do PP, é denunciado na Lava Jato por R$ 7,3 milhões da Odebrecht (arquivado) e em 2026 é alvo de busca por R$ 300 mil mensais de Vorcaro.
 - **Dois hubs, os mesmos vizinhos.** A Odebrecht (Lava Jato) e Vorcaro (Master) têm cinco nomes em comum: Temer, Mantega, Wagner, Nogueira e Alcolumbre. Nos quatro primeiros, o desfecho da Lava Jato foi arquivamento, absolvição, prescrição ou rejeição; em 2026, três deles voltam como alvos ou citados.
 - **A ponte Master e INSS.** Um único relator (Mendonça) para as duas operações; a instrução normativa de 2022 que abriu o consignado ao Master; 74% dos contratos irregulares; a CPMI do INSS pedindo o indiciamento de Vorcaro e de Lulinha no mesmo relatório; o Careca do INSS ligado ao filho do presidente por Roberta Luchsinger.
-- **Dirceu e os três ministros.** Toffoli, ex-subordinado de Dirceu, votou pela absolvição dele em 2012; Lewandowski, revisor, também; Gilmar anulou as condenações de Dirceu na Lava Jato em 2024. Os três aparecem no Master: Toffoli e Lewandowski recebendo via família e empresa, Gilmar no bloco de Moraes.
+- **Dirceu e os três ministros.** Toffoli, ex-subordinado de Dirceu, votou pela absolvição dele em 2012; Lewandowski, revisor, também; Gilmar anulou as condenações de Dirceu na Lava Jato em 2024. Os três aparecem no Master: Toffoli e Lewandowski recebendo via família e empresa; Gilmar como relator de recurso do Master (CSLL) e presente no fórum de Londres em que o Master pagou a palestra de Tony Blair (abr/2024). Gilmar e o procurador-geral Gonet fundaram juntos o IDP (1998), e Gonet vendeu sua parte à família Mendes em 2017.
 - **Lula, Zanin, Moro, Fachin.** Zanin, advogado de Lula, obteve a suspeição de Moro; Fachin anulou as condenações por incompetência; Zanin virou ministro em 2023 e senta na turma que julgou Bolsonaro; Moro virou ministro de Bolsonaro e senador.
 - **Do mensalão e da Lava Jato às emendas.** Valdemar (condenado em 2012) e Cunha (condenado em 2017) reaparecem em 2026 na investigação das emendas como controladores sem mandato.
 
@@ -73,7 +75,8 @@ Símbolo e cor dizem a condição jurídica na coluna. O texto da célula diz o 
 3. **O STF é o palco final, e o destino das condenações depende dele**: as anulações por competência e suspeição (Lula, Dirceu, Cunha, Delúbio, Mantega) e a anulação das provas da Odebrecht mudaram o resultado da Lava Jato sem julgamento de mérito.
 4. **Ministros com vínculo prévio julgando, e ministros recebendo**: Toffoli e Dirceu; Zanin e Lula; famílias de Moraes, Lewandowski e Toffoli no Master.
 5. **A delação move tudo e é disputada**: Jefferson abriu o mensalão; Youssef, Costa e Odebrecht abriram a Lava Jato; Camisotti e Freixo movem 2026; a de Vorcaro foi rejeitada duas vezes.
-6. **Em 2026 os dois campos estão no mesmo caso**: PT (Wagner, Lulinha, Frei Chico, Mantega, Lewandowski) e PL (Flávio, Eduardo, Nogueira, Valdemar, delação sobre Bolsonaro e Tarcísio). Quem lê só metade do quadro não está lendo o quadro.
+6. **A forma de acesso mudou, o padrão não**: em 2005 o caixa dois; em 2014 a doação e a propina de obra; em 2024 a 2026 o custeio de eventos e a contratação de parentes e escritórios são a forma de chegar à cúpula.
+7. **Em 2026 os dois campos estão no mesmo caso**: PT (Wagner, Lulinha, Frei Chico, Mantega, Lewandowski) e PL (Flávio, Eduardo, Nogueira, Valdemar, delação sobre Bolsonaro e Tarcísio). Quem lê só metade do quadro não está lendo o quadro.
 
 ## 6. Ressalvas
 

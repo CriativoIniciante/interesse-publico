@@ -1,6 +1,6 @@
 # Caso Master — o relatório da PF de 218 páginas e a crise institucional
 
-**Estado em 04/09/2026, 10h (horário de Brasília). Seções 12 a 16 acrescentadas na tarde e noite do mesmo dia.**
+**Estado em 04/09/2026, 10h (horário de Brasília). Seções 12 a 16 acrescentadas na tarde e noite do mesmo dia. Correções de 06/09/2026 em [verificacao_personagens_2026-09-06.md](verificacao_personagens_2026-09-06.md).**
 
 Perfis de cada pessoa citada: [personagens.md](personagens.md).
 
@@ -97,8 +97,8 @@ Fábio Faria (intermediário), Ciro Soares e Leonardo Palhares (advogados), Guil
 ## 5. Outros ministros do STF no caso (fora do relatório de 27/08, mas no mesmo conjunto probatório)
 
 - Dias Toffoli: relator sorteado em 29/11/2025; deixou a relatoria em 12/02/2026 após a PF encontrar referências a ele no celular (encontros ao menos 10 vezes, segundo a imprensa). Fundo Arleen, ligado ao Master, transferiu R$ 35 milhões à Maridt, empresa dele com os irmãos, dona de resort no Paraná. Ele nega recebimentos.
-- Kassio Nunes Marques: filho advogado recebeu R$ 281,6 mil de consultoria paga pelo banco; telefone particular do ministro estava no celular de Vorcaro.
-- Luiz Fux: convite ao filho para viagem a Londres paga pelo Master.
+- Kassio Nunes Marques: o filho advogado recebeu R$ 281,6 mil da Consult Inteligência Tributária, consultoria que recebeu R$ 18 milhões do Master (R$ 6,6 milhões) e da JBS (R$ 11,3 milhões) entre agosto de 2024 e julho de 2025; telefone particular do ministro estava no celular de Vorcaro.
+- Luiz Fux: o filho Rodrigo esteve em degustação de uísque em Nova York paga por Vorcaro (maio de 2024) e no camarote dele na Sapucaí (2025); diz não ter tido relação comercial. O convite a Londres com despesas de Vorcaro foi ao filho de Gonet.
 - Ricardo Lewandowski (então ministro da Justiça): R$ 6 milhões a family office da família (imprensa, abril/2026).
 - Crítica registrada pela Revista Fórum e pela Agência Pública: Mendonça teria "poupado" Toffoli, Fux e Kassio ao concentrar o pedido em Moraes.
 
@@ -218,7 +218,7 @@ Alcolumbre tem mandato até 2031 e não concorre em 2026.
 
 Mendonça relata, além da Compliance Zero, a Operação Sem Desconto (descontos indevidos em aposentados do INSS). A petição de Moraes de 03/09 ataca a condução dele nas duas. Por isso três outras frentes entram no mesmo tabuleiro.
 
-- **Master e INSS.** O Master tinha acordo de cooperação técnica com o INSS para crédito consignado (2020 a 2025), suspenso em outubro de 2025: 74% dos contratos, cerca de 250 mil, tinham irregularidades, inclusive empréstimos sem validação de identidade. O cartão consignado Credcesta era operado pela PKL One, que a CPMI do INSS encontrou dentro da rede Reag. O relatório final da CPMI do INSS (relator Alfredo Gaspar, PL-AL, 27/03/2026, 4.340 páginas) pediu o indiciamento de 216 pessoas, entre elas Daniel Vorcaro e Fábio Luís Lula da Silva.
+- **Master e INSS.** O Master tinha acordo de cooperação técnica com o INSS para crédito consignado (2020 a 2025), suspenso em outubro de 2025: 74% dos contratos, cerca de 250 mil, tinham irregularidades, inclusive empréstimos sem validação de identidade. O cartão consignado Credcesta era operado pela PKL One, que a CPMI do INSS encontrou dentro da rede Reag. O relatório do relator da CPMI do INSS (Alfredo Gaspar, PL-AL, 27/03/2026, 4.340 páginas) pediu o indiciamento de 216 pessoas, entre elas Daniel Vorcaro e Fábio Luís Lula da Silva, mas foi rejeitado pela comissão por 19 a 12; um relatório alternativo com 130 nomes não chegou a ser votado e a CPMI encerrou sem relatório aprovado.
 - **Fábio Luís Lula da Silva (Lulinha), filho do presidente.** Três inquéritos da PF: 30/07/2026 (autorizado por Mendonça) por suspeita de tráfico de influência para a World Cannabis, empresa ligada a Antônio Carlos Camilo Antunes, o "Careca do INSS", num projeto de canabidiol do Ministério da Saúde; 31/07 (Mendonça) por favorecimento da 3Structure em contratos com a Dataprev (R$ 55,7 milhões); 04/08 (Flávio Dino) por rede de favorecimento com Marco Aurélio Santana Ribeiro, ex-chefe de gabinete de Lula. A empresária Roberta Luchsinger disse à PF que apresentou Lulinha ao Careca; numa mensagem, o Careca pede R$ 300 mil a uma empresa dela "para o filho do cara". A defesa nega qualquer participação, investimento ou pagamento. Em agosto a PGR pediu que parte do caso vá à 1ª instância, por não haver investigado com foro; críticos leem como forma de tirar o caso de Mendonça. Sem decisão.
 - **José Ferreira da Silva (Frei Chico), irmão do presidente.** Vice-presidente do Sindnapi, sindicato de aposentados que, segundo a CPMI, fez 26,4 milhões de descontos em folha entre 2015 e março de 2025, somando R$ 599,5 milhões. O sindicato é investigado por PF e CGU. Frei Chico não é investigado na Sem Desconto; a CPMI rejeitou por 19 a 11 os pedidos de convocação dele (16/10/2025) e não pediu seu indiciamento. Ele processa no TJ-SP quem o associa ao esquema, e há decisão judicial mandando remover publicações. Nada o liga ao Master.
 

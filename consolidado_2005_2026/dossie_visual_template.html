@@ -1,0 +1,330 @@
+<!--HEAD-->
+<title>Os Mesmos Nomes</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --bg:#F3F4F1; --paper:#FBFBF9; --ink:#15181C; --ink2:#5A6068; --ink3:#8A9099; --line:#D8DCD6; --line2:#C3C8C1;
+  --accent:#1E3F8A; --accent-soft:#E4E9F5;
+  --red:#B8322A; --org:#D8683A; --amb:#C48A14; --blu:#2A78D6; --grn:#2E7D4F; --gry:#8A9099;
+  --M:#2a78d6; --L:#eb6834; --I:#1baf7a; --B:#e87ba4; --E:#eda100;
+  --display:"Bodoni Moda", "Didot", "Bodoni 72", Georgia, serif;
+  --body:"IBM Plex Sans", "Segoe UI", Helvetica, Arial, sans-serif;
+  --mono:"IBM Plex Mono", "Consolas", "SFMono-Regular", Menlo, monospace;
+  --measure:70ch; --radius:2px;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#0E1114; --paper:#151A1F; --ink:#E8E9E6; --ink2:#A3A9B1; --ink3:#767D86; --line:#262C33; --line2:#343B44;
+    --accent:#8FB0EE; --accent-soft:#1B2740;
+    --red:#E0655C; --org:#EE8A5E; --amb:#E0B04A; --blu:#6FA3EE; --grn:#5FBF88;
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#0E1114; --paper:#151A1F; --ink:#E8E9E6; --ink2:#A3A9B1; --ink3:#767D86; --line:#262C33; --line2:#343B44;
+  --accent:#8FB0EE; --accent-soft:#1B2740;
+  --red:#E0655C; --org:#EE8A5E; --amb:#E0B04A; --blu:#6FA3EE; --grn:#5FBF88;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);font-size:17px;line-height:1.55;font-feature-settings:"kern","liga"}
+a{color:var(--accent);text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px}
+a:hover{text-decoration-thickness:2px}
+a:focus-visible,button:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+h1,h2,h3{font-family:var(--display);font-weight:500;line-height:1.05;letter-spacing:-0.01em;margin:0;text-wrap:balance}
+h2{font-size:clamp(30px,4.2vw,46px);font-variation-settings:"opsz" 72}
+h3{font-size:clamp(22px,2.6vw,28px);font-variation-settings:"opsz" 48}
+p{margin:0}
+.wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+.measure{max-width:var(--measure)}
+.eyebrow{font-family:var(--mono);font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink2)}
+.eyebrow b{color:var(--accent);font-weight:500}
+.mono{font-family:var(--mono);font-size:.92em}
+.num{font-variant-numeric:tabular-nums}
+
+/* --- hero --- */
+.hero{padding:56px 0 40px;border-bottom:1px solid var(--line)}
+.hero .kicker{display:flex;flex-wrap:wrap;gap:14px 28px;align-items:baseline;justify-content:space-between;margin-bottom:34px}
+.hero h1{font-size:clamp(46px,9vw,120px);font-weight:600;font-variation-settings:"opsz" 96;line-height:.93;letter-spacing:-0.025em;max-width:16ch}
+.hero h1 em{font-style:italic;font-weight:400;color:var(--ink2)}
+.hero .lede{margin-top:30px;font-size:clamp(18px,1.6vw,22px);line-height:1.45;max-width:62ch;color:var(--ink)}
+.hero .lede strong{font-weight:600}
+.cases{display:grid;grid-template-columns:repeat(5,1fr);gap:1px;background:var(--line);border:1px solid var(--line);margin-top:40px}
+.cases a{display:block;background:var(--paper);padding:14px 14px 16px;text-decoration:none;color:var(--ink);border-top:4px solid var(--c)}
+.cases a:hover{background:var(--accent-soft)}
+.cases .k{font-family:var(--mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink2)}
+.cases .n{font-family:var(--display);font-size:22px;font-weight:600;margin-top:2px;line-height:1.1}
+.cases .y{font-family:var(--mono);font-size:12px;color:var(--ink3);margin-top:6px}
+@media (max-width:760px){.cases{grid-template-columns:repeat(2,1fr)} .cases a:last-child{grid-column:span 2}}
+
+/* --- régua --- */
+.ruler{display:grid;grid-template-columns:repeat(5,1fr);gap:14px;margin-top:30px}
+.ruler div{border-top:1px solid var(--line2);padding-top:10px;font-size:14px;color:var(--ink2);line-height:1.4}
+.ruler div b{display:block;font-family:var(--mono);font-size:15px;color:var(--ink);font-weight:500;margin-bottom:4px}
+@media (max-width:760px){.ruler{grid-template-columns:repeat(2,1fr)}}
+
+/* --- grade chips --- */
+.g{font-family:var(--mono);font-size:.78em;font-weight:500;padding:1px 6px 1px 5px;border:1px solid currentColor;border-radius:var(--radius);white-space:nowrap;vertical-align:baseline;line-height:1.3}
+.g-P{color:var(--ink);background:var(--paper)}
+.g-R{color:var(--ink2)}
+.g-A{color:var(--amb);border-style:dashed}
+.g-N{color:var(--red)}
+.g-O{color:var(--grn)}
+
+/* --- sections --- */
+section{padding:64px 0 24px}
+.sec-head{display:grid;grid-template-columns:120px 1fr;gap:24px;align-items:end;margin-bottom:28px;border-bottom:1px solid var(--line);padding-bottom:16px}
+.sec-head .idx{font-family:var(--mono);font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink2);padding-bottom:6px}
+.sec-head .idx small{display:block;color:var(--ink3);letter-spacing:.06em;text-transform:none;margin-top:4px}
+@media (max-width:760px){.sec-head{grid-template-columns:1fr;gap:8px}}
+.lead{font-size:19px;line-height:1.5;max-width:var(--measure);color:var(--ink)}
+.prose{max-width:var(--measure)}
+.prose p+p{margin-top:14px}
+.note{font-size:15px;color:var(--ink2);max-width:var(--measure);line-height:1.5}
+
+/* --- exhibits (maps) --- */
+.exhibit{margin:28px 0 8px;border:1px solid var(--line2);background:#fcfcfb;border-radius:var(--radius)}
+.exhibit .cap{display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px 20px;padding:10px 14px;border-bottom:1px solid var(--line2);background:var(--paper);font-family:var(--mono);font-size:12px;letter-spacing:.06em;color:var(--ink2)}
+.exhibit .cap b{color:var(--ink);font-weight:500;letter-spacing:.12em;text-transform:uppercase}
+.exhibit .cap a{color:var(--accent)}
+.exhibit .scroll{overflow-x:auto;-webkit-overflow-scrolling:touch}
+.exhibit svg{display:block;width:100%;height:auto;min-width:1040px}
+.exhibit.tall svg{min-width:1000px}
+.exhibit .hint{padding:8px 14px;font-size:13px;color:var(--ink3);border-top:1px solid var(--line)}
+@media (min-width:1100px){.exhibit .hint{display:none}}
+
+/* --- tabela dos casos --- */
+.tbl{overflow-x:auto;margin-top:24px;border-top:1px solid var(--line2)}
+.tbl table{min-width:900px}
+.tbl.plain table{min-width:0}
+table{border-collapse:collapse;width:100%;font-size:15px;line-height:1.45}
+th{font-family:var(--mono);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink2);text-align:left;font-weight:500;padding:12px 12px 10px;border-bottom:1px solid var(--line2);vertical-align:bottom}
+td{padding:12px;border-bottom:1px solid var(--line);vertical-align:top}
+td:first-child{font-weight:600;white-space:nowrap}
+tr td:first-child{border-left:4px solid var(--c, transparent);padding-left:10px}
+.tbl.plain td:first-child{border-left:0;padding-left:12px;font-weight:500;white-space:normal}
+@media (max-width:760px){table{font-size:14px} td,th{padding:10px 8px}}
+
+/* --- timeline --- */
+.tl{display:grid;grid-template-columns:repeat(auto-fit,minmax(210px,1fr));gap:22px;margin-top:26px}
+.tl .col{border-top:4px solid var(--c);padding-top:10px}
+.tl .col h3{font-family:var(--mono);font-size:12px;letter-spacing:.12em;text-transform:uppercase;font-weight:500;color:var(--ink2);margin-bottom:12px}
+.tl ol{list-style:none;margin:0;padding:0}
+.tl li{display:grid;grid-template-columns:44px 1fr;gap:10px;padding:8px 0;border-top:1px solid var(--line);font-size:14.5px;line-height:1.4}
+.tl li .y{font-family:var(--mono);font-size:13px;color:var(--ink);font-weight:500}
+
+/* --- fichas --- */
+.group{margin-top:44px}
+.group h3{display:flex;align-items:baseline;gap:14px;margin-bottom:6px}
+.group h3 small{font-family:var(--mono);font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--ink3);font-weight:400}
+.group .cols{font-family:var(--mono);font-size:12px;color:var(--ink3);margin-bottom:14px}
+.fichas{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:1px;background:var(--line);border:1px solid var(--line)}
+.ficha{background:var(--paper);padding:18px 18px 20px;display:flex;flex-direction:column;gap:10px}
+.ficha .top{display:flex;justify-content:space-between;gap:12px;align-items:flex-start}
+.ficha .name{font-family:var(--display);font-size:23px;font-weight:600;line-height:1.05}
+.ficha .role{font-size:13px;color:var(--ink2);margin-top:3px}
+.ficha .grade{font-family:var(--mono);font-size:13px;font-weight:500;border:1.5px solid currentColor;padding:2px 7px;border-radius:var(--radius);flex:none;margin-top:4px}
+.ficha .grade.P{color:var(--ink)} .ficha .grade.R{color:var(--ink2)} .ficha .grade.A{color:var(--amb);border-style:dashed} .ficha .grade.N{color:var(--red)} .ficha .grade.O{color:var(--grn)} .ficha .grade.none{color:var(--ink3);border-style:dotted}
+.ficha dl{margin:0;display:grid;gap:8px}
+.ficha dt{font-family:var(--mono);font-size:11px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink3);margin-bottom:2px}
+.ficha dd{margin:0;font-size:14.5px;line-height:1.45}
+.ficha dd.clean{color:var(--grn);font-weight:500}
+.ficha .empty{font-size:14px;color:var(--ink3);font-style:italic}
+
+/* --- veredito --- */
+.verdict{display:grid;grid-template-columns:1fr 1fr;gap:0;border:1px solid var(--line2);margin-top:28px;background:var(--paper)}
+.verdict>div{padding:26px 24px 28px}
+.verdict>div+div{border-left:1px solid var(--line2)}
+.stamp{display:inline-block;font-family:var(--mono);font-size:13px;letter-spacing:.2em;text-transform:uppercase;font-weight:500;padding:6px 10px;border:2px solid currentColor;outline:1px solid currentColor;outline-offset:3px;border-radius:var(--radius);transform:rotate(-2deg);margin-bottom:18px}
+.stamp.yes{color:var(--ink)} .stamp.no{color:var(--red)}
+.verdict ol{margin:0;padding-left:1.4em;display:grid;gap:12px;font-size:15.5px;line-height:1.45}
+.verdict li strong{font-weight:600}
+@media (max-width:820px){.verdict{grid-template-columns:1fr} .verdict>div+div{border-left:0;border-top:1px solid var(--line2)}}
+.sentence{margin-top:26px;padding:22px 24px;border-left:3px solid var(--accent);background:var(--accent-soft);max-width:var(--measure);font-size:16.5px;line-height:1.5}
+.sentence b{font-family:var(--mono);font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--accent);display:block;margin-bottom:8px;font-weight:500}
+
+/* --- padrões --- */
+.patterns{list-style:none;margin:26px 0 0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:22px 32px;counter-reset:pat}
+.patterns li{border-top:1px solid var(--line2);padding-top:12px;font-size:15.5px;line-height:1.45}
+.patterns li strong{display:block;font-family:var(--display);font-size:21px;font-weight:600;line-height:1.15;margin-bottom:6px}
+
+/* --- correções --- */
+.fix{display:grid;grid-template-columns:1fr 1fr 1fr;gap:0 18px;padding:12px 0;border-top:1px solid var(--line);font-size:14.5px;line-height:1.4}
+.fix .w{font-family:var(--mono);font-size:12.5px;color:var(--ink2)}
+.fix .was{color:var(--ink3);text-decoration:line-through;text-decoration-color:var(--red);text-decoration-thickness:1px}
+.fix .now{color:var(--ink)}
+.fixes{margin-top:22px;border-bottom:1px solid var(--line)}
+@media (max-width:760px){.fix{grid-template-columns:1fr;gap:4px}}
+
+/* --- footer --- */
+footer{margin-top:60px;padding:30px 0 60px;border-top:1px solid var(--line2);font-size:14px;color:var(--ink2)}
+footer .row{display:flex;flex-wrap:wrap;gap:10px 30px;justify-content:space-between}
+.reveal{animation:up .7s cubic-bezier(.2,.7,.2,1) both}
+@keyframes up{from{opacity:.001;transform:translateY(8px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion: reduce){.reveal{animation:none}}
+</style>
+<!--/HEAD-->
+<!--BODY-->
+<header class="hero">
+  <div class="wrap">
+    <div class="kicker">
+      <div class="eyebrow"><b>Pesquisas de interesse público</b> · dossiê consolidado · estado em {{DATA}}</div>
+      <div class="eyebrow">Rafael B. Brotto · CC BY 4.0 · <a href="{{REPO}}">github.com/CriativoIniciante/interesse-publico</a></div>
+    </div>
+    <h1 class="reveal">Vinte anos. Cinco casos. <em>Os mesmos nomes.</em></h1>
+    <p class="lede">Mensalão, petrolão e Lava Jato, a fraude do INSS, o Banco Master e as emendas parlamentares, lidos como um caso só: quem aparece em mais de um, em que condição jurídica, e <strong>com que prova</strong>. Cada afirmação carrega uma letra que diz o peso do que a sustenta. Onde a fonte é fraca, isso está dito. Ninguém dos casos de 2025 e 2026 foi condenado.</p>
+    <nav class="cases" aria-label="Os cinco casos">
+      <a href="#casos" style="--c:var(--M)"><span class="k">M</span><div class="n">Mensalão</div><div class="y">2005 a 2014</div></a>
+      <a href="#casos" style="--c:var(--L)"><span class="k">L</span><div class="n">Petrolão e Lava Jato</div><div class="y">2014 a 2021</div></a>
+      <a href="#casos" style="--c:var(--I)"><span class="k">I</span><div class="n">INSS</div><div class="y">2025 a 2026</div></a>
+      <a href="#casos" style="--c:var(--B)"><span class="k">B</span><div class="n">Master</div><div class="y">2025 a 2026</div></a>
+      <a href="#casos" style="--c:var(--E)"><span class="k">E</span><div class="n">Emendas</div><div class="y">2025 a 2026</div></a>
+    </nav>
+    <div class="ruler" aria-label="Régua de prova">
+      <div><b>[P]</b> prova formal: decisão, documento oficial, operação, admissão</div>
+      <div><b>[R]</b> relato documentado: reportagem que reproduz documento</div>
+      <div><b>[A]</b> alegação: delação rejeitada, fonte anônima, coluna</div>
+      <div><b>[N]</b> refutado: a fonte primária contradiz</div>
+      <div><b>[O]</b> inocência formal: absolvição, arquivamento, prescrição ou anulação</div>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+
+<section id="casos">
+  <div class="sec-head"><div class="idx">Parte 1<small>os casos</small></div><h2>Cinco casos em uma página</h2></div>
+  <p class="lead">Quatro esquemas de compra de decisão pública e um inquérito sobre quem controla o orçamento sem mandato. Em comum, o operador financeiro no centro e o Supremo como palco final.</p>
+  <div class="tbl">{{CASOS_TABLE}}</div>
+  <div class="tl">
+    <div class="col" style="--c:var(--M)"><h3>Mensalão</h3><ol>
+      <li><span class="y">2005</span><span>Roberto Jefferson revela o esquema</span></li>
+      <li><span class="y">2012</span><span>STF condena 25 réus na AP 470</span></li>
+      <li><span class="y">2014</span><span>Embargos absolvem 8 de quadrilha e reduzem penas</span></li></ol></div>
+    <div class="col" style="--c:var(--L)"><h3>Petrolão e Lava Jato</h3><ol>
+      <li><span class="y">2014</span><span>Prisão de Youssef e Paulo Roberto Costa</span></li>
+      <li><span class="y">2016</span><span>Marcelo Odebrecht condenado e delator</span></li>
+      <li><span class="y">2017</span><span>Dirceu e Cunha condenados em Curitiba</span></li>
+      <li><span class="y">2018</span><span>Lula preso por 580 dias</span></li>
+      <li><span class="y">2021</span><span>Moro suspeito; condenações de Lula anuladas; força-tarefa encerrada</span></li>
+      <li><span class="y">2023</span><span>Toffoli anula as provas da Odebrecht</span></li>
+      <li><span class="y">2024</span><span>Gilmar anula as condenações de Dirceu</span></li></ol></div>
+    <div class="col" style="--c:var(--I)"><h3>INSS</h3><ol>
+      <li><span class="y">2022</span><span>Instrução normativa libera a Credcesta 16 dias após ofício do Master</span></li>
+      <li><span class="y">2025</span><span>Sem Desconto em abril; Careca e Camisotti presos em setembro; Stefanutto em novembro</span></li>
+      <li><span class="y">2026</span><span>CPMI rejeita o relatório em março; 48 indiciados em julho; 3 inquéritos de Lulinha</span></li></ol></div>
+    <div class="col" style="--c:var(--B)"><h3>Master</h3><ol>
+      <li><span class="y">2024</span><span>Londres com Moraes, Toffoli, Gonet, Andrei e Lewandowski (abril); reunião com Lula (dezembro)</span></li>
+      <li><span class="y">2025</span><span>Mendonça recebe Vorcaro (março); liquidação e prisão (novembro); Toffoli sorteado relator (28/11)</span></li>
+      <li><span class="y">2026</span><span>Segunda prisão (março); buscas em Nogueira e Wagner; inquérito Dark Horse; 218 páginas (setembro)</span></li></ol></div>
+    <div class="col" style="--c:var(--E)"><h3>Emendas</h3><ol>
+      <li><span class="y">2025</span><span>PF investiga controle de emendas sem mandato</span></li>
+      <li><span class="y">2026</span><span>Dino declara nulas as emendas de líder (agosto)</span></li></ol></div>
+  </div>
+</section>
+
+<section id="matriz">
+  <div class="sec-head"><div class="idx">Parte 2<small>anexo 1</small></div><h2>Quem aparece onde, e com que prova</h2></div>
+  <p class="lead">Cada linha é uma pessoa, cada coluna um caso. O símbolo diz a condição jurídica; a borda da célula diz o peso da prova: grossa <span class="g g-P">[P]</span>, fina <span class="g g-R">[R]</span>, tracejada <span class="g g-A">[A]</span>, verde <span class="g g-O">[O]</span>. Célula vazia quer dizer sem registro público, e nada mais.</p>
+  <figure class="exhibit tall">
+    <div class="cap"><b>Anexo 1 · matriz pessoa × caso</b><span>{{N_ROWS}} pessoas · 5 casos · <a href="{{REPO}}/blob/{{BRANCH}}/quem_se_repete_2005_2026/mapa/matriz_repeticoes.png">PNG em tamanho cheio</a> · <a href="{{REPO}}/blob/{{BRANCH}}/quem_se_repete_2005_2026/mapa/gen.py">gerador</a></span></div>
+    <div class="scroll">{{SVG_MATRIZ}}</div>
+    <div class="hint">Arraste para o lado para ver as cinco colunas.</div>
+  </figure>
+  <p class="note">Condenação anulada não é absolvição de mérito. Delação rejeitada entra como alegação. A conferência célula a célula, com as fontes, está em <a href="{{REPO}}/blob/{{BRANCH}}/quem_se_repete_2005_2026/materialidade_2026-09-06.md">materialidade_2026-09-06.md</a>.</p>
+</section>
+
+<section id="cupula">
+  <div class="sec-head"><div class="idx">Parte 3<small>anexo 2</small></div><h2>A cúpula e o banqueiro</h2></div>
+  <p class="lead">Trinta vínculos entre dezoito nomes. A cor é a natureza do vínculo: dinheiro a parente ou escritório, evento pago, encontro, ato institucional, nomeação, alegação. A espessura é o peso da prova. Quatro ministros do STF ficam numa caixa à parte porque não há registro de vínculo algum deles com Vorcaro.</p>
+  <figure class="exhibit">
+    <div class="cap"><b>Anexo 2 · mapa da cúpula</b><span>STF · PGR · PF · Senado · Executivo · operadores · <a href="{{REPO}}/blob/{{BRANCH}}/consolidado_2005_2026/mapa/mapa_cupula.png">PNG</a> · <a href="{{REPO}}/blob/{{BRANCH}}/consolidado_2005_2026/mapa/gen_cupula.py">gerador</a></span></div>
+    <div class="scroll">{{SVG_CUPULA}}</div>
+    <div class="hint">Arraste para o lado para ver o mapa inteiro.</div>
+  </figure>
+</section>
+
+<section id="cadeias">
+  <div class="sec-head"><div class="idx">Parte 4<small>anexos 3 e 4</small></div><h2>As cadeias que se repetem</h2></div>
+  <p class="lead">Do publicitário do mensalão ao doleiro da Lava Jato; do doleiro ao PP; do PP a Vorcaro. E da Odebrecht a cinco nomes que reaparecem no Master: Temer, Mantega, Wagner, Nogueira e Alcolumbre.</p>
+  <figure class="exhibit">
+    <div class="cap"><b>Anexo 3 · cadeias de operadores</b><span>linha cheia = fato documentado · tracejada = alegação ou citação · <a href="{{REPO}}/blob/{{BRANCH}}/quem_se_repete_2005_2026/mapa/rede_cadeias.png">PNG</a></span></div>
+    <div class="scroll">{{SVG_CADEIAS}}</div>
+    <div class="hint">Arraste para o lado para ver o mapa inteiro.</div>
+  </figure>
+  <figure class="exhibit">
+    <div class="cap"><b>Anexo 4 · o caso Master em detalhe</b><span>status por relação: [I] indício · [S] suspeito · [L] lícito · <a href="{{REPO}}/blob/{{BRANCH}}/caso_master_2026/README.md">dossiê completo</a></span></div>
+    <div class="scroll">{{SVG_MASTER}}</div>
+    <div class="hint">Arraste para o lado para ver o mapa inteiro.</div>
+  </figure>
+</section>
+
+<section id="quem">
+  <div class="sec-head"><div class="idx">Parte 5<small>as pessoas</small></div><h2>Quem é quem</h2></div>
+  <p class="lead">Uma ficha por pessoa, sem deixar ninguém de fora. A letra no canto é a prova mais forte que existe contra ou a favor da pessoa no conjunto dos casos. "Contrário" registra o que pesa a favor dela.</p>
+  {{FICHAS}}
+</section>
+
+<section id="veredito">
+  <div class="sec-head"><div class="idx">Parte 6<small>a hipótese</small></div><h2>O que os fatos provam, e o que não provam</h2></div>
+  <p class="lead">A pergunta que motivou a pesquisa: a cúpula do poder está envolvida entre si e com os operadores de modo demonstrável? A resposta, em duas colunas e com a mesma régua.</p>
+  <div class="verdict">
+    <div>
+      <div class="stamp yes">Provado ou documentado</div>
+      <ol>
+        <li><strong>Dinheiro do grupo Master chegou a familiares ou empresas de quatro ministros do STF</strong>, em exercício ou recém-saídos (Moraes, Toffoli, Kassio, Lewandowski), e a um ex-ministro da Fazenda que fazia lobby no Planalto (Mantega).</li>
+        <li><strong>Vorcaro custeou um evento em Londres (25/04/2024) com o diretor-geral da PF, o procurador-geral, três ministros do STF e um do STJ</strong>; o Master pagou a palestra de um fórum em que estava o relator de causa sua (Gilmar).</li>
+        <li><strong>O procurador-geral e o diretor-geral da PF têm conflito de interesse documentado</strong> no caso que investigam; o procurador-geral arquivou a apuração sobre Moraes e pediu a rejeição da denúncia contra Ciro Nogueira.</li>
+        <li><strong>O presidente do Senado teve, por decisão de Toffoli, a guarda das provas de um caso em que é citado</strong>; a CPI do caso não foi instalada.</li>
+        <li><strong>O líder do governo no Senado admite ter indicado o ministro da Justiça ao banco investigado</strong> e acompanhado o ministro ao banco; é alvo de busca.</li>
+        <li><strong>O presidente da República recebeu o banqueiro fora da agenda</strong>, levado por um consultor pago pelo banco, e nomeou o diretor-geral e o procurador-geral cujos conflitos estão documentados.</li>
+      </ol>
+    </div>
+    <div>
+      <div class="stamp no">Não provado</div>
+      <ol>
+        <li><strong>Que Lula, Alcolumbre ou Andrei tenham recebido dinheiro ou vantagem.</strong> Para Alcolumbre há só a palavra de Vorcaro em delação rejeitada; para Lula e Andrei, nada.</li>
+        <li><strong>Que Andrei ou Gonet tenham agido para proteger Vorcaro.</strong> A PF prendeu-o duas vezes e rejeitou as delações; a PGR rejeitou as delações e fechou o acordo com Freixo. O que está provado é conflito, não obstrução.</li>
+        <li><strong>Que "os ministros do STF" sejam um bloco.</strong> Quatro não têm registro algum (Fachin, Cármen Lúcia, Zanin, Dino); o relator que expôs o caso tem um encontro admitido.</li>
+        <li><strong>Que exista um esquema único</strong> ligando mensalão, Lava Jato, INSS e Master. O que se repete são pessoas, partidos-ponte e o padrão do operador que compra acesso; não há documento que ligue os casos como uma organização só.</li>
+      </ol>
+    </div>
+  </div>
+  <div class="sentence"><b>Em uma frase, sem exagero</b>Em setembro de 2026 a cúpula do STF, da PGR, da PF e do Senado tem conflitos de interesse documentados com o principal investigado do maior caso financeiro do país, e parte dela recebeu dinheiro dele por vias indiretas; o governo tem o líder no Senado sob busca, o ex-chefe de gabinete sob inquérito e dois ex-ministros pagos pelo banco. O que a frase não pode dizer com fatos: que todos estão comprometidos, que houve proteção provada, ou que Lula, Alcolumbre e Andrei receberam algo.</div>
+</section>
+
+<section id="padroes">
+  <div class="sec-head"><div class="idx">Parte 7<small>observação, não tese</small></div><h2>O que se repete</h2></div>
+  <ul class="patterns">
+    <li><strong>O operador é o pivô</strong>Valério, Youssef, Funaro, Vorcaro, Careca. É por ele que a prova entra (delação ou celular) e é ele que liga políticos de campos opostos.</li>
+    <li><strong>Os partidos-ponte voltam</strong>PP (Janene, Paulo Roberto Costa, Nogueira), MDB (Cunha, Temer), PT (Dirceu, Delúbio, Wagner) e, em 2026, o PL (Valdemar, Bolsonaro, Flávio).</li>
+    <li><strong>O STF é o palco final</strong>Anulações por competência e suspeição (Lula, Dirceu, Cunha, Delúbio, Mantega) e a anulação das provas da Odebrecht mudaram o resultado da Lava Jato sem julgamento de mérito.</li>
+    <li><strong>Vínculo prévio julgando; família recebendo</strong>Toffoli e Dirceu; Zanin e Lula; famílias de Moraes, Lewandowski, Toffoli e Kassio no Master.</li>
+    <li><strong>A forma de acesso mudou, o padrão não</strong>Em 2005 o caixa dois; em 2014 a doação e a propina de obra; em 2024 a 2026 o custeio de eventos e a contratação de parentes e escritórios.</li>
+    <li><strong>A delação move tudo e é disputada</strong>Jefferson abriu o mensalão; Youssef, Costa e Odebrecht abriram a Lava Jato; Camisotti, Freixo e Mansur movem 2026; a de Vorcaro foi rejeitada duas vezes.</li>
+    <li><strong>Os dois campos no mesmo caso</strong>PT (Wagner, Lulinha, Frei Chico, Mantega, Lewandowski) e PL (Flávio, Eduardo, Nogueira, Valdemar, a delação sobre Bolsonaro e Tarcísio). Quem lê só metade do quadro não está lendo o quadro.</li>
+  </ul>
+</section>
+
+<section id="correcoes">
+  <div class="sec-head"><div class="idx">Parte 8<small>transparência</small></div><h2>O que corrigimos nas nossas próprias pesquisas</h2></div>
+  <p class="lead">Erros dos dossiês de 04/09, encontrados na conferência contra fontes primárias em 05 e 06/09 e já corrigidos nos arquivos.</p>
+  <div class="fixes">{{CORRECOES}}</div>
+  <p class="note" style="margin-top:16px">Cinco itens seguem sem confirmação na origem e estão marcados como tal: a terceira delação de Vorcaro; "ao menos dez encontros" de Toffoli com Vorcaro; as 29 emendas de Cunha; R$ 66,8 mil em ingressos e cinco voos de Wagner; a data exata da sessão do STF na segunda quinzena de setembro.</p>
+</section>
+
+<section id="ressalvas">
+  <div class="sec-head"><div class="idx">Parte 9<small>como ler</small></div><h2>Ressalvas e método</h2></div>
+  <div class="prose">
+    <p>Condenação anulada não é absolvição de mérito; absolvição, arquivamento e prescrição são desfechos distintos, e o texto diz qual foi. Delação rejeitada é palavra de réu preso: entra como alegação, nunca como fato. O relatório de inteligência da PF sobre Mendonça e Alcolumbre declara-se sem valor probatório; nada dele entra como fato. Ninguém dos casos de 2025 e 2026 foi condenado, e todos os investigados negam.</p>
+    <p>O Atlas Brasileiro é um ponteiro, não uma fonte: cada informação apontada por ele foi lida na reportagem ou no documento de origem. Foram varridas as 42 edições (jan/2023 a jun/2026), resolvidas as 441 publicações citadas na origem, lidas 26 reportagens na íntegra e feitas mais de 90 buscas; 85 células da matriz e 30 perfis foram conferidos um a um em decisão, documento oficial ou reportagem de origem. Compilação com auxílio de IA (Claude, Anthropic); revisão e publicação pelo autor.</p>
+    <p>Corte em {{DATA}}. O procedimento de Fachin, os prazos de Moraes, Mendonça, Gonet e Andrei, a homologação das delações de Freixo e Mansur e a sessão do STF são os próximos marcos; nada depois desta data está aqui. As fontes, com link, estão nos documentos do repositório: <a href="{{REPO}}/blob/{{BRANCH}}/consolidado_2005_2026/README.md">consolidado</a>, <a href="{{REPO}}/blob/{{BRANCH}}/caso_master_2026/verificacao_personagens_2026-09-06.md">verificação nome a nome</a>, <a href="{{REPO}}/blob/{{BRANCH}}/quem_se_repete_2005_2026/materialidade_2026-09-06.md">materialidade célula a célula</a>, <a href="{{REPO}}/blob/{{BRANCH}}/caso_master_2026/README.md">caso Master</a> e <a href="{{REPO}}/blob/{{BRANCH}}/quem_se_repete_2005_2026/README.md">quem se repete</a>.</p>
+  </div>
+</section>
+
+</main>
+<footer><div class="wrap row"><span>Rafael B. Brotto · Pesquisas de interesse público · CC BY 4.0</span><span>Correções por issue ou pull request em <a href="{{REPO}}">github.com/CriativoIniciante/interesse-publico</a></span></div></footer>
+<!--/BODY-->
