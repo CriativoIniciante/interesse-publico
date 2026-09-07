@@ -188,7 +188,7 @@ Uma linha por pessoa. A coluna "grau" é a letra mais forte que existe contra ou
 
 ### 3.7 O caso Flávio Bolsonaro e o Atlas, em resumo
 
-A checagem de 05/09/2026 leu as fontes primárias que o Atlas Brasileiro cita sobre o Dark Horse. O que confere [P/R]: o encontro marcado por Thiago Miranda na casa de Vorcaro (dez/2024), as remessas via Entre Investimentos ao Havengate (US$ 10,6 milhões entre fev e mai/2025), os áudios de Flávio ("não pode vacilar"), o registro do Coaf de set/2025 e a abertura do inquérito em 23/07/2026. O que o Atlas omite ou distorce: as negações anteriores de Flávio (documentadas nas próprias fontes que o Atlas cita), a apresentação da perícia da defesa (R$ 75 milhões) como prova, e a frase "fundo fiscalizado pela SEC", sem registro na SEC. Rachadinha, mansão, Barclay e indulto não constam do Atlas e ficaram fora desta checagem.
+A checagem de 05/09/2026 leu as fontes primárias que o Atlas Brasileiro cita sobre o Dark Horse. O que confere [P/R]: o encontro marcado por Thiago Miranda na casa de Vorcaro (dez/2024), as remessas via Entre Investimentos ao Havengate (US$ 10,6 milhões entre fev e mai/2025), os áudios de Flávio ("não pode vacilar"), o registro do Coaf de set/2025 e a abertura do inquérito em 23/07/2026. O que o Atlas omite ou distorce: as negações anteriores de Flávio (documentadas nas próprias fontes que o Atlas cita), a apresentação da perícia da defesa (R$ 75 milhões) como prova, e a frase "fundo fiscalizado pela SEC", sem registro na SEC. Rachadinha, mansão, Barclay e indulto não constam do Atlas e ficaram fora desta checagem; o mérito da rachadinha, reconstruído com o que era público antes das anulações, está em [anexo do dossiê Bolsonaro](../bolsonaro_2026/merito_rachadinha_2026-09-07.md).
 
 ---
 

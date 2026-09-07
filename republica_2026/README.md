@@ -115,7 +115,7 @@ A lista acima só faz sentido ao lado desta. Os vícios apontados pelas anulaç�
 
 ### 3.4 As delações: o que sobreviveu
 
-A outra metade desta seção é o que as delações disseram e o que se confirmou; está no [anexo das delações](anexo_delacoes_2026-09-07.md). O resultado em uma linha: 399 delações e 43 leniências homologadas em Curitiba, 101 políticos com foro atingidos, e três condenados com trânsito em julgado (Meurer, Geddel, Collor); os delatores trocaram séculos de pena por meses de prisão e mantiveram os acordos mesmo quando os atos contra eles foram anulados; as acusações contra ministros do STF (Barusco, Marcelo Odebrecht, Léo Pinheiro e Cabral sobre Toffoli) nunca viraram inquérito, e a delação que mais o citava foi anulada com o voto dele.
+A outra metade desta seção é o que as delações disseram e o que se confirmou; está no [anexo das delações](anexo_delacoes_2026-09-07.md). O resultado em uma linha: 399 delações e 43 leniências homologadas em Curitiba, 101 políticos com foro atingidos, e três condenados com trânsito em julgado (Meurer, Geddel, Collor); os delatores trocaram séculos de pena por meses de prisão e mantiveram os acordos mesmo quando os atos contra eles foram anulados; as acusações contra ministros do STF (Barusco, Marcelo Odebrecht, Léo Pinheiro e Cabral sobre Toffoli) nunca viraram inquérito, e a delação que mais o citava foi anulada com o voto dele. O mesmo exercício, feito para um caso anulado do outro lado do espectro, está no [anexo do mérito da rachadinha](../bolsonaro_2026/merito_rachadinha_2026-09-07.md): indício por indício, o que era prova, o que caiu e o que sobreviveria.
 
 ### 3.5 O que a lista mostra, e o que não mostra
 
