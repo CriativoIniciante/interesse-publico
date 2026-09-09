@@ -329,3 +329,11 @@ Não trocar um capturador por outro. A história de 1985 a 2026 mostra que cada 
 ## 9. Ressalvas e método
 
 Este documento não afirma que qualquer pessoa cometeu crime. Registra atos, decisões, números e falas documentados, com a crítica e a defesa de cada um. Decisões judiciais são atos legítimos de quem tem competência; entram aqui porque mudaram regras e por seus efeitos, não por suspeita sobre quem as tomou. As duas hipóteses da seção 1 foram testadas com a mesma régua, e a resposta da seção 6 diz o que os fatos sustentam e o que não sustentam. Onde a fonte de origem não pôde ser lida, está marcado. Corte em 07/09/2026. Licença CC BY 4.0. Correções por issue ou pull request.
+
+---
+
+## 10. Atualizações desde o corte
+
+Alimentadas pela [leitura do dia](../diario/README.md), com a mesma régua. Cada linha aponta o item da seção 7 que toca e a leitura de origem; a [linha do tempo](../diario/linha_do_tempo_2026.md) guarda o registro completo.
+
+- **09/09/2026** ([leitura](../diario/2026/2026-09-09.md)). Item 1: a Pet 16.704 não andou em 09/09; o "prazo até 11/09" é contagem de cinco dias úteis desde 03/09, o despacho não fixa data [P]. Em 24 horas, duas decisões monocráticas opostas sobre o comando da PF: Mendonça afastou o diretor-geral na Pet 16.662 (08/09, a pedido do Partido Novo) [R]; Dino o reintegrou na Pet 16.669 (09/09) e submeteu a decisão ao Plenário [R]; Gilmar pediu vista na Turma alegando incompetência [P]; Fachin cancelou o plenário [R]. Sinal misto para H1/H0: o mecanismo 4.5 (autoinvestigação) e o 4.1 (nomeações) operaram nos dois campos no mesmo dia, mas dois ministros empurraram o caso ao colegiado. Item 5: o Conselho Pleno da OAB-DF aprovou encaminhar ao Conselho Federal pedidos de impeachment de Moraes e Toffoli e do PGR Gonet [R]. Item 10: o manifesto "Pela Lei e pelo Brasil" (150+ nomes) pede código de conduta vinculante [R]; o Manifesto à Nação (2.764 entidades) pede sessão pública do Plenário [P]. Item 11: a associação dos delegados da PF propôs mandato fixo e lista tríplice para o diretor-geral, o que é o PL 2.167/2020 da tabela 8.1 [R]. Item 2: circula, sem termo reproduzido, que a delação de Freixo relata US$ 12,3 milhões de Vorcaro a um fundo nos EUA administrado pelo advogado de Eduardo Bolsonaro [A].

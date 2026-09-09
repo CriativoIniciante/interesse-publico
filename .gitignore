@@ -5,3 +5,7 @@ caso_master_2026/mapa/mapa_relacoes.html
 caso_master_2026/mapa/_check.png
 quem_se_repete_2005_2026/mapa/*.html
 quem_se_repete_2005_2026/mapa/_check.png
+
+# leitura do dia: coleta bruta de feeds (material de trabalho, nao publicado)
+diario/raw/
+__pycache__/

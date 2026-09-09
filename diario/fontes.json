@@ -1,0 +1,64 @@
+{
+  "_nota": "Lista de fontes lidas pelo coletor todo dia. O campo perfil diz, em uma linha, de onde o veiculo fala (dono, linha declarada), para que o leitor saiba de onde vem cada manchete. Nao e juizo de qualidade. Corrigir por issue ou pull request.",
+  "janela_horas": 36,
+  "max_por_fonte": 40,
+  "radar_termos": [
+    "STF", "Supremo", "Fachin", "Moraes", "Mendonça", "Gilmar", "Toffoli", "Zanin", "Dino", "Kassio", "Fux", "Barroso", "Cármen",
+    "Master", "Vorcaro", "Freixo", "Mansur", "delação", "delacao",
+    "PGR", "Gonet", "Polícia Federal", "Andrei",
+    "TSE", "eleição", "eleicao", "pesquisa", "Datafolha", "Quaest", "AtlasIntel", "Genial",
+    "Lula", "Flávio", "Flavio", "Bolsonaro", "Tarcísio", "Tarcisio", "Michelle", "Ratinho", "Caiado", "Zema",
+    "Alcolumbre", "Motta", "Senado", "Câmara", "Camara", "CPI",
+    "emenda", "orçamento", "orcamento", "TCU",
+    "dosimetria", "impeachment", "anistia", "foro",
+    "INSS", "Banco Central", "Selic", "dólar", "dolar", "inflação", "inflacao", "IPCA",
+    "PEC", "decreto",
+    "Trump", "tarifa", "China", "Argentina", "Venezuela", "Ucrânia", "Gaza", "ONU"
+  ],
+  "fontes": [
+    {"id": "g1", "nome": "G1", "lente": "mainstream", "perfil": "portal de noticias do Grupo Globo", "url": "https://g1.globo.com/rss/g1/"},
+    {"id": "folha_poder", "nome": "Folha de S.Paulo (Poder)", "lente": "mainstream", "perfil": "Grupo Folha; projeto editorial declarado apartidario e pluralista", "url": "https://feeds.folha.uol.com.br/poder/rss091.xml"},
+    {"id": "folha_ultimas", "nome": "Folha de S.Paulo (Em cima da hora)", "lente": "mainstream", "perfil": "Grupo Folha", "url": "https://feeds.folha.uol.com.br/emcimadahora/rss091.xml"},
+    {"id": "uol", "nome": "UOL Noticias", "lente": "mainstream", "perfil": "Grupo Folha/UOL", "url": "https://rss.uol.com.br/feed/noticias.xml"},
+    {"id": "cnnbrasil", "nome": "CNN Brasil", "lente": "mainstream", "perfil": "licenca CNN; controle de Rubens Menin", "url": "https://www.cnnbrasil.com.br/feed/"},
+    {"id": "veja", "nome": "Veja", "lente": "mainstream", "perfil": "Grupo Abril", "url": "https://veja.abril.com.br/feed/"},
+    {"id": "bbc_brasil", "nome": "BBC News Brasil", "lente": "mainstream", "perfil": "servico publico britanico, redacao em portugues", "url": "https://feeds.bbci.co.uk/portuguese/rss.xml"},
+    {"id": "agencia_brasil", "nome": "Agencia Brasil", "lente": "oficial", "perfil": "estatal (EBC), vinculada ao governo federal", "url": "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml"},
+
+    {"id": "apublica", "nome": "Agencia Publica", "lente": "independente", "perfil": "investigativa, sem fins lucrativos, financiada por fundacoes e leitores", "url": "https://apublica.org/feed/"},
+    {"id": "intercept", "nome": "The Intercept Brasil", "lente": "independente", "perfil": "investigativo; campo progressista declarado", "url": "https://www.intercept.com.br/feed/"},
+    {"id": "poder360", "nome": "Poder360", "lente": "independente", "perfil": "Brasilia; foco em dados, pesquisas e bastidores", "url": "https://www.poder360.com.br/feed/"},
+    {"id": "metropoles", "nome": "Metropoles", "lente": "independente", "perfil": "Brasilia; fundado por Luiz Estevao", "url": "https://www.metropoles.com/feed"},
+    {"id": "nexo", "nome": "Nexo Jornal", "lente": "independente", "perfil": "jornalismo explicativo, financiado por assinaturas", "url": "https://www.nexojornal.com.br/rss.xml"},
+    {"id": "jota", "nome": "JOTA", "lente": "independente", "perfil": "cobertura juridica e institucional", "url": "https://www.jota.info/feed"},
+    {"id": "conjur", "nome": "Consultor Juridico", "lente": "independente", "perfil": "cobertura juridica", "url": "https://www.conjur.com.br/rss.xml"},
+    {"id": "congresso_em_foco", "nome": "Congresso em Foco", "lente": "independente", "perfil": "cobertura do Congresso", "url": "https://congressoemfoco.uol.com.br/feed/"},
+    {"id": "fiquem_sabendo", "nome": "Fiquem Sabendo", "lente": "independente", "perfil": "dados publicos via Lei de Acesso a Informacao", "url": "https://fiquemsabendo.com.br/feed/"},
+    {"id": "gazeta_povo", "nome": "Gazeta do Povo (Republica)", "lente": "independente", "perfil": "Curitiba; linha declarada liberal-conservadora", "url": "https://www.gazetadopovo.com.br/feed/rss/republica.xml"},
+    {"id": "oeste", "nome": "Revista Oeste", "lente": "independente", "perfil": "declara-se conservadora", "url": "https://revistaoeste.com/feed/"},
+    {"id": "antagonista", "nome": "O Antagonista", "lente": "independente", "perfil": "grupo Empiricus; critico historico do PT", "url": "https://oantagonista.com.br/feed/"},
+    {"id": "crusoe", "nome": "Crusoe", "lente": "independente", "perfil": "grupo Empiricus; critico historico do PT", "url": "https://crusoe.com.br/feed/"},
+    {"id": "cartacapital", "nome": "CartaCapital", "lente": "independente", "perfil": "declara-se progressista", "url": "https://www.cartacapital.com.br/feed/"},
+    {"id": "brasil247", "nome": "Brasil 247", "lente": "independente", "perfil": "alinhamento declarado com o campo progressista", "url": "https://www.brasil247.com/feed"},
+    {"id": "ggn", "nome": "Jornal GGN", "lente": "independente", "perfil": "Luis Nassif; campo progressista", "url": "https://jornalggn.com.br/feed/"},
+
+    {"id": "aosfatos", "nome": "Aos Fatos", "lente": "checagem", "perfil": "checagem de fatos, signataria da IFCN", "url": "https://www.aosfatos.org/noticias/feed/"},
+    {"id": "lupa", "nome": "Lupa", "lente": "checagem", "perfil": "checagem de fatos, signataria da IFCN", "url": "https://lupa.uol.com.br/feed"},
+
+    {"id": "stf", "nome": "STF Noticias", "lente": "oficial", "perfil": "assessoria do Supremo Tribunal Federal", "url": "https://noticias.stf.jus.br/rss"},
+    {"id": "senado", "nome": "Agencia Senado", "lente": "oficial", "perfil": "assessoria do Senado", "url": "https://www12.senado.leg.br/noticias/feed"},
+    {"id": "camara", "nome": "Agencia Camara", "lente": "oficial", "perfil": "assessoria da Camara dos Deputados", "url": "https://www.camara.leg.br/noticias/rss/ultimas-noticias"},
+    {"id": "planalto", "nome": "Planalto", "lente": "oficial", "perfil": "assessoria da Presidencia da Republica", "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/RSS"},
+    {"id": "tcu", "nome": "TCU", "lente": "oficial", "perfil": "assessoria do Tribunal de Contas da Uniao", "url": "https://portal.tcu.gov.br/rss/"},
+
+    {"id": "gtrends_br", "nome": "Google Trends Brasil", "lente": "popular", "perfil": "buscas em alta no Google, Brasil, ultimas 24h", "url": "https://trends.google.com/trending/rss?geo=BR"},
+    {"id": "reddit_brasil", "nome": "Reddit r/brasil (top do dia)", "lente": "popular", "perfil": "comunidade geral, perfil urbano e jovem", "url": "https://www.reddit.com/r/brasil/top/.rss?t=day"},
+    {"id": "reddit_brasilivre", "nome": "Reddit r/brasilivre (top do dia)", "lente": "popular", "perfil": "comunidade de perfil liberal-conservador", "url": "https://www.reddit.com/r/brasilivre/top/.rss?t=day"},
+    {"id": "x_trends24", "nome": "X (Twitter) Brasil, tendencias via trends24.in", "lente": "popular", "perfil": "assuntos mais comentados no X, Brasil, agregados por terceiro", "url": "https://trends24.in/brazil/", "tipo": "html_trends24"},
+
+    {"id": "bbc_world", "nome": "BBC World", "lente": "mundo", "perfil": "servico publico britanico", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
+    {"id": "guardian_world", "nome": "The Guardian (World)", "lente": "mundo", "perfil": "Londres; centro-esquerda declarado", "url": "https://www.theguardian.com/world/rss"},
+    {"id": "aljazeera", "nome": "Al Jazeera English", "lente": "mundo", "perfil": "Catar; financiada pelo Estado", "url": "https://www.aljazeera.com/xml/rss/all.xml"},
+    {"id": "nyt_world", "nome": "New York Times (World)", "lente": "mundo", "perfil": "Nova York", "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"}
+  ]
+}

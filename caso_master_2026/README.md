@@ -325,4 +325,13 @@ Fontes desta parte: CNN Brasil (PGR defende Mendonça como relator, 22/06; Dino 
 
 ---
 
+## Atualizações desde o corte
+
+Alimentadas pela [leitura do dia](../diario/README.md), com a mesma régua; registro completo na [linha do tempo](../diario/linha_do_tempo_2026.md).
+
+- **08/09/2026.** A OAB-DF abriu procedimento ético-disciplinar contra os sócios da Barci & Barci Advogados (escritório ligado a Viviane Barci de Moraes) e contra o advogado Ciro Soares, com base no relatório da PF (IPJ-A 3298613/2026), "sem juízo antecipado de culpa" [P, nota oficial]. Mendonça flexibilizou cautelares de quatro investigados da Operação Sem Desconto e soltou o ex-procurador-geral do INSS [R].
+- **09/09/2026** ([leitura](../diario/2026/2026-09-09.md)). Circula desde 08/09, a partir de gazetamercantil.com, que Antonio Carlos Freixo Júnior relatou em delação US$ 12,3 milhões de Vorcaro ao Havengate Development Fund (EUA), administrado pelo advogado de Eduardo Bolsonaro; o termo não foi reproduzido e a CNN, antes, falava em US$ 2 milhões [A]. O TRE-SP negou pedido de Tarcísio contra vídeo de Haddad sobre a doação de R$ 2 milhões de Fabiano Zettel em 2022 [R]. A crise entre Mendonça e a PF (Pet 16.662 e Pet 16.669) está na leitura do dia e no dossiê da [República](../republica_2026/README.md#10-atualizações-desde-o-corte).
+
+---
+
 *Dossiê compilado com auxílio de IA (Claude) a partir exclusivamente de matérias publicadas. Correções e fontes adicionais são bem-vindas via issue ou pull request.*

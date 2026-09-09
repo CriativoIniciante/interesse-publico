@@ -1,0 +1,31 @@
+# Linha do tempo de 2026: a história como aconteceu
+
+Uma linha por fato que sobreviveu à [leitura do dia](README.md). Só acrescenta, nunca apaga: quando um fato muda de letra ou se mostra errado, a linha original fica e ganha a anotação "corrigido em DATA" com o motivo. A letra é a da régua de prova dos dossiês: [P] prova formal, [R] relato documentado, [A] alegação, [N] refutado, [O] inocência formal. A coluna "toca" aponta o dossiê do repositório e, quando houver, o item da [lista de vigilância da República](../republica_2026/README.md#7-o-que-ficar-atento-agora-setembro-de-2026-a-2027) (V1 a V12).
+
+Fatos anteriores a 08/09/2026 estão nos dossiês; esta linha começa no dia anterior ao início da rotina, porque a primeira leitura cobriu 36 horas.
+
+| Data | Letra | Fato | Fonte | Toca |
+|---|---|---|---|---|
+| 2026-09-08 | R | André Mendonça afasta preventivamente Andrei Rodrigues (diretor-geral) e Leandro Almada (Inteligência) da PF, na Pet 16.662, a pedido do Partido Novo; cita seis relatórios de inteligência (3 a 31/08) e "1984"; manda a Corregedoria da PF apurar e suspende relatórios sobre atos jurisdicionais | íntegra via Migalhas; andamento no portal do STF [P] | [leitura](2026/2026-09-09.md) · V1 · ministros_stf_2026 |
+| 2026-09-08 | P | Segunda Turma virtual: Fux e Nunes Marques acompanham; Gilmar Mendes pede vista citando "incompetência da Segunda Turma e risco de decisões conflitantes"; proclamação não consta; caso já pautado para o Plenário desde 06/09 | portal do STF, Pet 16.662 | V1 |
+| 2026-09-08 | R | AGU pede ao presidente do STF a suspensão da liminar (art. 84, I e II, CF; Lei 8.437/1992); Fachin dá 72 horas a Mendonça | petição via Poder360; despacho via CNN | V1 |
+| 2026-09-08 | R | Onze diretores da PF põem os cargos à disposição em apoio a Andrei e Almada; a associação dos delegados diz que não havia investigação formal contra os afastados e propõe mandato fixo e lista tríplice para o diretor-geral | Agência Brasil; Gazeta do Povo | V11 |
+| 2026-09-08 | R | Mendonça flexibiliza cautelares de quatro investigados da Operação Sem Desconto (INSS) e solta o ex-procurador-geral do INSS Virgílio Ribeiro de Oliveira Filho com tornozeleira | Gazeta do Povo; CNN (blog); Radioagência Nacional | V2 · quem_se_repete_2005_2026 (INSS) |
+| 2026-09-08 | P | OAB-DF abre procedimento ético-disciplinar contra os sócios da Barci & Barci Advogados e contra Ciro Soares, com base no relatório da PF (IPJ-A 3298613/2026), "sem juízo antecipado de culpa" | nota oficial oabdf.org.br | caso_master_2026 · V5 |
+| 2026-09-08 | R | Carta de 13 ministros aposentados do STF a Fachin (datada de 07/09) pede sessão pública e "imediata e rigorosa apuração"; não nomeia ninguém | íntegra via Poder360; Agência Brasil | V1 |
+| 2026-09-08 | R | AGU notifica o Google: 97 perfis de "médicos" gerados por IA no YouTube, 72 horas para remover ou rotular | Agência Brasil | saúde pública |
+| 2026-09-08 | P | Publicada a Lei 15.497/2026 (MP 1.369): prazo de 45 para 30 dias para pedidos parados entrarem no programa de gerenciamento de benefícios do INSS | Agência Câmara | INSS |
+| 2026-09-08 | P | TCU cria o Selo Fiscal Cidadão (inscrições até 09/10/2026) | portal do TCU | ação cidadã |
+| 2026-09-09 | R | Flávio Dino, na Pet 16.669 (Dark Horse), a pedido de Andrei Rodrigues, determina a reintegração de Andrei e Almada, proíbe novas cautelares por atos de função, fala em "decisão em causa própria" e submete a decisão "exclusivamente à autoridade do Plenário" | íntegra via Poder360; capa no portal do STF [P] | V1 · bolsonaro_2026 (Dark Horse) |
+| 2026-09-09 | N | CNN Brasil atribui o pedido a Dino à AGU; a íntegra mostra o requerente Andrei Rodrigues | íntegra da decisão | método |
+| 2026-09-09 | R | Fachin cancela a sessão plenária das 14h; o portal do STF não publica nota até as 11h20 | JOTA; G1; noticias.stf.jus.br [P] | V1 |
+| 2026-09-09 | P | Pet 16.704 (Fachin): manifestações protocoladas em 04, 06 e 08/09; nenhum andamento em 09/09 até as 11h20; o prazo é de cinco dias úteis contados de 03/09, sem data fixada no despacho | portal do STF | V1 |
+| 2026-09-09 | R | Manifesto à Nação Brasileira (Fiesp, CNI, CNC, CACB, Fecomercio SP) reúne 2.764 entidades pedindo que o Plenário decida "em sessão pública, sem subterfúgios e sem corporativismo"; manifesto "Pela Lei e pelo Brasil" (150+ nomes) pede código de conduta vinculante | site do manifesto [P]; Congresso em Foco | V1 · V10 |
+| 2026-09-09 | R | Conselho Pleno da OAB-DF aprova encaminhar ao Conselho Federal pedidos de impeachment de Alexandre de Moraes e Dias Toffoli e do procurador-geral Paulo Gonet, entre sete propostas | Metrópoles; G1; nota no site da OAB-DF (não aberta) | V5 |
+| 2026-09-09 | R | Quatro pesquisas com registro no TSE: Meio/Ideia (BR-07935) 38,4% × 37,3% e 46% × 46%; Palver (BR-05420) 40% × 40% e 44% × 46%; Gerp (BR-00251) 34% × 37% e 40% × 47%; Real Time DF (DF-09600) | Gazeta do Povo; CNN; Poder360 | V8 |
+| 2026-09-09 | N | Vídeo com "pesquisa" de 55% para Flávio Bolsonaro foi gerado por IA; não existe registro | Lupa | V8 |
+| 2026-09-09 | R | TRE-SP nega pedido de Tarcísio contra vídeo de Haddad sobre a doação de R$ 2 milhões de Fabiano Zettel em 2022: "não criou fato sabidamente inverídico" | CNN Brasil | V8 · caso_master_2026 |
+| 2026-09-09 | A | Circula desde a manhã de 08/09 (O Globo, não aberto; ND Mais; gazetamercantil.com) que Antonio Carlos Freixo Júnior, em delação ainda não homologada, relatou US$ 12,3 milhões de Vorcaro ao Havengate Development Fund (EUA), administrado pelo advogado de Eduardo Bolsonaro; termo não reproduzido | ND Mais; gazetamercantil.com; replicado por DCM, TVT, r/brasil | V2 · caso_master_2026 |
+| 2026-09-09 | R | Mendonça recorre a Fachin e classifica a decisão de Dino como ilegal (título do Estadão, 11h50; matéria não lida) | Estadão via r/brasilivre | V1 |
+| 2026-09-09 | R | Monitoramento Ativaweb DataLab (cinco redes, 3,6 milhões de registros em 08/09): 52,8% das menções a Mendonça críticas, 33,5% de apoio; sobre Moraes, 88,4% críticas; método não descrito | Folha (Mônica Bergamo), lida em espelhos | opinião medida |
+| 2026-09-09 | N | Vídeo com áudio de IA diz que Mendonça protocolou prisão preventiva de Moraes; ministro não tem essa atribuição | Aos Fatos | V1 · V9 |
