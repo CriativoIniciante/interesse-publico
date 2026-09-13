@@ -1,0 +1,269 @@
+# Lista inicial de fontes. Entra e sai por commit, com justificativa (METODO.md, 2.1).
+# Sem classificação política de propósito: o arquivo publica métricas observáveis por fonte, não rótulos.
+# teste: resultado do acesso em 2026-09-08, de um ambiente com proxy. Refazer na máquina de coleta.
+# tipo: agencia_publica | grande_veiculo | independente | verificador | oficial | arquivo_terceiro | retrospectivo | modelo
+
+versao: 0
+testado_em: 2026-09-08
+user_agent_sugerido: "arquivo-historia-brasil/0.x (+URL do repositorio; contato)"
+
+fontes:
+  # Agências públicas
+  - id: agencia_brasil
+    nome: Agência Brasil (EBC)
+    tipo: agencia_publica
+    feeds:
+      - https://agenciabrasil.ebc.com.br/rss/geral/feed.xml
+      - https://agenciabrasil.ebc.com.br/rss/politica/feed.xml
+      - https://agenciabrasil.ebc.com.br/rss/economia/feed.xml
+      - https://agenciabrasil.ebc.com.br/rss/justica/feed.xml
+      - https://agenciabrasil.ebc.com.br/rss/direitos-humanos/feed.xml
+      - https://agenciabrasil.ebc.com.br/rss/educacao/feed.xml
+      - https://agenciabrasil.ebc.com.br/rss/internacional/feed.xml
+    verificado: true
+    teste: "200, rss+xml, 10 itens (geral e politica); nao existe feed 'ultimas'"
+    observacoes: "conferir licenca de reuso nos termos de uso do portal"
+  - id: agencia_camara
+    nome: Agência Câmara de Notícias
+    tipo: agencia_publica
+    feeds:
+      - https://www.camara.leg.br/noticias/rss/dinamico/ULTIMAS_NOTICIAS
+    verificado: false
+    teste: "200, rss 2.0 valido mas com 0 itens no momento do teste; conferir parametros ou usar API de Dados Abertos da Camara"
+  - id: agencia_senado
+    nome: Agência Senado
+    tipo: agencia_publica
+    feeds:
+      - https://www12.senado.leg.br/noticias/rss.xml
+    verificado: true
+    teste: "200, atom+xml, 15 itens"
+
+  # Grandes veículos
+  - id: g1
+    nome: G1 (Globo)
+    tipo: grande_veiculo
+    feeds: [https://g1.globo.com/rss/g1/]
+    verificado: true
+    teste: "200, xml, 93 itens"
+  - id: folha
+    nome: Folha de S.Paulo
+    tipo: grande_veiculo
+    feeds: [https://feeds.folha.uol.com.br/emcimadahora/rss091.xml]
+    verificado: true
+    teste: "200, xml ISO-8859-1, 100 itens; paywall parcial no texto integral"
+  - id: estadao
+    nome: O Estado de S. Paulo
+    tipo: grande_veiculo
+    feeds:
+      - "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/geral/?body=%7B%22layout%22:%22google-news%22%7D"
+      - "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/politica/?body=%7B%22layout%22:%22google-news%22%7D"
+    verificado: true
+    teste: "200, xml, 1 item por feed no teste; endereco vem do <link rel=alternate> da home; /rss/ e /rss/ultimas.xml dao 404"
+    observacoes: "feed pobre; considerar sitemap de noticias como complemento"
+  - id: oglobo
+    nome: O Globo
+    tipo: grande_veiculo
+    feeds: [https://oglobo.globo.com/rss/oglobo/]
+    verificado: true
+    teste: "200, xml, 90 itens"
+  - id: uol
+    nome: UOL Notícias
+    tipo: grande_veiculo
+    feeds: [https://rss.uol.com.br/feed/noticias.xml]
+    verificado: true
+    teste: "200, xml, 15 itens"
+  - id: cnn_brasil
+    nome: CNN Brasil
+    tipo: grande_veiculo
+    feeds: [https://www.cnnbrasil.com.br/feed/]
+    verificado: true
+    teste: "200, rss+xml, 60 itens (redireciona para admin.cnnbrasil.com.br/feed/)"
+  - id: correio_braziliense
+    nome: Correio Braziliense
+    tipo: grande_veiculo
+    feeds: [https://www.correiobraziliense.com.br/feed/]
+    verificado: true
+    teste: "200, content-type text/html mas corpo e RSS; 1 item no teste"
+  - id: poder360
+    nome: Poder360
+    tipo: grande_veiculo
+    feeds: [https://www.poder360.com.br/feed/]
+    verificado: true
+    teste: "200, rss+xml, 10 itens"
+  - id: metropoles
+    nome: Metrópoles
+    tipo: grande_veiculo
+    feeds: [https://www.metropoles.com/feed]
+    verificado: true
+    teste: "200, rss+xml, 20 itens"
+  - id: gazeta_do_povo
+    nome: Gazeta do Povo
+    tipo: grande_veiculo
+    feeds:
+      - https://www.gazetadopovo.com.br/feed/rss/brasil.xml
+      - https://www.gazetadopovo.com.br/feed/rss/economia.xml
+    verificado: true
+    teste: "200, xml, 24 itens (brasil); indice de feeds em /rss/; /feed/rss/ da 403"
+
+  # Independentes e nicho
+  - id: agencia_publica
+    nome: Agência Pública
+    tipo: independente
+    feeds: [https://apublica.org/feed/]
+    verificado: true
+    teste: "200, rss+xml, 10 itens"
+  - id: intercept_brasil
+    nome: Intercept Brasil
+    tipo: independente
+    feeds: [https://www.intercept.com.br/feed/]
+    verificado: true
+    teste: "200, rss+xml, 40 itens"
+  - id: ponte
+    nome: Ponte Jornalismo
+    tipo: independente
+    feeds: [https://ponte.org/feed/]
+    verificado: true
+    teste: "200, rss+xml, 10 itens"
+  - id: reporter_brasil
+    nome: Repórter Brasil
+    tipo: independente
+    feeds: [https://reporterbrasil.org.br/feed/]
+    verificado: true
+    teste: "200, rss+xml, 10 itens"
+  - id: brasil_de_fato
+    nome: Brasil de Fato
+    tipo: independente
+    feeds: [https://www.brasildefato.com.br/feed/]
+    verificado: true
+    teste: "200, rss+xml, 99 itens; /rss2.xml da 404"
+  - id: midia_ninja
+    nome: Mídia Ninja
+    tipo: independente
+    feeds: [https://midianinja.org/feed/]
+    verificado: true
+    teste: "200, rss+xml, 50 itens"
+  - id: jornalistas_livres
+    nome: Jornalistas Livres
+    tipo: independente
+    feeds: [https://jornalistaslivres.org/feed/]
+    verificado: false
+    teste: "falha de conexao no proxy do ambiente de teste; refazer"
+  - id: cartacapital
+    nome: CartaCapital
+    tipo: independente
+    feeds: [https://www.cartacapital.com.br/feed/]
+    verificado: true
+    teste: "200, rss+xml, 20 itens"
+  - id: piaui
+    nome: Revista Piauí
+    tipo: independente
+    feeds: [https://piaui.folha.uol.com.br/feed/]
+    verificado: true
+    teste: "200, rss+xml, 1 item (redireciona para piaui.uol.com.br/feed/)"
+  - id: nexo
+    nome: Nexo Jornal
+    tipo: independente
+    feeds: [https://www.nexojornal.com.br/rss.xml]
+    verificado: true
+    teste: "200, xml, 20 itens; paywall"
+  - id: congresso_em_foco
+    nome: Congresso em Foco
+    tipo: independente
+    feeds: [https://congressoemfoco.uol.com.br/feed/]
+    verificado: true
+    teste: "200, xml, 20 itens (redireciona para congressoemfoco.com.br/feed/)"
+  - id: revista_oeste
+    nome: Revista Oeste
+    tipo: independente
+    feeds: [https://revistaoeste.com/feed/]
+    verificado: true
+    teste: "200, rss+xml, 10 itens"
+  - id: o_antagonista
+    nome: O Antagonista
+    tipo: independente
+    feeds: [https://oantagonista.com.br/feed/]
+    verificado: true
+    teste: "200, rss+xml, 15 itens"
+
+  # Modelos para jornalistas independentes em plataformas (preencher por pessoa, com justificativa)
+  - id: modelo_substack
+    nome: Newsletter em Substack
+    tipo: modelo
+    feeds: ["https://<nome>.substack.com/feed"]
+    verificado: false
+    observacoes: "um registro por jornalista; guardar tambem o nome e a plataforma"
+  - id: modelo_youtube
+    nome: Canal de YouTube
+    tipo: modelo
+    feeds: ["https://www.youtube.com/feeds/videos.xml?channel_id=<ID>"]
+    verificado: false
+    observacoes: "so metadados e descricao; video em si nao e coletado; considerar transcricao automatica marcada como automatica"
+  - id: modelo_bluesky
+    nome: Conta no Bluesky
+    tipo: modelo
+    feeds: ["https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?actor=<handle>"]
+    verificado: false
+    observacoes: "API publica sem autenticacao; Jetstream para fluxo continuo"
+  - id: modelo_telegram
+    nome: Canal público no Telegram
+    tipo: modelo
+    feeds: ["https://t.me/s/<canal>"]
+    verificado: false
+    observacoes: "pre-visualizacao publica em HTML; so canais publicos"
+
+  # Verificadores
+  - id: lupa
+    nome: Agência Lupa
+    tipo: verificador
+    feeds: [https://lupa.uol.com.br/feed]
+    verificado: true
+    teste: "200, rss+xml, 10 itens (redireciona para agencialupa.org/feed/)"
+  - id: aos_fatos
+    nome: Aos Fatos
+    tipo: verificador
+    feeds: [https://www.aosfatos.org/noticias/feed/]
+    verificado: true
+    teste: "200, rss+xml, 20 itens"
+  - id: google_fact_check
+    nome: Google Fact Check Tools API (ClaimReview de todos os verificadores)
+    tipo: verificador
+    feeds: ["https://factchecktools.googleapis.com/v1alpha1/claims:search?languageCode=pt-BR&query=<termo>"]
+    verificado: false
+    observacoes: "chave gratuita; agrega Comprova, Fato ou Fake, Estadao Verifica e outros que publicam ClaimReview"
+
+  # Documentos primários
+  - id: dou
+    nome: Diário Oficial da União
+    tipo: oficial
+    feeds: ["https://www.in.gov.br/leiturajornal?data=<DD-MM-AAAA>"]
+    verificado: false
+    observacoes: "sem RSS; leitura por data; INLABS oferece download em lote com cadastro"
+  - id: camara_dados_abertos
+    nome: API de Dados Abertos da Câmara
+    tipo: oficial
+    feeds: ["https://dadosabertos.camara.leg.br/api/v2/"]
+    verificado: false
+  - id: senado_dados_abertos
+    nome: Dados Abertos do Senado
+    tipo: oficial
+    feeds: ["https://legis.senado.leg.br/dadosabertos/"]
+    verificado: false
+
+  # Arquivos terceiros
+  - id: wayback
+    nome: Internet Archive, Save Page Now 2 e CDX
+    tipo: arquivo_terceiro
+    feeds:
+      - "https://web.archive.org/save"
+      - "https://web.archive.org/cdx/search/cdx?url=<url>&output=json"
+    verificado: false
+    observacoes: "conta gratuita; 6 capturas por minuto autenticado"
+
+  # Retrospectivo
+  - id: hemeroteca_bn
+    nome: Hemeroteca Digital Brasileira (Fundação Biblioteca Nacional)
+    tipo: retrospectivo
+    feeds: ["https://memoria.bn.gov.br/hdb/"]
+    verificado: false
+    teste: "503 no momento do teste"
+    observacoes: "sem API publica documentada; pedido formal a BN antes de coletar (METODO.md, 2.3); citar 'Acervo da Fundacao Biblioteca Nacional - Brasil'"
